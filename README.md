@@ -3,7 +3,7 @@
 거리에서 모은 공공디자인의 장면을 유형별로 기록하는 아카이브입니다.
 이현성 / 홍익대학교 공공디자인전공
 
-- 사이트: https://armula92.github.io/public-design-archive/
+- 사이트: https://www.armula.com/public-design-archive/
 - 원본 사진: Google Drive `내 드라이브/공공디자인 사례 연구` (저장소에는 웹용으로 줄인 사진만 들어 있습니다)
 
 ## 폴더 구성

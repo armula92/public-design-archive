@@ -1,6 +1,6 @@
 # Public Design Archive by armula / 작업 메모
 
-- 사이트: GitHub Pages (`main` 브랜치 루트) / https://armula92.github.io/public-design-archive/
+- 사이트: GitHub Pages (`main` 브랜치 루트) / https://www.armula.com/public-design-archive/
 - 내용 수정은 `data/catalog.json` 에서만 합니다. `data/archive.js` 는 `python3 tools/build.py` 가 만듭니다.
 - 원본 사진은 Google Drive `내 드라이브/공공디자인 사례 연구` 에 있고 읽기만 합니다. 저장소에는 웹용 사진(`img/w` 1600px, `img/t` 720px)만 둡니다.
 - 맥과 윈도우 노트북을 오가며 작업합니다. 작업 전후로 `tools/sync.sh` (맥) 또는 `tools/sync.ps1` (윈도우) 로 받기와 올리기를 합니다. 저장소는 Drive 밖 `~/github/public-design-archive` 에 둡니다.
