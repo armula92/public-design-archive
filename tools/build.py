@@ -21,6 +21,12 @@ import zipfile
 
 from PIL import Image, ImageOps
 
+try:  # 아이폰 HEIC 사진 (pip install pillow-heif)
+    from pillow_heif import register_heif_opener
+    register_heif_opener()
+except ImportError:
+    pass
+
 Image.MAX_IMAGE_PIXELS = None
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FULL, THUMB = 1600, 720
@@ -92,9 +98,10 @@ def save(im, out, size, q):
     im.save(out, 'JPEG', quality=q, optimize=True, progressive=True)
 
 
-def main():
-    force = '--force' in sys.argv
-    cat = json.load(open(os.path.join(ROOT, 'data', 'catalog.json'), encoding='utf-8'))
+def main(argv=None):
+    force = '--force' in (sys.argv[1:] if argv is None else argv)
+    with open(os.path.join(ROOT, 'data', 'catalog.json'), encoding='utf-8') as f:
+        cat = json.load(f)
     src_root = find_source()
     print('원본 폴더:', src_root or '(찾지 못함 / 기존 웹용 사진만 사용)')
     os.makedirs(os.path.join(ROOT, 'img', 'w'), exist_ok=True)
@@ -138,9 +145,20 @@ def main():
     for pj in cat['projects']:
         imgs = [[m['id'], *sizes[m['id']]] for m in pj['images'] if m['id'] in sizes]
         projects.append({k: pj.get(k, '') for k in ('slug', 'title', 'title_en', 'client', 'place', 'year', 'award', 'copy', 'desc')} | {'images': imgs})
-    data = {'span': cat.get('span', ''), 'strip': [i for i in cat.get('strip', []) if i in sizes],
+    # 최근 추가: tools/inbox.py 로 더한 사진(added 날짜가 있는 사진) 중 최신 24장
+    recent = sorted((p for p in cat['photos'] if p.get('added') and p.get('type') != 'exclude' and p['id'] in sizes),
+                    key=lambda p: (p['added'], p['id']), reverse=True)[:24]
+    # 기록 기간: 새 사진의 촬영 연도가 더 늦으면 끝 연도를 늘립니다
+    span = cat.get('span', '')
+    years = [int(p['date'][:4]) for p in cat['photos'] if p.get('type') != 'exclude' and p.get('date', '')[:4].isdigit()]
+    if years and '–' in span:
+        start, end = span.split('–', 1)
+        if end.isdigit() and max(years) > int(end):
+            span = f'{start}–{max(years)}'
+    data = {'span': span, 'strip': [i for i in cat.get('strip', []) if i in sizes],
+            'recent': [p['id'] for p in recent], 'updated': recent[0]['added'] if recent else '',
             'types': types, 'projects': projects, 'refs': cat.get('refs', [])}
-    with open(os.path.join(ROOT, 'data', 'archive.js'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'data', 'archive.js'), 'w', encoding='utf-8', newline='\n') as f:
         f.write('/* tools/build.py 가 data/catalog.json 에서 자동 생성합니다. 직접 고치지 마세요. */\n')
         f.write('window.ARCHIVE = ' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';\n')
     print(f'변환 {made}장 / 전체 {len(sizes)}장 / 유형 {len(types)}개 / 사업 {len(projects)}건')

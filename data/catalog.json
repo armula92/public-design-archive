@@ -95,5712 +95,6528 @@
    "src": "공공디자인 사진(ud)/20210807_185754.jpg",
    "type": "exclude",
    "caption": "바닷가 노을 개인 풍경 사진",
-   "order": 30
+   "order": 30,
+   "md5": "a67229853f58905229bd7b5f99a39ef8"
   },
   {
    "id": "p0002",
    "src": "공공디자인 사진(ud)/20211018_124347.jpg",
    "type": "bike",
    "caption": "교차로까지 이어지는 붉은 자전거도로",
-   "order": 20
+   "order": 20,
+   "md5": "2611a9a8a36c0653563643d42f13daf5"
   },
   {
    "id": "p0003",
    "src": "공공디자인 사진(ud)/20211026_085927.jpg",
    "type": "inclusive",
    "caption": "화장실 입구로 안내하는 점자블록",
-   "order": 20
+   "order": 20,
+   "md5": "f4a825d1b688cc9cf768e0eb0bf63304"
   },
   {
    "id": "p0004",
    "src": "공공디자인 사진(ud)/20211101_132818.jpg",
    "type": "walk",
    "caption": "꽃 장식 펜스를 두른 학교 앞 보행로",
-   "order": 30
+   "order": 30,
+   "md5": "7c23baed186d36ecd3b14b4f68fa0bdc"
   },
   {
    "id": "p0005",
    "src": "공공디자인 사진(ud)/20211101_132930.jpg",
    "type": "walk",
    "caption": "보행자 우선으로 포장한 주택가 골목",
-   "order": 30
+   "order": 30,
+   "md5": "f2a51572a88e5f9ed18a7e33fd55e48b"
   },
   {
    "id": "p0006",
    "src": "공공디자인 사진(ud)/20211101_133149.jpg",
    "type": "sign",
    "caption": "어린이보호구역 속도 30 안내 사인",
-   "order": 20
+   "order": 20,
+   "md5": "efcee1f4428a36541d415f3c7c9fd09c"
   },
   {
    "id": "p0007",
    "src": "공공디자인 사진(ud)/20211101_133326.jpg",
    "type": "walk",
    "caption": "옹벽 따라 이어지는 좁은 통학로",
-   "order": 30
+   "order": 30,
+   "md5": "d1b95a0641e17dc3938deda2bd26cfc3"
   },
   {
    "id": "p0008",
    "src": "공공디자인 사진(ud)/20211101_133504.jpg",
    "type": "walk",
    "caption": "학교 앞 교차로의 원형 색채 포장",
-   "order": 20
+   "order": 20,
+   "md5": "a1b311419de2418f9be7d9bc8cfa3ad1"
   },
   {
    "id": "p0009",
    "src": "공공디자인 사진(ud)/20211101_133558.jpg",
    "type": "furniture",
    "caption": "옹벽을 따라 놓은 곡선 목재 벤치",
-   "order": 30
+   "order": 30,
+   "md5": "2b553d156cf33ac82111f3bb2224556b"
   },
   {
    "id": "p0010",
    "src": "공공디자인 사진(ud)/20211101_133606.jpg",
    "type": "sign",
    "caption": "파장마을 안전하길 통학로 사인",
-   "order": 20
+   "order": 20,
+   "md5": "67bfa5639ea4c562ac51342f8b0696d0"
   },
   {
    "id": "p0011",
    "src": "공공디자인 사진(ud)/20211101_133915.jpg",
    "type": "sign",
    "caption": "통학로 옆 종합안내판 지도",
-   "order": 20
+   "order": 20,
+   "md5": "ae1424a11f7fae151615a5c53f14f653"
   },
   {
    "id": "p0012",
    "src": "공공디자인 사진(ud)/20211101_133933.jpg",
    "type": "walk",
    "caption": "안내판과 벤치를 둔 통학로 보도",
-   "order": 30
+   "order": 30,
+   "md5": "b04d9a217d7bf8cad5e23d3bbd4c4187"
   },
   {
    "id": "p0013",
    "src": "공공디자인 사진(ud)/20211123_161927.jpg",
    "type": "sign",
    "caption": "에스컬레이터 안전수칙 픽토그램 사인",
-   "order": 20
+   "order": 20,
+   "md5": "b7ef4d137ca28f9ee4bc2819d821bb14"
   },
   {
    "id": "p0014",
    "src": "공공디자인 사진(ud)/20211205_140749.jpg",
    "type": "color",
    "caption": "황흑 줄무늬로 눈에 띄게 한 보도 펜스",
-   "order": 30
+   "order": 30,
+   "md5": "b4262a9662f45b5767c970b57fa67b97"
   },
   {
    "id": "p0015",
    "src": "공공디자인 사진(ud)/20220419_151105.jpg",
    "type": "color",
    "caption": "기둥 하단을 감싼 황흑 안전 도색",
-   "order": 20
+   "order": 20,
+   "md5": "9294ae0fa6b57862611416b2558dc2c7"
   },
   {
    "id": "p0016",
    "src": "공공디자인 사진(ud)/20220419_151122.jpg",
    "type": "sign",
    "caption": "노란 벽에 그린 계단실 출구 안내",
-   "order": 20
+   "order": 20,
+   "md5": "e77a3c3546a0c61837f8eccc53dbf1d5"
   },
   {
    "id": "p0017",
    "src": "공공디자인 사진(ud)/20220419_151150.jpg",
    "type": "sign",
    "caption": "노란 벽을 채운 계단 픽토그램과 화살표",
-   "order": 20
+   "order": 20,
+   "md5": "e77236cf8c37f9f6a47c946ed0ba9546"
   },
   {
    "id": "p0018",
    "src": "공공디자인 사진(ud)/20220419_152727.jpg",
    "type": "walk",
    "caption": "주차장 차로를 가로지르는 보행자 횡단 표시",
-   "order": 20
+   "order": 20,
+   "md5": "b17f6cdac1a1619d2decc65e4151afc8"
   },
   {
    "id": "p0019",
    "src": "공공디자인 사진(ud)/20220419_152732.jpg",
    "type": "walk",
    "caption": "가족 픽토그램으로 알린 주차장 보행로",
-   "order": 20
+   "order": 20,
+   "md5": "c33951623b24e8886c2972ca5e1deebb"
   },
   {
    "id": "p0020",
    "src": "공공디자인 사진(ud)/20220419_152811.jpg",
    "type": "color",
    "caption": "소화기를 단 기둥의 황흑 안전 도색",
-   "order": 20
+   "order": 20,
+   "md5": "d015c083bc3a49b03eb7238d9490bfb3"
   },
   {
    "id": "p0021",
    "src": "공공디자인 사진(ud)/20220419_170138.jpg",
    "type": "cpted",
    "caption": "골목을 밝히는 노란 살대 대문",
-   "order": 30
+   "order": 30,
+   "md5": "1f055c0215c6fe89ce7050739811f8bf"
   },
   {
    "id": "p0022",
    "src": "공공디자인 사진(ud)/20220906_135450.jpg",
    "type": "exclude",
    "caption": "맥락이 불분명한 실내 사진",
-   "order": 30
+   "order": 30,
+   "md5": "0d8b173a23d5e16aba91e49df8339796"
   },
   {
    "id": "p0023",
    "src": "공공디자인 사진(ud)/20220920_191329.jpg",
    "type": "sign",
    "caption": "색으로 남녀를 나눈 화장실 입구 사인",
-   "order": 20
+   "order": 20,
+   "md5": "c2106cbf6582b6b899401c0ccbdeed02"
   },
   {
    "id": "p0024",
    "src": "공공디자인 사진(ud)/20221013_220235.jpg",
    "type": "street",
    "caption": "유리 건물 불빛이 번지는 밤의 광장",
-   "order": 30
+   "order": 30,
+   "md5": "4ccaf4e8f5788247b230498b851b0f1e"
   },
   {
    "id": "p0025",
    "src": "공공디자인 사진(ud)/20221015_175152.jpg",
    "type": "sign",
    "caption": "9호선 타는 곳을 알리는 기둥 사인",
-   "order": 30
+   "order": 30,
+   "md5": "3e543dff999e1870f04c89e4ee55ca90"
   },
   {
    "id": "p0026",
    "src": "공공디자인 사진(ud)/20221015_175316.jpg",
    "type": "sign",
    "caption": "동작역 4호선 갈아타는 곳 안내",
-   "order": 20
+   "order": 20,
+   "md5": "f3534f61773b0279f22adc99db9e4d73"
   },
   {
    "id": "p0027",
    "src": "공공디자인 사진(ud)/20221015_175401.jpg",
    "type": "sign",
    "caption": "노란 출구 번호를 단 승강장 기둥",
-   "order": 30
+   "order": 30,
+   "md5": "2e60a75e9552a8477ef7ce275fa2b7f1"
   },
   {
    "id": "p0028",
    "src": "공공디자인 사진(ud)/20221015_175409.jpg",
    "type": "sign",
    "caption": "급행 승차 위치를 알리는 붉은 띠",
-   "order": 30
+   "order": 30,
+   "md5": "81090d02a3631f865157f73efb7a35cb"
   },
   {
    "id": "p0029",
    "src": "공공디자인 사진(ud)/20221105_204936.jpg",
    "type": "walk",
    "caption": "주차장 바닥에 그린 초록 보행 통로",
-   "order": 20
+   "order": 20,
+   "md5": "6c07b8063a8ba629edb377a7117034a1"
   },
   {
    "id": "p0030",
    "src": "공공디자인 사진(ud)/20230516_151609.jpg",
    "type": "sign",
    "caption": "벽면 가득 그린 대형 화장실 픽토그램",
-   "order": 20
+   "order": 20,
+   "md5": "111e08660c0ec77131b45995b887c1d5"
   },
   {
    "id": "p0031",
    "src": "공공디자인 사진(ud)/20230516_152045.jpg",
    "type": "sign",
    "caption": "복도 끝까지 보이는 큰 화장실 픽토그램",
-   "order": 20
+   "order": 20,
+   "md5": "89acffa6eb70171f8792b5d1698aa7a1"
   },
   {
    "id": "p0032",
    "src": "공공디자인 사진(ud)/20230521_132646.jpg",
    "type": "sign",
    "caption": "벽돌 기둥에 붙인 방향 안내 사인",
-   "order": 20
+   "order": 20,
+   "md5": "01a2f5b7972e63067151fb1d8a314896"
   },
   {
    "id": "p0033",
    "src": "공공디자인 사진(ud)/20230613_102254.jpg",
    "type": "furniture",
    "caption": "벽면 틈에 끼워 넣은 4색 분리수거함",
-   "order": 20
+   "order": 20,
+   "md5": "cdf05f39103ec6e60463e7dd1c29132b"
   },
   {
    "id": "p0034",
    "src": "공공디자인 사진(ud)/20240118_152030.jpg",
    "type": "inclusive",
    "caption": "개찰구까지 곧게 이어지는 점자블록",
-   "order": 20
+   "order": 20,
+   "md5": "4b7f193d6a5658592dc6fc200078ea5d"
   },
   {
    "id": "p0035",
    "src": "공공디자인 사진(ud)/20240118_152044.jpg",
    "type": "exclude",
    "caption": "같은 점자블록의 중복 사진",
-   "order": 30
+   "order": 30,
+   "md5": "0d3be3a0dca57e341508ea3b879b1eff"
   },
   {
    "id": "p0036",
    "src": "공공디자인 사진(ud)/20240118_152643.jpg",
    "type": "furniture",
    "caption": "투입구 모양을 달리한 스테인리스 분리수거함",
-   "order": 20
+   "order": 20,
+   "md5": "8ffab9ec8f520fa59f2284eedd9c75bb"
   },
   {
    "id": "p0037",
    "src": "공공디자인 사진(ud)/20240118_152656.jpg",
    "type": "inclusive",
    "caption": "검은 테두리로 대비를 높인 점자블록",
-   "order": 20
+   "order": 20,
+   "md5": "405a9b27153cb2e33c5717f2a2857aa3"
   },
   {
    "id": "p0038",
    "src": "공공디자인 사진(ud)/20240118_153204.jpg",
    "type": "street",
    "caption": "고층 빌딩 사이 캐노피와 녹지 광장",
-   "order": 20
+   "order": 20,
+   "md5": "01ffb6f678aa2bc032fc1e3ee1deea5a"
   },
   {
    "id": "p0039",
    "src": "공공디자인 사진(ud)/20240118_164057.jpg",
    "type": "furniture",
    "caption": "품목별 투입구를 나눈 짙은 녹색 수거함",
-   "order": 20
+   "order": 20,
+   "md5": "36ae4bb7e79bbc1343c4160ec6d9be3c"
   },
   {
    "id": "p0040",
    "src": "공공디자인 사진(ud)/20240120_174321.jpg",
    "type": "sign",
    "caption": "공항 체크인 동선을 이끄는 바닥 화살표",
-   "order": 20
+   "order": 20,
+   "md5": "58839ecf39bbb52bf23c3797683b50b7"
   },
   {
    "id": "p0041",
    "src": "공공디자인 사진(ud)/20240120_174639.jpg",
    "type": "inclusive",
    "caption": "노란 벽으로 대비를 준 손잡이 소변기",
-   "order": 20
+   "order": 20,
+   "md5": "b3742a15ae8d9a164645b8d790eefb7f"
   },
   {
    "id": "p0042",
    "src": "공공디자인 사진(ud)/20240120_174642.jpg",
    "type": "inclusive",
    "caption": "노란 벽과 검은 문으로 구분한 화장실",
-   "order": 30
+   "order": 30,
+   "md5": "58ed71406b41021b995af0848293b05c"
   },
   {
    "id": "p0043",
    "src": "공공디자인 사진(ud)/20240120_174644.jpg",
    "type": "inclusive",
    "caption": "손잡이를 단 세면대와 노란 대비 벽",
-   "order": 20
+   "order": 20,
+   "md5": "fda5b2aede23c551526ec34e42529fb1"
   },
   {
    "id": "p0044",
    "src": "공공디자인 사진(ud)/20240120_174650.jpg",
    "type": "exclude",
    "caption": "같은 화장실의 중복 사진",
-   "order": 30
+   "order": 30,
+   "md5": "3e1668305c75a9a2277191ec7e2bd9fc"
   },
   {
    "id": "p0045",
    "src": "공공디자인 사진(ud)/20240605_093227.jpg",
    "type": "cpted",
    "caption": "건물 사이 통로를 막은 장식 출입문",
-   "order": 30
+   "order": 30,
+   "md5": "f625b6c45331b9ef3367ffa1a85a18dc"
   },
   {
    "id": "p0046",
    "src": "공공디자인 사진(ud)/20240613_143540.jpg",
    "type": "furniture",
    "caption": "분리배출 표시를 새긴 정원 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "84e34ac5882b2323f940ef5e54861b97"
   },
   {
    "id": "p0047",
    "src": "공공디자인 사진(ud)/20240613_143542.jpg",
    "type": "exclude",
    "caption": "같은 쓰레기통의 중복 사진",
-   "order": 30
+   "order": 30,
+   "md5": "0d93a50f8b6c74565b61cfffd53b3a5f"
   },
   {
    "id": "p0048",
    "src": "공공디자인 사진(ud)/20240614_122226.jpg",
    "type": "nudge",
    "caption": "계단 통행 방향을 알리는 발자국 그림",
-   "order": 30
+   "order": 30,
+   "md5": "e02bab6cffee934daa5c0e021ce28cac"
   },
   {
    "id": "p0049",
    "src": "공공디자인 사진(ud)/20240614_184043.jpg",
    "type": "furniture",
    "caption": "석조 난간 앞 원통형 쓰레기통 한 쌍",
-   "order": 30
+   "order": 30,
+   "md5": "63899bef0684ed2ed4211937f43aa01d"
   },
   {
    "id": "p0050",
    "src": "공공디자인 사진(ud)/20240614_184102.jpg",
    "type": "exclude",
    "caption": "같은 쓰레기통의 중복 사진",
-   "order": 30
+   "order": 30,
+   "md5": "cba95de0b8f19189c7ff4f27547007d7"
   },
   {
    "id": "p0051",
    "src": "공공디자인 사진(ud)/20240618_194234.jpg",
    "type": "cpted",
    "caption": "안전구역을 알리는 노란 비상벨 기둥",
-   "order": 20
+   "order": 20,
+   "md5": "1c3a3faa5717673f7850bdb85f3c5c0e"
   },
   {
    "id": "p0052",
    "src": "공공디자인 사진(ud)/20240624_203852.jpg",
    "type": "nudge",
    "caption": "발 위치를 알려 주는 소변기 앞 매트",
-   "order": 20
+   "order": 20,
+   "md5": "4ea7bfa37c1161a42d31b3c1564b034e"
   },
   {
    "id": "p0053",
    "src": "공공디자인 사진(ud)/20240624_203859.jpg",
    "type": "exclude",
    "caption": "같은 소변기 매트의 중복 사진",
-   "order": 30
+   "order": 30,
+   "md5": "e9044feaafff86bcf7a7d0fe3eafffa4"
   },
   {
    "id": "p0054",
    "src": "공공디자인 사진(ud)/20240628_134547.jpg",
    "type": "inclusive",
    "caption": "임산부 배려공간을 알리는 바닥 스티커",
-   "order": 30
+   "order": 30,
+   "md5": "fa8cfdd3d936b84c34f33ecad60b1351"
   },
   {
    "id": "p0055",
    "src": "공공디자인 사진(ud)/20240703_073716.jpg",
    "type": "inclusive",
    "caption": "유리 엘리베이터 하부를 감싼 보호 난간",
-   "order": 30
+   "order": 30,
+   "md5": "dc3a36beb39f69bb3db7699f5b9456ec"
   },
   {
    "id": "p0056",
    "src": "공공디자인 사진(ud)/20240802_132218.jpg",
    "type": "furniture",
    "caption": "녹슨 강판으로 만든 다섯 칸 분리수거함",
-   "order": 20
+   "order": 20,
+   "md5": "4ea647d4bc0c5fd388f37cf1fa77a61e"
   },
   {
    "id": "p0057",
    "src": "공공디자인 사진(ud)/20240803_090358.jpg",
    "type": "furniture",
    "caption": "콜로세움 앞 지붕 달린 주철 쓰레기통",
-   "order": 10
+   "order": 10,
+   "md5": "c9d88db9a4cdacdd657c97a25f79f500"
   },
   {
    "id": "p0058",
    "src": "공공디자인 사진(ud)/20240803_094146.jpg",
    "type": "furniture",
    "caption": "돌바닥 골목의 지붕형 주철 쓰레기통",
-   "order": 30
+   "order": 30,
+   "md5": "3045d8a12df87acb9ba75d1f3c17509e"
   },
   {
    "id": "p0059",
    "src": "공공디자인 사진(ud)/20240803_165526.jpg",
    "type": "furniture",
    "caption": "대리석 기둥 옆 원통형 철제 쓰레기통",
-   "order": 30
+   "order": 30,
+   "md5": "daecfbca013428c018de707038ec70dc"
   },
   {
    "id": "p0060",
    "src": "공공디자인 사진(ud)/20240805_140907.jpg",
    "type": "furniture",
    "caption": "품목을 금색 글자로 적은 검정 분리수거함",
-   "order": 30
+   "order": 30,
+   "md5": "dc5d0789ee578801f6eaeb64acc20b23"
   },
   {
    "id": "p0061",
    "src": "공공디자인 사진(ud)/20240805_140913.jpg",
    "type": "furniture",
    "caption": "색으로 품목을 나눈 세 칸 분리수거함",
-   "order": 20
+   "order": 20,
+   "md5": "8a812abf8a42ad41f326e1ce7ac07695"
   },
   {
    "id": "p0062",
    "src": "공공디자인 사진(ud)/20240805_165330.jpg",
    "type": "street",
    "caption": "가로수 그늘이 이어지는 넓은 흙길 산책로",
-   "order": 20
+   "order": 20,
+   "md5": "befd60539efddb1eb0e8c3f352c2c055"
   },
   {
    "id": "p0063",
    "src": "공공디자인 사진(ud)/20240805_165401.jpg",
    "type": "furniture",
    "caption": "산책로 그늘 아래 둥근 철제 쓰레기통",
-   "order": 30
+   "order": 30,
+   "md5": "6fa0000bcbc0435db69ab6d246fdddb0"
   },
   {
    "id": "p0064",
    "src": "공공디자인 사진(ud)/20240805_171932.jpg",
    "type": "furniture",
    "caption": "재떨이를 얹은 깔때기형 철제 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "820d163aac5ab00c98606aed4ba75fdf"
   },
   {
    "id": "p0065",
    "src": "공공디자인 사진(ud)/20240805_171938.jpg",
    "type": "furniture",
    "caption": "아케이드 모자이크 바닥 위 철제 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "3ba5b51652ad4bcd1d3f16c1a9c2d341"
   },
   {
    "id": "p0066",
    "src": "공공디자인 사진(ud)/20240806_071234.jpg",
    "type": "color",
    "caption": "흑백 띠를 감아 드러낸 캐노피 기둥들",
-   "order": 30
+   "order": 30,
+   "md5": "d98ad43a34f56808e2119c125c747e42"
   },
   {
    "id": "p0067",
    "src": "공공디자인 사진(ud)/20240806_083445.jpg",
    "type": "furniture",
    "caption": "개찰구를 지나 들어가는 역사 유료 화장실",
-   "order": 30
+   "order": 30,
+   "md5": "c603b8e216bac1adac1aad27fa57c7c6"
   },
   {
    "id": "p0068",
    "src": "공공디자인 사진(ud)/20240806_090158.jpg",
    "type": "furniture",
    "caption": "산 아래 거리의 주황색 망 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "97f4df7e6ea0362df810a550e456c878"
   },
   {
    "id": "p0069",
    "src": "공공디자인 사진(ud)/20240806_113716.jpg",
    "type": "furniture",
    "caption": "건물 벽에 붙여 세운 스테인리스 쓰레기통",
-   "order": 30
+   "order": 30,
+   "md5": "000a821000fd49cd9a894a3cbfe53005"
   },
   {
    "id": "p0070",
    "src": "공공디자인 사진(ud)/20240806_113754.jpg",
    "type": "furniture",
    "caption": "원뿔 뚜껑을 씌운 스테인리스 쓰레기통",
-   "order": 30
+   "order": 30,
+   "md5": "3b3d371504e250b71c9051b0dfa141d2"
   },
   {
    "id": "p0071",
    "src": "공공디자인 사진(ud)/20240806_113944.jpg",
    "type": "furniture",
    "caption": "광장 가로에 선 스테인리스 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "07921deaa4fca357e13cfd664c8768be"
   },
   {
    "id": "p0072",
    "src": "공공디자인 사진(ud)/20240806_154427.jpg",
    "type": "furniture",
    "caption": "암벽에 맞춰 세운 스테인리스 쓰레기통",
-   "order": 30
+   "order": 30,
+   "md5": "e8bc99311e924a38efafeaff06398f13"
   },
   {
    "id": "p0073",
    "src": "공공디자인 사진(ud)/20240806_170237.jpg",
    "type": "inclusive",
    "caption": "승강장 가장자리의 흑백 줄무늬 경고 표시",
-   "order": 30
+   "order": 30,
+   "md5": "a0e34c55df0041a7df225214346f2189"
   },
   {
    "id": "p0074",
    "src": "공공디자인 사진(ud)/20240806_170258.jpg",
    "type": "furniture",
    "caption": "승강장 벤치 옆 스테인리스 쓰레기통",
-   "order": 30
+   "order": 30,
+   "md5": "b9528b535967c756dbba3d2d123d0b96"
   },
   {
    "id": "p0075",
    "src": "공공디자인 사진(ud)/20240806_170304.jpg",
    "type": "sign",
    "caption": "승강장 구역 C를 알리는 바닥 표시",
-   "order": 30
+   "order": 30,
+   "md5": "b1e9b350dce9aeb3bf31ac8a69c8e040"
   },
   {
    "id": "p0076",
    "src": "공공디자인 사진(ud)/20240806_180704.jpg",
    "type": "furniture",
    "caption": "대합실 벽면에 둔 스테인리스 분리수거대",
-   "order": 30
+   "order": 30,
+   "md5": "ee5c09432404f76d09d14b4ef4e49104"
   },
   {
    "id": "p0077",
    "src": "공공디자인 사진(ud)/20240806_180807.jpg",
    "type": "sign",
    "caption": "빛나는 띠를 두른 천장 매달림 안내사인",
-   "order": 20
+   "order": 20,
+   "md5": "b9fcab92e49a0fa1bda2f10803af0e11"
   },
   {
    "id": "p0078",
    "src": "공공디자인 사진(ud)/20240806_180815.jpg",
    "type": "sign",
    "caption": "픽토그램과 조명 띠를 결합한 안내사인",
-   "order": 20
+   "order": 20,
+   "md5": "d995f355eb868ea972faaeb15d9b8259"
   },
   {
    "id": "p0079",
    "src": "공공디자인 사진(ud)/20240806_181011.jpg",
    "type": "sign",
    "caption": "노출 콘크리트 벽에 그린 화장실 방향 사인",
-   "order": 30
+   "order": 30,
+   "md5": "5d887ea77e5bc6775547090e29b4ae79"
   },
   {
    "id": "p0080",
    "src": "공공디자인 사진(ud)/20240807_120756.jpg",
    "type": "inclusive",
    "caption": "돌바닥 위로 이어지는 흰색 유도선",
-   "order": 30
+   "order": 30,
+   "md5": "e0ff921cb105d70a63a198c1caf36463"
   },
   {
    "id": "p0081",
    "src": "공공디자인 사진(ud)/20240807_154531.jpg",
    "type": "furniture",
    "caption": "흰색과 노란색으로 나눈 역사 분리수거함",
-   "order": 30
+   "order": 30,
+   "md5": "021e470461cb7e868806705cfa698200"
   },
   {
    "id": "p0082",
    "src": "공공디자인 사진(ud)/20240808_140617.jpg",
    "type": "furniture",
    "caption": "구멍 뚫린 몸체에 노란 테를 두른 수거함",
-   "order": 20
+   "order": 20,
+   "md5": "334959cc46ff5121b270e2ee14d0bb48"
   },
   {
    "id": "p0083",
    "src": "공공디자인 사진(ud)/20240808_173528.jpg",
    "type": "exclude",
    "caption": "같은 분리수거대의 중복 사진",
-   "order": 30
+   "order": 30,
+   "md5": "230f03fb8d847c2725bbc7bccf8d2a24"
   },
   {
    "id": "p0084",
    "src": "공공디자인 사진(ud)/20240808_173539.jpg",
    "type": "furniture",
    "caption": "품목 그림을 얹은 원형 투입구 분리수거대",
-   "order": 20
+   "order": 20,
+   "md5": "c9c55dc65b6f44600929b04b995f7524"
   },
   {
    "id": "p0085",
    "src": "공공디자인 사진(ud)/20240809_103953.jpg",
    "type": "furniture",
    "caption": "버스가 선 보도 위 검정 분리수거함",
-   "order": 30
+   "order": 30,
+   "md5": "01893ec1a440c991bdbe969c6f1aaeae"
   },
   {
    "id": "p0086",
    "src": "공공디자인 사진(ud)/20240809_112348.jpg",
    "type": "furniture",
    "caption": "금색 띠를 두른 검정 분리수거함",
-   "order": 20
+   "order": 20,
+   "md5": "eddea4e84beb1ddfd070a40fdb6e7791"
   },
   {
    "id": "p0087",
    "src": "공공디자인 사진(ud)/20240809_112352.jpg",
    "type": "exclude",
    "caption": "같은 분리수거함의 중복 사진",
-   "order": 30
+   "order": 30,
+   "md5": "da31e358cc8e689dda91ba09ef9bac13"
   },
   {
    "id": "p0088",
    "src": "공공디자인 사진(ud)/20240809_165701.jpg",
    "type": "furniture",
    "caption": "세 가지 색으로 나눈 공항 분리수거함",
-   "order": 20
+   "order": 20,
+   "md5": "6d4f98a9bfb5a2b8ccfec9f1a968ea17"
   },
   {
    "id": "p0089",
    "src": "공공디자인 사진(ud)/20240809_165709.jpg",
    "type": "nudge",
    "caption": "투입구 모양으로 분리배출을 돕는 수거함",
-   "order": 20
+   "order": 20,
+   "md5": "fa6df8004e66d46b06532908e05371fb"
   },
   {
    "id": "p0090",
    "src": "공공디자인 사진(ud)/20240809_170616.jpg",
    "type": "sign",
    "caption": "검은 벽에 흰 픽토그램을 새긴 화장실 입구",
-   "order": 30
+   "order": 30,
+   "md5": "597e59527b3b8f6130d0d948614580e1"
   },
   {
    "id": "p0091",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_014504797 (1).jpg",
    "type": "exclude",
    "caption": "같은 바닥 유도선의 중복 사진",
-   "order": 30
+   "order": 30,
+   "md5": "7fabc989c2d1dd3eec0a1429ecc36e18"
   },
   {
    "id": "p0092",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_014504797_01 (1).jpg",
    "type": "sign",
    "caption": "목적지별 픽토그램을 그린 붉은 바닥 유도선",
-   "order": 10
+   "order": 10,
+   "md5": "22ddcd2349011c5ca3f391aa0e5edbf2"
   },
   {
    "id": "p0093",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_014504797_02 (1).jpg",
    "type": "sign",
    "caption": "터미널 입구로 이끄는 색채 바닥 유도선",
-   "order": 20
+   "order": 20,
+   "md5": "3625499009a63e596c519815518d09d7"
   },
   {
    "id": "p0094",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_014504797_03 (1).jpg",
    "type": "sign",
    "caption": "천장 띠형 안내사인이 이어지는 공항 통로",
-   "order": 20
+   "order": 20,
+   "md5": "e32a6b8766019203d4c71f040bf5bfdc"
   },
   {
    "id": "p0095",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_014504797_04 (1).jpg",
    "type": "exclude",
    "caption": "같은 장면의 중복 사진",
-   "order": 30
+   "order": 30,
+   "md5": "46ba9d1c67b8002962c7666d1f04afe0"
   },
   {
    "id": "p0096",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_014504797_05 (1).jpg",
    "type": "sign",
    "caption": "기도실 안내 사인과 관광 안내 거치대",
-   "order": 30
+   "order": 30,
+   "md5": "6734ddbc56822920e44adde88566b84d"
   },
   {
    "id": "p0097",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_031057718_01.jpg",
    "type": "street",
    "caption": "도심 모퉁이의 에너지 허브 주유소",
-   "order": 30
+   "order": 30,
+   "md5": "7dedc6a5536530c0b186049c5ae538a4"
   },
   {
    "id": "p0098",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_031057718_02.jpg",
    "type": "street",
    "caption": "보행 데크가 이어진 역 앞 광장",
-   "order": 20
+   "order": 20,
+   "md5": "32c24b5350904c5090f06ae3dd2b9478"
   },
   {
    "id": "p0099",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_031057718_03.jpg",
    "type": "bike",
    "caption": "자전거를 끌고 가도록 안내하는 지하보도",
-   "order": 20
+   "order": 20,
+   "md5": "b07c6f71b167758590bab801dc3fb21b"
   },
   {
    "id": "p0100",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_031057718_04.jpg",
    "type": "exclude",
    "caption": "같은 옛 사진의 중복본",
-   "order": 30
+   "order": 30,
+   "md5": "b1739d94352d14dad8bbffb5c1ff91b9"
   },
   {
    "id": "p0101",
    "src": "공공디자인 사진(ud)/KakaoTalk_20240902_031057718_05.jpg",
    "type": "exclude",
    "caption": "뉴스 기사 화면 캡처",
-   "order": 30
+   "order": 30,
+   "md5": "372b9083531d53262c7cb55024fd58ae"
   },
   {
    "id": "p0102",
    "src": "공공디자인 사진(ud)/명시성.JPG",
    "type": "inclusive",
    "caption": "흰 벽과 검은 문으로 명시성을 높인 화장실",
-   "order": 20
+   "order": 20,
+   "md5": "2fd78a4a59f1172f891b6f717f286efd"
   },
   {
    "id": "p0103",
    "src": "공공디자인 사진(ud)/주차장 행동유도.jpg",
    "type": "nudge",
    "caption": "문 여는 위치를 알려 주는 주차장 벽 표시",
-   "order": 20
+   "order": 20,
+   "md5": "710bd8fe04729925b3b207aa336c6713"
   },
   {
    "id": "p0104",
    "src": "공공디자인 사진(ud)/행동유도.JPG",
    "type": "nudge",
    "caption": "체크무늬 포장으로 감속을 유도한 도로 비교",
-   "order": 20
+   "order": 20,
+   "md5": "d6e9ecd88dcf50dab791e6d08755a51b"
   },
   {
    "id": "p0105",
    "src": "공공시설물 사진 아카이빙/1968년 서울.jpg",
    "type": "memory",
    "caption": "1968년 눈 덮인 서울 도심 대로",
-   "order": 20
+   "order": 20,
+   "md5": "4479963924a231ec0f5ec2793eb2007f"
   },
   {
    "id": "p0106",
    "src": "공공시설물 사진 아카이빙/1968년 서울2.jpg",
    "type": "memory",
    "caption": "1968년 돔 건물이 보이는 서울 교차로",
-   "order": 20
+   "order": 20,
+   "md5": "d0d7639cdd08d590d616a078be370dbb"
   },
   {
    "id": "p0107",
    "src": "공공시설물 사진 아카이빙/1980년대 지하철.jpg",
    "type": "memory",
    "caption": "1980년대 파란 전동차와 지상 승강장",
-   "order": 20
+   "order": 20,
+   "md5": "63b0a7b2922a56cb6c01ec5b7355b377"
   },
   {
    "id": "p0108",
    "src": "공공시설물 사진 아카이빙/1990년 일산 버스정류장.jpg",
    "type": "memory",
    "caption": "1990년 일산 신도시 공사장 옆 정류장",
-   "order": 20
+   "order": 20,
+   "md5": "f4741b311b1c5b435b9c3af13e31bad3"
   },
   {
    "id": "p0109",
    "src": "공공시설물 사진 아카이빙/1990년 일산 버스정류장2.jpg",
    "type": "memory",
    "caption": "1990년 일산 지붕형 버스정류장",
-   "order": 20
+   "order": 20,
+   "md5": "b5784f2fde5da75d0c3646d1dd10e8d4"
   },
   {
    "id": "p0110",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20221018_181118992_20.jpg",
    "type": "memory",
    "caption": "옛 도심 보도의 초록 우체통과 행인",
-   "order": 20
+   "order": 20,
+   "md5": "e8063927ddd237baeed938c4ace4cfaf"
   },
   {
    "id": "p0111",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20221018_181118992_21.jpg",
    "type": "memory",
    "caption": "만원 버스에 오르는 옛 정류장 풍경",
-   "order": 20
+   "order": 20,
+   "md5": "3d0df7c3da1cb696f2f423a0a326a3f1"
   },
   {
    "id": "p0112",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20221018_181118992_22.jpg",
    "type": "memory",
    "caption": "공중전화 부스가 늘어선 옛 거리",
-   "order": 20
+   "order": 20,
+   "md5": "5b859c0f9b0628436ea9b60a91bf8b93"
   },
   {
    "id": "p0113",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20221018_181934863_23.jpg",
    "type": "memory",
    "caption": "서울 톨게이트와 옛 고속도로 순찰차",
-   "order": 20
+   "order": 20,
+   "md5": "15d18d4f932155e0a6e0203e70314bdd"
   },
   {
    "id": "p0114",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20221018_181934863_24.jpg",
    "type": "memory",
    "caption": "옛 육교 계단을 오가는 시민들",
-   "order": 20
+   "order": 20,
+   "md5": "5cd2256e0d958d0f4a4f1a319e289f37"
   },
   {
    "id": "p0115",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20221018_181934863_25.jpg",
    "type": "memory",
    "caption": "차 타는 곳 사인이 걸린 옛 지하철 역",
-   "order": 20
+   "order": 20,
+   "md5": "9530652249eae4faba9898ca602dab7c"
   },
   {
    "id": "p0116",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20221018_181934863_26.jpg",
    "type": "memory",
    "caption": "체인 볼라드가 늘어선 옛 상가 보도",
-   "order": 20
+   "order": 20,
+   "md5": "53130102cbf95cbe40b1b918cc2d0e1c"
   },
   {
    "id": "p0117",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20221018_181934863_27.jpg",
    "type": "memory",
    "caption": "육교 아래 줄지어 선 옛 시내버스",
-   "order": 20
+   "order": 20,
+   "md5": "e75ac6cfd86eb4764a866c363730fcfd"
   },
   {
    "id": "p0118",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20221018_181934863_28.jpg",
    "type": "memory",
    "caption": "보도 난간이 이어진 옛 상가 거리",
-   "order": 20
+   "order": 20,
+   "md5": "76eb0e9fbc291c5c3d429e7162560660"
   },
   {
    "id": "p0119",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20221018_181934863_29.jpg",
    "type": "exclude",
    "caption": "같은 옛 사진의 중복본",
-   "order": 30
+   "order": 30,
+   "md5": "e63afa29b4be9a1c28aedf96f1f542a2"
   },
   {
    "id": "p0120",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271.jpg",
    "type": "memory",
    "caption": "버스표와 담배를 팔던 옛 가판대",
-   "order": 20
+   "order": 20,
+   "md5": "4acaebe979e3400bb784e2d00d8990f8"
   },
   {
    "id": "p0121",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_01.jpg",
    "type": "memory",
    "caption": "공중전화 부스 곁 붐비는 옛 보도",
-   "order": 20
+   "order": 20,
+   "md5": "0e9b0bd9d5b85a80ced4303079459c58"
   },
   {
    "id": "p0122",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_02.jpg",
    "type": "memory",
    "caption": "크림색과 남색을 입은 옛 시내버스",
-   "order": 20
+   "order": 20,
+   "md5": "23c224fb678e0fc58b371cf68e696408"
   },
   {
    "id": "p0123",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_03.jpg",
    "type": "memory",
    "caption": "우체통과 공중전화 부스가 선 옛 보도",
-   "order": 20
+   "order": 20,
+   "md5": "f84057b2fc9b86701868c5a0d7a29091"
   },
   {
    "id": "p0124",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_04.jpg",
    "type": "memory",
    "caption": "숭례문 앞을 지나는 옛 택시들",
-   "order": 10
+   "order": 10,
+   "md5": "62a32c248aa3ef7306511e69bf406003"
   },
   {
    "id": "p0125",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_05.jpg",
    "type": "memory",
    "caption": "기둥 사이로 열차를 기다리는 옛 승강장",
-   "order": 20
+   "order": 20,
+   "md5": "daf3077d4510c8c6fe6a6834efa9eed5"
   },
   {
    "id": "p0126",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_06.jpg",
    "type": "memory",
    "caption": "간판이 빼곡한 옛 상점가 보도",
-   "order": 20
+   "order": 20,
+   "md5": "f49cb8a7aa03baeaf52b28ef175d8ef1"
   },
   {
    "id": "p0127",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_07.jpg",
    "type": "memory",
    "caption": "인파로 붐비는 옛 도심 보도",
-   "order": 20
+   "order": 20,
+   "md5": "c97cd400e995793b549e6a60648c6d01"
   },
   {
    "id": "p0128",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_08.jpg",
    "type": "memory",
    "caption": "현수막이 가로지르는 옛 상가 거리",
-   "order": 20
+   "order": 20,
+   "md5": "5a3d1c7f5b6cbd6f765a1ea2f91548cd"
   },
   {
    "id": "p0129",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_09.jpg",
    "type": "memory",
    "caption": "손수레와 오토바이로 붐비는 옛 시장 길",
-   "order": 20
+   "order": 20,
+   "md5": "102e7af3ceb90cdc98dad9c58f3c4458"
   },
   {
    "id": "p0130",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_10.jpg",
    "type": "memory",
    "caption": "푸른 전동차가 들어선 옛 지하철 승강장",
-   "order": 20
+   "order": 20,
+   "md5": "a32840a21b149d37f20c9684d1ba3f88"
   },
   {
    "id": "p0131",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_11.jpg",
    "type": "memory",
    "caption": "황흑 차막이가 늘어선 옛 버스터미널",
-   "order": 20
+   "order": 20,
+   "md5": "6c1592e19c32fd7c83cce0ec7414f099"
   },
   {
    "id": "p0132",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_12.jpg",
    "type": "memory",
    "caption": "근대 건물이 늘어선 옛 도심 거리",
-   "order": 20
+   "order": 20,
+   "md5": "1e738980ffaaf84422d3b49d5c0424ce"
   },
   {
    "id": "p0133",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_13.jpg",
    "type": "memory",
    "caption": "번호를 단 기둥이 늘어선 옛 승강장",
-   "order": 20
+   "order": 20,
+   "md5": "8c3f5fd76358d0aabdb3a31898fad7cd"
   },
   {
    "id": "p0134",
    "src": "공공시설물 사진 아카이빙/KakaoTalk_20251205_192309271_15.jpg",
    "type": "memory",
    "caption": "육교가 가로지르는 옛 기차역 승강장",
-   "order": 20
+   "order": 20,
+   "md5": "393440741f05a6fe678f5d7cefb7d8fa"
   },
   {
    "id": "p0135",
    "src": "공공시설물 사진 아카이빙/Screenshot_20210130-101141_Facebook.jpg",
    "type": "memory",
    "caption": "교복 학생과 행상이 오가는 옛 시장",
-   "order": 20
+   "order": 20,
+   "md5": "1d4c06320dd207b8f646ea18c5fe9776"
   },
   {
    "id": "p0136",
    "src": "공공시설물 사진 아카이빙/Screenshot_20220205-150136_Facebook.jpg",
    "type": "memory",
    "caption": "펩시 광고 지붕을 얹은 옛 버스정류장",
-   "order": 10
+   "order": 10,
+   "md5": "d86ba54155a8e7253da21a4aad19b99f"
   },
   {
    "id": "p0137",
    "src": "공공시설물 사진 아카이빙/Screenshot_20220205-150343_Facebook.jpg",
    "type": "memory",
    "caption": "지하철 SUBWAY 간판을 단 옛 출입구",
-   "order": 10
+   "order": 10,
+   "md5": "66ea8ebcfc3381fdad64eaccb5caf7c3"
   },
   {
    "id": "p0138",
    "src": "공공시설물 사진 아카이빙/고속도로 톨게이트.jpg",
    "type": "exclude",
    "caption": "화면 표시가 겹친 흐린 영상 캡처",
-   "order": 30
+   "order": 30,
+   "md5": "fb23e67434a94c0fafb99a37ea4a4ed4"
   },
   {
    "id": "p0139",
    "src": "공공시설물 사진 아카이빙/광화문 1970.jpg",
    "type": "memory",
    "caption": "1970년 광화문과 중앙청 일대 전경",
-   "order": 10
+   "order": 10,
+   "md5": "ae11678cefaf7c3e019dda97d470ca2a"
   },
   {
    "id": "p0140",
    "src": "공공시설물 사진 아카이빙/도시공간입체 활용_플로팅 가든.png",
    "type": "play",
    "caption": "도시 광장에 띄운 다채로운 플로팅 가든",
-   "order": 20
+   "order": 20,
+   "md5": "61d8ab6a8770b733ca87bfc2eb1ce597"
   },
   {
    "id": "p0141",
    "src": "공공시설물 사진 아카이빙/버스쉘터.jpg",
    "type": "memory",
    "caption": "반투명 지붕을 얹은 옛 버스 쉘터",
-   "order": 10
+   "order": 10,
+   "md5": "30824dc44458fea2da29a0f910025b32"
   },
   {
    "id": "p0142",
    "src": "공공시설물 사진 아카이빙/서울역 앞 1968-2.jpg",
    "type": "memory",
    "caption": "1968년 비 내린 서울역 앞 인파",
-   "order": 20
+   "order": 20,
+   "md5": "fd25eb621df51985515cf73e1e8042a4"
   },
   {
    "id": "p0143",
    "src": "공공시설물 사진 아카이빙/서울역 앞 1968.jpg",
    "type": "memory",
    "caption": "1968년 버스와 차량으로 붐비는 서울역",
-   "order": 20
+   "order": 20,
+   "md5": "3a69bf69148347d021cc19377ed90593"
   },
   {
    "id": "p0144",
    "src": "공공시설물 사진 아카이빙/서울역 앞 1970-2.jpg",
    "type": "memory",
    "caption": "1970년 서울역 앞 넓은 대로와 중앙분리대",
-   "order": 20
+   "order": 20,
+   "md5": "c5785b5c34e0bcd2e47c81784798f37e"
   },
   {
    "id": "p0145",
    "src": "공공시설물 사진 아카이빙/서울역 앞 1970.jpg",
    "type": "memory",
    "caption": "1970년 버스가 오가는 서울역 앞 도로",
-   "order": 20
+   "order": 20,
+   "md5": "3e53113fd7ef6f56b03170255ad425d2"
   },
   {
    "id": "p0146",
    "src": "공공시설물 사진 아카이빙/시청앞 1970.jpg",
    "type": "memory",
    "caption": "1970년 차량이 오가는 시청 앞 교차로",
-   "order": 20
+   "order": 20,
+   "md5": "381a5798c03537027553d917b80d69a6"
   },
   {
    "id": "p0147",
    "src": "공공시설물 사진 아카이빙/여주 톨게이트, Korea, 1993.jpg",
    "type": "memory",
    "caption": "1993년 여주 톨게이트 캠페인 풍경",
-   "order": 20
+   "order": 20,
+   "md5": "646392650e89e08f9f6d61e4808e4d67"
   },
   {
    "id": "p0148",
    "src": "공공시설물 사진 아카이빙/폭염방지 그늘막 시초.jpg",
    "type": "memory",
    "caption": "그늘막의 시초가 된 노점 파라솔",
-   "order": 20
+   "order": 20,
+   "md5": "64d17e4bfe90f008706a696b4ac09c5e"
   },
   {
    "id": "p0201",
    "src": "안전디자인관련 사례/118797359_3272452569547174_740707346090442893_n.jpg",
    "type": "exclude",
    "caption": "제외 / 텍스트 위주 타이틀 그래픽",
-   "order": 30
+   "order": 30,
+   "md5": "16d317200fcb93a6c0f76c3e353314f0"
   },
   {
    "id": "p0202",
    "src": "안전디자인관련 사례/309041811_114651768085302_4006060697572205623_n.jpg",
    "type": "walk",
    "caption": "붉은 노면으로 강조한 스쿨존 횡단보도",
-   "order": 20
+   "order": 20,
+   "md5": "f46f9495f0073fabd305b2a8c7e59350"
   },
   {
    "id": "p0203",
    "src": "안전디자인관련 사례/309064384_5502343313224744_6815064149928524519_n.jpg",
    "type": "furniture",
    "caption": "횡단보도 앞에서 열린 보행자 방호 울타리",
-   "order": 30
+   "order": 30,
+   "md5": "a76dc2f998416979868c4e5b8eb331fe"
   },
   {
    "id": "p0204",
    "src": "안전디자인관련 사례/310299719_5536104406515301_6783507163816017945_n.jpg",
    "type": "exclude",
    "caption": "제외 / 주제가 불분명한 기둥 사진",
-   "order": 30
+   "order": 30,
+   "md5": "4b578dd6c75632de5794082679a3a5c7"
   },
   {
    "id": "p0205",
    "src": "안전디자인관련 사례/310391598_5457300671018309_5046472942490527528_n.jpg",
    "type": "inclusive",
    "caption": "복도 벽을 따라 이어진 안전 손잡이",
-   "order": 30
+   "order": 30,
+   "md5": "9287cbd590d955399ea2ccedf5de86e7"
   },
   {
    "id": "p0206",
    "src": "안전디자인관련 사례/310474232_5539588739500201_4682620322388924080_n.jpg",
    "type": "cpted",
    "caption": "밤길을 밝히는 투명한 건물 저층부",
-   "order": 30
+   "order": 30,
+   "md5": "0cae4612be6c89a967ab0379ba49aed2"
   },
   {
    "id": "p0207",
    "src": "안전디자인관련 사례/310646643_5457300561018320_3795074032339826334_n.jpg",
    "type": "inclusive",
    "caption": "출입문 양옆으로 이어진 벽면 손잡이",
-   "order": 30
+   "order": 30,
+   "md5": "676f685cc9db549cc4a1a74c457f880f"
   },
   {
    "id": "p0208",
    "src": "안전디자인관련 사례/310667147_114651718085307_2866734186643198135_n.jpg",
    "type": "walk",
    "caption": "붉게 빛나는 바닥형 보행신호등",
-   "order": 20
+   "order": 20,
+   "md5": "3d7a26fc358e2b6db5bfb6b292c2b352"
   },
   {
    "id": "p0209",
    "src": "안전디자인관련 사례/311117575_194079466394040_72426541437104954_n.jpg",
    "type": "color",
    "caption": "스쿨존을 알리는 노란 보행 울타리",
-   "order": 20
+   "order": 20,
+   "md5": "9698bc29967910df013f21367154144e"
   },
   {
    "id": "p0210",
    "src": "안전디자인관련 사례/311126193_116247257912461_4832707534467339625_n.jpg",
    "type": "exclude",
    "caption": "제외 / 차 안에서 찍은 의미 없는 사진",
-   "order": 30
+   "order": 30,
+   "md5": "02a3b936667297779c529b16d986ae85"
   },
   {
    "id": "p0211",
    "src": "안전디자인관련 사례/311214584_194079449727375_1272194808319720763_n.jpg",
    "type": "color",
    "caption": "어린이보호구역의 노란 울타리와 붉은 노면",
-   "order": 30
+   "order": 30,
+   "md5": "45c532121b8ca30e5c49815ae1065533"
   },
   {
    "id": "p0212",
    "src": "안전디자인관련 사례/311568770_860310301793923_4498730820960156728_n.jpg",
    "type": "walk",
    "caption": "가로수와 돌 볼라드가 놓인 넓은 보도",
-   "order": 30
+   "order": 30,
+   "md5": "8043faa74c7384b8c91414f6eb60d8e4"
   },
   {
    "id": "p0213",
    "src": "안전디자인관련 사례/311602058_5583117118480696_5729233820891129119_n.jpg",
    "type": "sign",
    "caption": "천장에 매단 지하철 출구 안내 사인",
-   "order": 30
+   "order": 30,
+   "md5": "f5d3ed9519b2b3e1646a98fe3fe886e6"
   },
   {
    "id": "p0214",
    "src": "안전디자인관련 사례/311616363_860310318460588_3821890857492228985_n.jpg",
    "type": "street",
    "caption": "단풍이 든 공원 입구와 넓은 보도",
-   "order": 30
+   "order": 30,
+   "md5": "10c35c24d825b49de59907a24c620d6a"
   },
   {
    "id": "p0215",
    "src": "안전디자인관련 사례/311622693_10166618015975111_4560366533993368882_n.jpg",
    "type": "walk",
    "caption": "붉은 포장으로 구분한 교차로 모퉁이",
-   "order": 20
+   "order": 20,
+   "md5": "7c160d7b39ca68b0cff86edb62df5e6a"
   },
   {
    "id": "p0216",
    "src": "안전디자인관련 사례/311820417_860310291793924_585300170605905702_n.jpg",
    "type": "street",
    "caption": "푸른 그늘을 드리운 가로수 길",
-   "order": 30
+   "order": 30,
+   "md5": "2d8924b7cd6610399dbb6cd3418538b1"
   },
   {
    "id": "p0217",
    "src": "안전디자인관련 사례/311940216_860312288460391_4970140312791187438_n.jpg",
    "type": "bike",
    "caption": "보도 옆으로 나란히 놓인 자전거길",
-   "order": 30
+   "order": 30,
+   "md5": "5d73f181ed46364dc143f8af855e7cab"
   },
   {
    "id": "p0218",
    "src": "안전디자인관련 사례/312217630_196215696180417_8541869598433172280_n.jpg",
    "type": "cpted",
    "caption": "밤거리를 밝히는 24시간 상점의 불빛",
-   "order": 30
+   "order": 30,
+   "md5": "21f1b1a8ac288e3514179bae2eb6d481"
   },
   {
    "id": "p0219",
    "src": "안전디자인관련 사례/312369110_118433361047747_3394906010355437127_n.jpg",
    "type": "walk",
    "caption": "초록빛으로 켜진 바닥형 보행신호등",
-   "order": 20
+   "order": 20,
+   "md5": "68f8de5e7cdd00c85728c183d88d36a7"
   },
   {
    "id": "p0220",
    "src": "안전디자인관련 사례/312371585_5599708340154907_471572739290929541_n.jpg",
    "type": "walk",
    "caption": "디자인된 길 옆에 생긴 사람들의 지름길",
-   "order": 20
+   "order": 20,
+   "md5": "36c839296d60652d8069b4e375771623"
   },
   {
    "id": "p0221",
    "src": "안전디자인관련 사례/312597187_5603091966483211_3076072027100394935_n.jpg",
    "type": "exclude",
    "caption": "제외 / 자막이 들어간 영상 캡처",
-   "order": 30
+   "order": 30,
+   "md5": "215a312004d9221bd583f6d617fa8cf2"
   },
   {
    "id": "p0222",
    "src": "안전디자인관련 사례/313403211_1269713567181990_6974009835170624850_n.jpg",
    "type": "street",
    "caption": "역사 건물로 둘러싸인 햇살 가득한 광장",
-   "order": 20
+   "order": 20,
+   "md5": "0624c9018854b1204db04399b791fa62"
   },
   {
    "id": "p0223",
    "src": "안전디자인관련 사례/313911387_1269713610515319_6726753989034163589_n.jpg",
    "type": "street",
    "caption": "흰 돌길이 가로지르는 모래빛 광장",
-   "order": 10
+   "order": 10,
+   "md5": "61d646547ea29bdfa776c82dcf0f747b"
   },
   {
    "id": "p0224",
    "src": "안전디자인관련 사례/313922498_1269713673848646_974372161398877873_n.jpg",
    "type": "street",
    "caption": "석상과 흰 줄무늬 길이 놓인 언덕 위 광장",
-   "order": 10
+   "order": 10,
+   "md5": "a3f5a382f6c04058018207d8662fe4bc"
   },
   {
    "id": "p0225",
    "src": "안전디자인관련 사례/314019675_1269713637181983_1159892595511254853_n.jpg",
    "type": "street",
    "caption": "위에서 본 광장의 흰 돌길과 사람들",
-   "order": 10
+   "order": 10,
+   "md5": "169669c9ce53186f2eae2c9500c75839"
   },
   {
    "id": "p0226",
    "src": "안전디자인관련 사례/314028025_1269743757178971_115359996310213032_n.jpg",
    "type": "exclude",
    "caption": "제외 / 현수막과 삽입 이미지가 섞인 합성 사진",
-   "order": 30
+   "order": 30,
+   "md5": "7e506c2ed0f8dd43119aec2749dfbc62"
   },
   {
    "id": "p0227",
    "src": "안전디자인관련 사례/314201943_5603091743149900_1766113609076566513_n.jpg",
    "type": "exclude",
    "caption": "제외 / 강연자 영상 캡처",
-   "order": 30
+   "order": 30,
+   "md5": "85a1d9266e3dabe1a3e81dae359ad812"
   },
   {
    "id": "p0228",
    "src": "안전디자인관련 사례/314614073_1269713583848655_432628700006238209_n.jpg",
    "type": "street",
    "caption": "광장 가장자리를 따라 흐르는 돌 배수로",
-   "order": 20
+   "order": 20,
+   "md5": "f8cbaa5a40a153abd930a8fd37f3176d"
   },
   {
    "id": "p0229",
    "src": "안전디자인관련 사례/314894306_5626975887428152_4296625558353456526_n.jpg",
    "type": "walk",
    "caption": "흰 난간을 두른 나무 계단",
-   "order": 30
+   "order": 30,
+   "md5": "ce4a2e91a86f9b14e7b10710a61de09b"
   },
   {
    "id": "p0230",
    "src": "안전디자인관련 사례/314900826_5626975777428163_7638657205175300245_n.jpg",
    "type": "exclude",
    "caption": "제외 / 같은 계단 사진 반복",
-   "order": 30
+   "order": 30,
+   "md5": "3ab43e524f4bbad41a504059491ee282"
   },
   {
    "id": "p0231",
    "src": "안전디자인관련 사례/314952996_1271416680345012_1262336253479466421_n.jpg",
    "type": "sign",
    "caption": "지하철 화장실 입구의 성별 픽토그램",
-   "order": 30
+   "order": 30,
+   "md5": "5b826d042071b8284b5e916897cb197b"
   },
   {
    "id": "p0232",
    "src": "안전디자인관련 사례/315207790_200687342399919_2802983418322882821_n.jpg",
    "type": "exclude",
    "caption": "제외 / 휴대전화 화면 캡처",
-   "order": 30
+   "order": 30,
+   "md5": "71f01f89ee9f855c07ab1daff8fb9bc9"
   },
   {
    "id": "p0233",
    "src": "안전디자인관련 사례/315239428_200687272399926_2396494892517094141_n.jpg",
    "type": "color",
    "caption": "주차장 보행 통로를 밝힌 노란 바닥",
-   "order": 20
+   "order": 20,
+   "md5": "558a0bb65ac3730bbd95aa0fb4809a3a"
   },
   {
    "id": "p0234",
    "src": "안전디자인관련 사례/315307585_5856811281048147_6281454652451543081_n.jpg",
    "type": "color",
    "caption": "발빠짐 주의를 알리는 노란 승강장 바닥",
-   "order": 20
+   "order": 20,
+   "md5": "6b3e34efce8e41c0e5f6791b1c9c1a24"
   },
   {
    "id": "p0235",
    "src": "안전디자인관련 사례/315533059_5646425812149826_374993498369764052_n.jpg",
    "type": "sign",
    "caption": "유리 외벽 아래 단정한 매장 간판",
-   "order": 30
+   "order": 30,
+   "md5": "ac3732192ddb21d22907d95bb19dc954"
   },
   {
    "id": "p0236",
    "src": "안전디자인관련 사례/315634896_5856844384378170_3861308430936584845_n.jpg",
    "type": "inclusive",
    "caption": "자동심장충격기를 둔 경로당 입구",
-   "order": 30
+   "order": 30,
+   "md5": "ab49ce13def20ea1829c9170763fe506"
   },
   {
    "id": "p0237",
    "src": "안전디자인관련 사례/315709383_127588960124916_6432789544770198861_n.jpg",
    "type": "furniture",
    "caption": "산책로 옆 공중화장실 겸 샤워실",
-   "order": 20
+   "order": 20,
+   "md5": "3df154db37b2d4d90950628dce7723a4"
   },
   {
    "id": "p0238",
    "src": "안전디자인관련 사례/315713754_127588973458248_6672484552679437637_n.jpg",
    "type": "furniture",
    "caption": "패널 외벽으로 마감한 공중화장실",
-   "order": 30
+   "order": 30,
+   "md5": "2a53407c063287b04878e083f87ebae3"
   },
   {
    "id": "p0239",
    "src": "안전디자인관련 사례/315717662_5646425975483143_1889943102358751781_n.jpg",
    "type": "sign",
    "caption": "드라이브스루 방향을 알리는 매장 사인",
-   "order": 30
+   "order": 30,
+   "md5": "c0d4822d0b2946e81f37db188bb5b72f"
   },
   {
    "id": "p0240",
    "src": "안전디자인관련 사례/315731490_127588880124924_831068476122055189_n.jpg",
    "type": "color",
    "caption": "계단 끝선을 알리는 노란 미끄럼 방지 띠",
-   "order": 20
+   "order": 20,
+   "md5": "4a7f373298333868f55e128941406f85"
   },
   {
    "id": "p0241",
    "src": "안전디자인관련 사례/315765767_201870785614908_7041533512288246208_n.jpg",
    "type": "walk",
    "caption": "녹색 포장과 노란 선을 입힌 육교 통로",
-   "order": 20
+   "order": 20,
+   "md5": "8d8c7c9347199c6885e55b9ba1daaf73"
   },
   {
    "id": "p0242",
    "src": "안전디자인관련 사례/315768095_127588916791587_1915380997709844609_n.jpg",
    "type": "furniture",
    "caption": "픽토그램을 단 화장실 겸 샤워실 외벽",
-   "order": 30
+   "order": 30,
+   "md5": "b4cb0e72936d68cd6571074444739b81"
   },
   {
    "id": "p0243",
    "src": "안전디자인관련 사례/315936746_5657384881053919_8699415772181309958_n.jpg",
    "type": "exclude",
    "caption": "제외 / 주제가 불분명한 선로 사진",
-   "order": 30
+   "order": 30,
+   "md5": "4b7513c45040e53d10a022095777ff0e"
   },
   {
    "id": "p0244",
    "src": "안전디자인관련 사례/315944327_10166869479405111_3025667789432055453_n.jpg",
    "type": "sign",
    "caption": "건물 외벽을 빼곡히 덮은 상가 간판",
-   "order": 30
+   "order": 30,
+   "md5": "59a2b3af4172de00a74faf00368c9773"
   },
   {
    "id": "p0245",
    "src": "안전디자인관련 사례/315980377_3399892646947834_5783603572853102792_n.jpg",
    "type": "walk",
    "caption": "엘리베이터 탑을 갖춘 밤의 보행 육교",
-   "order": 20
+   "order": 20,
+   "md5": "52dadd602bc6f19dde5541e8ddbc0dd3"
   },
   {
    "id": "p0246",
    "src": "안전디자인관련 사례/315995491_681930550164704_5519465711150064694_n.jpg",
    "type": "exclude",
    "caption": "제외 / 승객 뒷모습 위주의 버스 내부",
-   "order": 30
+   "order": 30,
+   "md5": "75dc10e06f4cfa752b433a71778318f8"
   },
   {
    "id": "p0247",
    "src": "안전디자인관련 사례/316005415_681914003499692_6781678768607515156_n.jpg",
    "type": "inclusive",
    "caption": "계단 사이를 비스듬히 오르는 경사로",
-   "order": 20
+   "order": 20,
+   "md5": "111463a075fd1fb59dcf417acdf035bf"
   },
   {
    "id": "p0248",
    "src": "안전디자인관련 사례/316005768_5657384674387273_1906345142632706616_n.jpg",
    "type": "exclude",
    "caption": "제외 / 의미 없는 출입문 사진",
-   "order": 30
+   "order": 30,
+   "md5": "8bfd26308118c68b7d24a539fd538857"
   },
   {
    "id": "p0249",
    "src": "안전디자인관련 사례/316045130_5657384807720593_223356239171949402_n.jpg",
    "type": "color",
    "caption": "회색 복도에서 눈에 띄는 붉은 소방함",
-   "order": 20
+   "order": 20,
+   "md5": "b207621e93279d71452f7615931fff03"
   },
   {
    "id": "p0250",
    "src": "안전디자인관련 사례/316093309_5646425688816505_8322386775454268851_n.jpg",
    "type": "sign",
    "caption": "목재 외벽에 맞춘 절제된 매장 간판",
-   "order": 30
+   "order": 30,
+   "md5": "1fe77e70ad54c67a57bb574e0ecafcbf"
   },
   {
    "id": "p0251",
    "src": "안전디자인관련 사례/316096644_681931843497908_5227965010628367883_n.jpg",
    "type": "walk",
    "caption": "보행 통로와 노란 정지선을 둔 주차장 출구",
-   "order": 30
+   "order": 30,
+   "md5": "892378b779fed5594c6c229c9a83476b"
   },
   {
    "id": "p0252",
    "src": "안전디자인관련 사례/316105361_681930540164705_7980171969267483916_n (1).jpg",
    "type": "color",
    "caption": "눈에 잘 띄는 노란 버스 손잡이",
-   "order": 20
+   "order": 20,
+   "md5": "7e41067579d0620db7706959f0f19498"
   },
   {
    "id": "p0253",
    "src": "안전디자인관련 사례/316108921_681930586831367_9210402887004686667_n.jpg",
    "type": "inclusive",
    "caption": "버스 안 주황색 교통약자 배려석",
-   "order": 30
+   "order": 30,
+   "md5": "f762454d9acda48748e2c0b20e580a40"
   },
   {
    "id": "p0254",
    "src": "안전디자인관련 사례/316132988_5657385147720559_5556250679254213684_n.jpg",
    "type": "sign",
    "caption": "출입문 비상 개폐 장치와 사용 안내",
-   "order": 30
+   "order": 30,
+   "md5": "7727a62d47f01a91fbdf50e637bd01a4"
   },
   {
    "id": "p0255",
    "src": "안전디자인관련 사례/316145289_681914013499691_5983937309710721205_n.jpg",
    "type": "inclusive",
    "caption": "계단을 가로질러 오르는 완만한 경사로",
-   "order": 20
+   "order": 20,
+   "md5": "40b8d50bc0c3bf51b076f3104259eb6c"
   },
   {
    "id": "p0256",
    "src": "안전디자인관련 사례/316167643_127727190097801_619335093852788035_n.jpg",
    "type": "sign",
    "caption": "불광역 스크린도어의 발빠짐 주의 표지",
-   "order": 30
+   "order": 30,
+   "md5": "d38d0f582ecb0aa76b85218515131e4b"
   },
   {
    "id": "p0257",
    "src": "안전디자인관련 사례/316184782_681930566831369_6293956058680994428_n.jpg",
    "type": "inclusive",
    "caption": "손이 쉽게 닿는 붉은 하차 버튼",
-   "order": 30
+   "order": 30,
+   "md5": "5f4171d486b5d8fee4f667ef32a3d760"
   },
   {
    "id": "p0258",
    "src": "안전디자인관련 사례/316196576_5657385044387236_3587264121746129354_n.jpg",
    "type": "bike",
    "caption": "자전거는 끌고 가라는 지하통로 사인",
-   "order": 20
+   "order": 20,
+   "md5": "77c81e1ae6a0d3443b68722a88e732df"
   },
   {
    "id": "p0259",
    "src": "안전디자인관련 사례/316254651_127727200097800_7460248480650491094_n.jpg",
    "type": "sign",
    "caption": "발빠짐 주의를 알리는 스크린도어 표지",
-   "order": 30
+   "order": 30,
+   "md5": "cfcc197d6f6c236ed89696b096cdc4fa"
   },
   {
    "id": "p0260",
    "src": "안전디자인관련 사례/316268861_5646426128816461_508697328351440006_n.jpg",
    "type": "sign",
    "caption": "높은 입면에 단 매장 간판과 출입구",
-   "order": 30
+   "order": 30,
+   "md5": "29fc06463417f5baa385b80da1a7a034"
   },
   {
    "id": "p0261",
    "src": "안전디자인관련 사례/316281908_5646425482149859_7657755783253682078_n.jpg",
    "type": "sign",
    "caption": "회색 석재 외벽 위 단정한 매장 간판",
-   "order": 30
+   "order": 30,
+   "md5": "f6bd1b760db9b481bbabad7b0ed30fa7"
   },
   {
    "id": "p0262",
    "src": "안전디자인관련 사례/316411400_5657384951053912_9179549634927503903_n.jpg",
    "type": "inclusive",
    "caption": "역 광장을 가로지르는 점자블록 유도선",
-   "order": 30
+   "order": 30,
+   "md5": "dd0dffe8a34dcc0047a8fe4f006089f3"
   },
   {
    "id": "p0263",
    "src": "안전디자인관련 사례/316548898_10166869479380111_4897141957679519261_n.jpg",
    "type": "sign",
    "caption": "건물을 뒤덮은 크고 작은 상가 간판",
-   "order": 30
+   "order": 30,
+   "md5": "623e28fd20c5ebde1f1661d4b84cdf00"
   },
   {
    "id": "p0264",
    "src": "안전디자인관련 사례/316666974_129727209911091_817188128789736836_n.jpg",
    "type": "sign",
    "caption": "압구정로데오역 승강장 역명 사인",
-   "order": 20
+   "order": 20,
+   "md5": "978d4caa8cf35d205180ea924d483d09"
   },
   {
    "id": "p0265",
    "src": "안전디자인관련 사례/316668936_129727226577756_607052451351010508_n.jpg",
    "type": "inclusive",
    "caption": "높낮이가 다른 두 줄 손잡이를 단 계단",
-   "order": 30
+   "order": 30,
+   "md5": "4a5caa85ed46203aa7c67e6e7fe1dfe5"
   },
   {
    "id": "p0266",
    "src": "안전디자인관련 사례/316948128_3399892636947835_3570853318815632562_n.jpg",
    "type": "walk",
    "caption": "조명을 단 보행 육교 아래 밤의 교차로",
-   "order": 30
+   "order": 30,
+   "md5": "384913f06294471b7a908168c30e8201"
   },
   {
    "id": "p0267",
    "src": "안전디자인관련 사례/317949916_3406755366261562_7847856145293348628_n.jpg",
    "type": "color",
    "caption": "깨진 계단 모서리를 감싼 경고 테이프",
-   "order": 30
+   "order": 30,
+   "md5": "c4ea4642c38f0aa48adf81b09ab36bc3"
   },
   {
    "id": "p0268",
    "src": "안전디자인관련 사례/319680651_3354531621477121_6245544154618152515_n.jpg",
    "type": "walk",
    "caption": "눈 덮인 보도와 보행자 방호 울타리",
-   "order": 30
+   "order": 30,
+   "md5": "13dd29d662e2a2a8bd4946fc398208b5"
   },
   {
    "id": "p0269",
    "src": "안전디자인관련 사례/325473913_5862523607168677_4663778202453011075_n.jpg",
    "type": "furniture",
    "caption": "누구나 쓸 수 있는 지하철 자동심장충격기",
-   "order": 30
+   "order": 30,
+   "md5": "260181539186aa486bc7693ba941d5f7"
   },
   {
    "id": "p0270",
    "src": "안전디자인관련 사례/325945465_907271817070575_5724864640979820939_n.jpg",
    "type": "exclude",
    "caption": "제외 / 텍스트 위주 설명 그래픽",
-   "order": 30
+   "order": 30,
+   "md5": "76fbde6a8813b81e425c9588c7161457"
   },
   {
    "id": "p0271",
    "src": "안전디자인관련 사례/326324277_1638177996617274_2545248324806603102_n.jpg",
    "type": "color",
    "caption": "보도 옆 소방차 전용 구역의 노란 표시",
-   "order": 30
+   "order": 30,
+   "md5": "67e04de4ce26a7c1060b58dedcc8ec55"
   },
   {
    "id": "p0272",
    "src": "안전디자인관련 사례/326339567_563535102312510_6815968806903369512_n.jpg",
    "type": "exclude",
    "caption": "제외 / 자동심장충격기 사진 반복",
-   "order": 30
+   "order": 30,
+   "md5": "30e4b0267ab1632954d62a0113a9c5be"
   },
   {
    "id": "p0273",
    "src": "안전디자인관련 사례/328320535_1178064299508995_6806888942476356860_n.jpg",
    "type": "nudge",
    "caption": "치킨 상자에 담은 보행자 우선 캠페인",
-   "order": 30
+   "order": 30,
+   "md5": "20dc7f824bfbb43f6538f005bb0de0b6"
   },
   {
    "id": "p0274",
    "src": "안전디자인관련 사례/336297508_1195693054469337_6664257345404795119_n.jpg",
    "type": "nudge",
    "caption": "트럭 뒷면에 그린 커다란 눈",
-   "order": 30
+   "order": 30,
+   "md5": "dada11234a68dcff7ce18934240b4769"
   },
   {
    "id": "p0275",
    "src": "안전디자인관련 사례/노란색이 혼란스러운 스쿨존.png",
    "type": "color",
    "caption": "노란색이 넘쳐 오히려 혼란스러운 스쿨존",
-   "order": 30
+   "order": 30,
+   "md5": "e3fd86729de7ded4739650da480a7970"
   },
   {
    "id": "p0276",
    "src": "안전디자인관련 사례/아파트와 놀이터 .jpg",
    "type": "play",
    "caption": "아파트 단지 안 곡선형 놀이터와 정원",
-   "order": 20
+   "order": 20,
+   "md5": "ad9e28e68719ef35b1cb468cecdd7ac5"
   },
   {
    "id": "p0277",
    "src": "이미지/16eee263a3874d23c3fb025996c447af.jpg",
    "type": "nudge",
    "caption": "계단 오르기를 권하는 칼로리 눈금",
-   "order": 10
+   "order": 10,
+   "md5": "29bba36ccd0c02140dd12ead274d61b0"
   },
   {
    "id": "p0278",
    "src": "이미지/20180313_124711.png",
    "type": "nudge",
    "caption": "손 씻은 물을 다시 쓰는 변기 위 세면대",
-   "order": 30
+   "order": 30,
+   "md5": "499576f91e2cd6266333969f0aa6bdc5"
   },
   {
    "id": "p0279",
    "src": "이미지/20180313_124746.png",
    "type": "furniture",
    "caption": "잔디 광장의 스테인리스 음수대",
-   "order": 30
+   "order": 30,
+   "md5": "15dc9d8cb432f2f775efde549ef11a66"
   },
   {
    "id": "p0280",
    "src": "이미지/20180313_124805.png",
    "type": "inclusive",
    "caption": "모래사장 위로 펼친 파란 보행 매트",
-   "order": 10
+   "order": 10,
+   "md5": "94f81b31155ac29fbe14dc4b6295f023"
   },
   {
    "id": "p0281",
    "src": "이미지/20180313_124815.png",
    "type": "inclusive",
    "caption": "카드를 대면 횡단 시간이 늘어나는 버튼",
-   "order": 20
+   "order": 20,
+   "md5": "7c400ea20b4259cc904a1e5cfe59c3c5"
   },
   {
    "id": "p0282",
    "src": "이미지/20180313_124830.png",
    "type": "sign",
    "caption": "멀리서도 보이는 아치형 신호등 불빛",
-   "order": 30
+   "order": 30,
+   "md5": "c7befe1bdd03389712f671bcd37bc64e"
   },
   {
    "id": "p0283",
    "src": "이미지/20180313_124837.png",
    "type": "nudge",
    "caption": "손 대신 발로 여는 문 손잡이",
-   "order": 30
+   "order": 30,
+   "md5": "34f6661c801be2875265e125e94aad0d"
   },
   {
    "id": "p0284",
    "src": "이미지/20180313_124846.png",
    "type": "inclusive",
    "caption": "발로도 누를 수 있는 엘리베이터 버튼",
-   "order": 30
+   "order": 30,
+   "md5": "7fb112901d22a3b980ca2af3377c28d4"
   },
   {
    "id": "p0285",
    "src": "이미지/20180313_124852.png",
    "type": "inclusive",
    "caption": "복도에서 미리 누르는 엘리베이터 호출 버튼",
-   "order": 30
+   "order": 30,
+   "md5": "70223ce36bd9509e4a30673702f89081"
   },
   {
    "id": "p0286",
    "src": "이미지/20180313_124925.png",
    "type": "play",
    "caption": "부모와 아이가 마주 타는 그네",
-   "order": 20
+   "order": 20,
+   "md5": "516fec7a30b40cf713771624d0c3640b"
   },
   {
    "id": "p0287",
    "src": "이미지/20180313_124940.png",
    "type": "furniture",
    "caption": "튼튼한 팔걸이를 단 공원 벤치",
-   "order": 30
+   "order": 30,
+   "md5": "dfe648822e1daf8bf557c5bba083874b"
   },
   {
    "id": "p0288",
    "src": "이미지/20180313_124951.png",
    "type": "exclude",
    "caption": "제외 / 흐린 주차장 사진",
-   "order": 30
+   "order": 30,
+   "md5": "8016cce44a336973ed4c2757331078a0"
   },
   {
    "id": "p0289",
    "src": "이미지/20180313_125007.png",
    "type": "nudge",
    "caption": "우산 그림으로 비 소식을 알리는 장치",
-   "order": 30
+   "order": 30,
+   "md5": "00a23186a8a9759b65a6f6d3e5456e49"
   },
   {
    "id": "p0290",
    "src": "이미지/20180313_125026.png",
    "type": "nudge",
    "caption": "도서관 안 휴대전화 통화 부스",
-   "order": 30
+   "order": 30,
+   "md5": "1e2275e7cef5c429aa6b8536a9288ae9"
   },
   {
    "id": "p0291",
    "src": "이미지/20180313_125103.png",
    "type": "nudge",
    "caption": "퀴즈로 졸음운전을 막는 퀸즐랜드 도로 표지",
-   "order": 20
+   "order": 20,
+   "md5": "79163e550895f15c3e545373af93975e"
   },
   {
    "id": "p0292",
    "src": "이미지/20181125_150812.jpg",
    "type": "sign",
    "caption": "문이 열리는 범위를 알리는 바닥 표시",
-   "order": 30
+   "order": 30,
+   "md5": "fed75434193f07049e32a0f2d52654c2"
   },
   {
    "id": "p0293",
    "src": "이미지/20181125_150817.jpg",
    "type": "sign",
    "caption": "충돌 주의를 알리는 부채꼴 바닥 표시",
-   "order": 20
+   "order": 20,
+   "md5": "5226e457dd81e35e42ebdf26a49a3bc0"
   },
   {
    "id": "p0294",
    "src": "이미지/20181125_150833.jpg",
    "type": "furniture",
    "caption": "잎 그래픽을 입힌 방수기구함",
-   "order": 30
+   "order": 30,
+   "md5": "346fda073badead181d726bbdc6d6649"
   },
   {
    "id": "p0295",
    "src": "이미지/20200408_111109.png",
    "type": "exclude",
    "caption": "제외 / 제목이 들어간 슬라이드 합성",
-   "order": 30
+   "order": 30,
+   "md5": "1ae30adf5d1b3596b39ecab818a9c680"
   },
   {
    "id": "p0296",
    "src": "이미지/20211006_172356.jpg",
    "type": "walk",
    "caption": "지붕을 씌운 계단의 보행 육교",
-   "order": 30
+   "order": 30,
+   "md5": "7f26d36a41213109b2fef22031b0dd6b"
   },
   {
    "id": "p0297",
    "src": "이미지/20211015_083340.jpg",
    "type": "inclusive",
    "caption": "파란 노면으로 강조한 장애인 주차구역",
-   "order": 20
+   "order": 20,
+   "md5": "e9f42304de1b503008ed6babe9e5136c"
   },
   {
    "id": "p0298",
    "src": "이미지/20211018_124346.jpg",
    "type": "bike",
    "caption": "교차로를 지나는 붉은 자전거 전용차로",
-   "order": 20
+   "order": 20,
+   "md5": "97a3ad83a3e4db70ebc1282b45bd703b"
   },
   {
    "id": "p0299",
    "src": "이미지/20211205_134823.jpg",
    "type": "sign",
    "caption": "차로를 안내하는 분홍색 노면 유도선",
-   "order": 30
+   "order": 30,
+   "md5": "b7bf6e4b5eef9132d2f3c058fca1f663"
   },
   {
    "id": "p0300",
    "src": "이미지/20211205_140720.jpg",
    "type": "exclude",
    "caption": "제외 / 같은 도로변 울타리 사진 반복",
-   "order": 30
+   "order": 30,
+   "md5": "f88b3417661a8327a4bb8e5cff20427e"
   },
   {
    "id": "p0301",
    "src": "이미지/20211205_140739.jpg",
    "type": "exclude",
    "caption": "제외 / 같은 도로변 울타리 사진 반복",
-   "order": 30
+   "order": 30,
+   "md5": "586199aad260705c6ffcf19e7afb4a49"
   },
   {
    "id": "p0302",
    "src": "이미지/20211205_140746.jpg",
    "type": "exclude",
    "caption": "제외 / 같은 도로변 울타리 사진 반복",
-   "order": 30
+   "order": 30,
+   "md5": "7c45789552a1be76d4207220543dde6f"
   },
   {
    "id": "p0303",
    "src": "이미지/20211205_140747.jpg",
    "type": "exclude",
    "caption": "제외 / 같은 도로변 울타리 사진 반복",
-   "order": 30
+   "order": 30,
+   "md5": "a17e49c32f56063a1038495b8900f960"
   },
   {
    "id": "p0304",
    "src": "이미지/20211205_140751.jpg",
    "type": "color",
    "caption": "노랑 검정 줄무늬를 두른 도로변 울타리",
-   "order": 30
+   "order": 30,
+   "md5": "46649699c00b5eb029ee85c6fcfdedb6"
   },
   {
    "id": "p0305",
    "src": "이미지/20220419_151138.jpg",
    "type": "color",
    "caption": "노란 벽과 줄무늬 기둥으로 밝힌 주차장",
-   "order": 20
+   "order": 20,
+   "md5": "53968d908a4f89adb3d81c167edc9f4a"
   },
   {
    "id": "p0306",
    "src": "이미지/20220419_151940.jpg",
    "type": "sign",
    "caption": "천호역 공영주차장 입구 사인",
-   "order": 30
+   "order": 30,
+   "md5": "07c57db23862f1734e9b9a4e995992f2"
   },
   {
    "id": "p0307",
    "src": "이미지/20220419_170133.jpg",
    "type": "cpted",
    "caption": "노란 대문으로 환하게 바꾼 골목 집 앞",
-   "order": 30
+   "order": 30,
+   "md5": "d2b2a63af5fa0c7421af0d156738398f"
   },
   {
    "id": "p0308",
    "src": "이미지/20220419_170148.jpg",
    "type": "cpted",
    "caption": "노란 문과 안내판으로 정돈한 골목길",
-   "order": 30
+   "order": 30,
+   "md5": "ec93c788399afe8fd22e1214692dae67"
   },
   {
    "id": "p0309",
    "src": "이미지/20220419_170157.jpg",
    "type": "cpted",
    "caption": "노란 담장과 벽화가 이어지는 안심 골목",
-   "order": 20
+   "order": 20,
+   "md5": "ab1e17a908393ff320efd6bd18b9125d"
   },
   {
    "id": "p0310",
    "src": "이미지/4-03.jpg",
    "type": "sign",
    "caption": "기둥에 붙인 엘리베이터 방향 안내",
-   "order": 30
+   "order": 30,
+   "md5": "d245ab40048e89eeda40a299713f55db"
   },
   {
    "id": "p0311",
    "src": "이미지/5a8ec9a5ae257_jojgtkd2kn5z__605.jpg",
    "type": "nudge",
    "caption": "선풍기와 전구 모양으로 구분한 천장 줄",
-   "order": 30
+   "order": 30,
+   "md5": "3be59c5394ee866d73c760f28b334c2a"
   },
   {
    "id": "p0312",
    "src": "이미지/5a8ed04b49481_8k232lhn38b01__605.jpg",
    "type": "exclude",
    "caption": "제외 / 쓰임이 불분명한 의자 사진",
-   "order": 30
+   "order": 30,
+   "md5": "6c631d37ff677fc7a6368f94569a634d"
   },
   {
    "id": "p0313",
    "src": "이미지/5a8fe3025ee13_zYIOeh4r__605.jpg",
    "type": "furniture",
    "caption": "가방 끈을 걸 수 있게 틈을 둔 의자",
-   "order": 30
+   "order": 30,
+   "md5": "41929a3227107988981daa592e937b6e"
   },
   {
    "id": "p0314",
    "src": "이미지/5a90206626859_LFEU2Er__605.jpg",
    "type": "exclude",
    "caption": "제외 / 의미 없는 과자 봉지 사진",
-   "order": 30
+   "order": 30,
+   "md5": "3317ad4fad930cb570329e24cea5394c"
   },
   {
    "id": "p0315",
    "src": "이미지/5a9ce8cd95044_x1pnjZx__605.jpg",
    "type": "inclusive",
    "caption": "작은 글씨를 읽도록 돋보기를 단 쇼핑카트",
-   "order": 20
+   "order": 20,
+   "md5": "eb96be0fd1d28c9bb110bd81a19a4379"
   },
   {
    "id": "p0316",
    "src": "이미지/89561814_10157959459409076_51693861302435840_o.jpg",
    "type": "bike",
    "caption": "교차로를 가로지르는 초록 자전거길",
-   "order": 20
+   "order": 20,
+   "md5": "75cbabad386f6c98839ff4a92f8e0015"
   },
   {
    "id": "p0317",
    "src": "이미지/89638639_10157959459339076_28155795547881472_o.jpg",
    "type": "bike",
    "caption": "보행과 자전거 길을 무늬로 나눈 횡단로",
-   "order": 10
+   "order": 10,
+   "md5": "3fec6076f9105eb7812d78dbe3be93c4"
   },
   {
    "id": "p0318",
    "src": "이미지/89695162_10157959459304076_2766875759522873344_o.jpg",
    "type": "bike",
    "caption": "자전거 문양을 새긴 초록 횡단 포장",
-   "order": 20
+   "order": 20,
+   "md5": "d1ac9b1e78e1491300e9e7b27ec6d46a"
   },
   {
    "id": "p0319",
    "src": "이미지/89834540_10157959459289076_4511849374782849024_o.jpg",
    "type": "bike",
    "caption": "양보 표지가 선 자전거길 모퉁이",
-   "order": 30
+   "order": 30,
+   "md5": "77db62b142724d1e431c9457254ea742"
   },
   {
    "id": "p0320",
    "src": "이미지/DDP.jpg",
    "type": "street",
    "caption": "동대문디자인플라자 DDP 전경",
-   "order": 10
+   "order": 10,
+   "md5": "46efd7feb3589fbd20e06a79e60c885e"
   },
   {
    "id": "p0321",
    "src": "이미지/DSC_0003.JPG",
    "type": "color",
    "caption": "차로 가장자리를 비워 두는 노란 빗금",
-   "order": 30
+   "order": 30,
+   "md5": "e623241f7db9d2255cccd5a020ee63a0"
   },
   {
    "id": "p0322",
    "src": "이미지/DSC_0006.JPG",
    "type": "furniture",
    "caption": "색으로 구분한 스테인리스 분리수거함",
-   "order": 20
+   "order": 20,
+   "md5": "0a283ba8052d29ba30e42b9cee23513e"
   },
   {
    "id": "p0323",
    "src": "이미지/DSC_0008.JPG",
    "type": "sign",
    "caption": "유리벽에 붙인 소화전과 소화기 위치 표시",
-   "order": 30
+   "order": 30,
+   "md5": "73f46ba1f6b0c50cbb6dd8e695406c6f"
   },
   {
    "id": "p0324",
    "src": "이미지/DSC_0019.JPG",
    "type": "inclusive",
    "caption": "물가 광장의 계단과 나란한 경사로",
-   "order": 30
+   "order": 30,
+   "md5": "9bb1fcc639f0ccddca96ea65c28aeb8f"
   },
   {
    "id": "p0325",
    "src": "이미지/DSC_0020.JPG",
    "type": "street",
    "caption": "물 위를 지나는 곡선 고가도로",
-   "order": 30
+   "order": 30,
+   "md5": "5a43ae19cd5a1b066a828a8d2419e628"
   },
   {
    "id": "p0326",
    "src": "이미지/DSC_0021.JPG",
    "type": "exclude",
    "caption": "제외 / 차창 반사가 심한 비슷한 다리 사진",
-   "order": 30
+   "order": 30,
+   "md5": "347dbc521183e146f8ea0d52401974a0"
   },
   {
    "id": "p0327",
    "src": "이미지/DSC_0022.JPG",
    "type": "furniture",
    "caption": "보도 가장자리의 화강석 플랜터",
-   "order": 30
+   "order": 30,
+   "md5": "8c3f23a4f8e64092180706cd796aa687"
   },
   {
    "id": "p0328",
    "src": "이미지/DSC_0023.JPG",
    "type": "color",
    "caption": "차량 출구를 알리는 노란 체크무늬 노면",
-   "order": 20
+   "order": 20,
+   "md5": "55505cc19722566e03382ca1a783823e"
   },
   {
    "id": "p0329",
    "src": "이미지/DSC_0026.JPG",
    "type": "sign",
    "caption": "택시 승차 동선을 그린 건물 앞 노면",
-   "order": 30
+   "order": 30,
+   "md5": "d05b5d5464998a6f00313c8b588594b8"
   },
   {
    "id": "p0330",
    "src": "이미지/DSC_0027.JPG",
    "type": "sign",
    "caption": "택시 픽토그램을 단 승강장 사인 기둥",
-   "order": 20
+   "order": 20,
+   "md5": "2d818cbf88a57b8593bbd3dba670e42f"
   },
   {
    "id": "p0331",
    "src": "이미지/DSC_0028 (2).JPG",
    "type": "color",
    "caption": "주차장 진입로 앞 노란 지그재그 노면",
-   "order": 30
+   "order": 30,
+   "md5": "7e885857ad9ba4700aa97f760521833d"
   },
   {
    "id": "p0332",
    "src": "이미지/DSC_0031.JPG",
    "type": "furniture",
    "caption": "쇼핑몰 바닥에 놓인 분리수거함",
-   "order": 30
+   "order": 30,
+   "md5": "21074f87cfd66979b30c9d5c1fdd3b0d"
   },
   {
    "id": "p0333",
    "src": "이미지/DSC_0032.JPG",
    "type": "bike",
    "caption": "보행가로에 놓인 붉은 고리형 자전거 거치대",
-   "order": 20
+   "order": 20,
+   "md5": "a87c0ea5b72a9ee1a001d1f156fe230f"
   },
   {
    "id": "p0334",
    "src": "이미지/DSC_0033 (2).JPG",
    "type": "color",
    "caption": "차량 출구를 경고하는 붉은 화살표",
-   "order": 30
+   "order": 30,
+   "md5": "e744128e1887755fdc735a0808120385"
   },
   {
    "id": "p0335",
    "src": "이미지/DSC_0033.JPG",
    "type": "walk",
    "caption": "돌 포장 띠로 나눈 차도와 보행 공간",
-   "order": 30
+   "order": 30,
+   "md5": "eddf31689c49d0dcf385b72e5edcbf55"
   },
   {
    "id": "p0336",
    "src": "이미지/DSC_0034.JPG",
    "type": "sign",
    "caption": "노선 안내와 붉은 벽화가 있는 지하철 입구",
-   "order": 20
+   "order": 20,
+   "md5": "29560aa5f77e06f8e5e72cbe12b1c96a"
   },
   {
    "id": "p0337",
    "src": "이미지/DSC_0035 (2).JPG",
    "type": "sign",
    "caption": "파란 줄무늬를 두른 교차로 표지 기둥",
-   "order": 30
+   "order": 30,
+   "md5": "d5348cf7c1ae0da7c7514b171e87135a"
   },
   {
    "id": "p0338",
    "src": "이미지/DSC_0035.JPG",
    "type": "furniture",
    "caption": "화단을 감싼 원형 나무 벤치",
-   "order": 20
+   "order": 20,
+   "md5": "9aa87c7d96c0bb10e1ccff165f31c43e"
   },
   {
    "id": "p0339",
    "src": "이미지/DSC_0036 (2).JPG",
    "type": "color",
    "caption": "계단 앞을 알리는 붉은 줄무늬 바닥",
-   "order": 20
+   "order": 20,
+   "md5": "91718f9799f400159fd3892eab2afdcf"
   },
   {
    "id": "p0340",
    "src": "이미지/DSC_0036.JPG",
    "type": "bike",
    "caption": "도로 가장자리를 달리는 자전거 이용자",
-   "order": 20
+   "order": 20,
+   "md5": "1248f832eb53c5ef93754ad87ae17636"
   },
   {
    "id": "p0341",
    "src": "이미지/DSC_0038 (2).JPG",
    "type": "bike",
    "caption": "붉은 자전거길이 이어지는 교차로",
-   "order": 20
+   "order": 20,
+   "md5": "8cda1afb70bb19bdd96046cb37bb9fb2"
   },
   {
    "id": "p0342",
    "src": "이미지/DSC_0038.JPG",
    "type": "walk",
    "caption": "돌 포장 띠로 구획한 넓은 보도",
-   "order": 30
+   "order": 30,
+   "md5": "9c97712c6db1ba4fce9b12c00e4a0d7a"
   },
   {
    "id": "p0343",
    "src": "이미지/DSC_0039.JPG",
    "type": "furniture",
    "caption": "자전거길 옆 유리 버스 쉘터",
-   "order": 20
+   "order": 20,
+   "md5": "678962c46d100884b542350c33c639c9"
   },
   {
    "id": "p0344",
    "src": "이미지/DSC_0040.JPG",
    "type": "furniture",
    "caption": "가로수 길의 투명한 버스 쉘터",
-   "order": 30
+   "order": 30,
+   "md5": "7f8b7d6841b328c1b7c5260f88296fda"
   },
   {
    "id": "p0345",
    "src": "이미지/DSC_0041.JPG",
    "type": "color",
    "caption": "흰 벽감 속 붉은 소방 호스릴",
-   "order": 30
+   "order": 30,
+   "md5": "cc3b0eec1c98968049f2a4a6644bd6c5"
   },
   {
    "id": "p0346",
    "src": "이미지/DSC_0046.JPG",
    "type": "sign",
    "caption": "파란 줄무늬 기둥의 방향 안내 사인",
-   "order": 30
+   "order": 30,
+   "md5": "365655deb515c500a59262f04083dc54"
   },
   {
    "id": "p0347",
    "src": "이미지/DSC_0052.JPG",
    "type": "furniture",
    "caption": "조명을 심은 자갈 포장 가로수 보호대",
-   "order": 30
+   "order": 30,
+   "md5": "8b3aeb9a96813fa1d6b40f0761624b81"
   },
   {
    "id": "p0348",
    "src": "이미지/DSC_0053 (2).JPG",
    "type": "furniture",
    "caption": "가로수 옆 검은 원통형 쓰레기통",
-   "order": 30
+   "order": 30,
+   "md5": "f03f046d5875abbb3e2c7176d918c30c"
   },
   {
    "id": "p0349",
    "src": "이미지/DSC_0053.JPG",
    "type": "furniture",
    "caption": "환기구를 감싼 타원형 나무 벤치",
-   "order": 20
+   "order": 20,
+   "md5": "ade3af65ce5528a46a5963633ddd4e0f"
   },
   {
    "id": "p0350",
    "src": "이미지/DSC_0054 (2).JPG",
    "type": "furniture",
    "caption": "안내 픽토그램을 새긴 금속 블록 벤치",
-   "order": 30
+   "order": 30,
+   "md5": "58edea241f4e5f13882a085ab6c3ff23"
   },
   {
    "id": "p0351",
    "src": "이미지/DSC_0054.JPG",
    "type": "color",
    "caption": "붉은 소화기와 호스릴을 모은 복도",
-   "order": 20
+   "order": 20,
+   "md5": "81fbe201687b4e766018782225bad3bf"
   },
   {
    "id": "p0352",
    "src": "이미지/DSC_0061.JPG",
    "type": "street",
    "caption": "연두색 기둥이 리듬을 만드는 녹지 옆 길",
-   "order": 20
+   "order": 20,
+   "md5": "ced8282848ea030c371b660377f78c7a"
   },
   {
    "id": "p0353",
    "src": "이미지/DSC_0064.JPG",
    "type": "color",
    "caption": "단차 끝을 알리는 노란 점선",
-   "order": 20
+   "order": 20,
+   "md5": "9cfd60bfb248e77f63f320cf7e3c6f69"
   },
   {
    "id": "p0354",
    "src": "이미지/DSC_0065.JPG",
    "type": "color",
    "caption": "노란 화살 무늬로 단차를 알린 경사로",
-   "order": 20
+   "order": 20,
+   "md5": "3ffe51daaa16b496dd51cf7d5adcee16"
   },
   {
    "id": "p0355",
    "src": "이미지/DSC_0066.JPG",
    "type": "bike",
    "caption": "화단 벽에 붙인 나선형 자전거 거치대",
-   "order": 30
+   "order": 30,
+   "md5": "57baa26da3d44b09d1094bac3c9e7f3b"
   },
   {
    "id": "p0356",
    "src": "이미지/DSC_0067.JPG",
    "type": "color",
    "caption": "보도 위 기둥을 알리는 붉은 흰 줄무늬",
-   "order": 30
+   "order": 30,
+   "md5": "560f4d5fed78e27b5c18feca4f5f087c"
   },
   {
    "id": "p0357",
    "src": "이미지/DSC_0068.JPG",
    "type": "bike",
    "caption": "쇼핑객을 위한 나선형 자전거 거치대",
-   "order": 20
+   "order": 20,
+   "md5": "39c8d76212269f44a8a757ae2de168bd"
   },
   {
    "id": "p0358",
    "src": "이미지/DSC_0070.JPG",
    "type": "walk",
    "caption": "남은 시간을 알려 주는 보행 신호등",
-   "order": 30
+   "order": 30,
+   "md5": "761b3790a2423ff751bdd5902335e705"
   },
   {
    "id": "p0359",
    "src": "이미지/DSC_0071.JPG",
    "type": "furniture",
    "caption": "횡단보도 입구의 붉은 흰 줄무늬 볼라드",
-   "order": 30
+   "order": 30,
+   "md5": "24282ad237c141fc937a252a3565b1bb"
   },
   {
    "id": "p0360",
    "src": "이미지/DSC_0073.JPG",
    "type": "street",
    "caption": "노란 연석과 꽃 화분이 놓인 보도",
-   "order": 30
+   "order": 30,
+   "md5": "19b515bfe5e24043dcdd538ba0e37903"
   },
   {
    "id": "p0361",
    "src": "이미지/DSC_0074.JPG",
    "type": "walk",
    "caption": "붉은 원 무늬를 칠한 광장형 도로 노면",
-   "order": 20
+   "order": 20,
+   "md5": "588ca8e7f3342eb907352b566bcf0873"
   },
   {
    "id": "p0362",
    "src": "이미지/DSC_0075.JPG",
    "type": "color",
    "caption": "노란색으로 칠한 보도 연석",
-   "order": 30
+   "order": 30,
+   "md5": "7f4582a5880de7ae54f707c7e58823d6"
   },
   {
    "id": "p0363",
    "src": "이미지/DSC_0079.JPG",
    "type": "exclude",
    "caption": "인물 중심의 답사 사진",
-   "order": 30
+   "order": 30,
+   "md5": "ed678eeea49e22fc51ec766a938d53f6"
   },
   {
    "id": "p0364",
    "src": "이미지/DSC_0081 (2).JPG",
    "type": "furniture",
    "caption": "보도와 화단을 가르는 낮은 금속 난간",
-   "order": 30
+   "order": 30,
+   "md5": "9296d2a2eafc91955987d0ad666648a3"
   },
   {
    "id": "p0365",
    "src": "이미지/DSC_0081.JPG",
    "type": "nudge",
    "caption": "승하차 동선을 나누는 승강장 바닥 화살표",
-   "order": 30
+   "order": 30,
+   "md5": "dce3cabdc7aced6bd772e51ca15b267d"
   },
   {
    "id": "p0366",
    "src": "이미지/DSC_0082.JPG",
    "type": "nudge",
    "caption": "스크린도어 앞 줄서기 위치를 알리는 화살표",
-   "order": 20
+   "order": 20,
+   "md5": "841821b904e8c19de3ce31e8715f6aad"
   },
   {
    "id": "p0367",
    "src": "이미지/DSC_0089.JPG",
    "type": "walk",
    "caption": "차로를 가로지르는 붉은 줄무늬 노면",
-   "order": 30
+   "order": 30,
+   "md5": "56597b08dd00bb236c61ad6a8a32c2ce"
   },
   {
    "id": "p0368",
    "src": "이미지/DSC_0091.JPG",
    "type": "exclude",
    "caption": "의미가 불분명한 바닥 사진",
-   "order": 30
+   "order": 30,
+   "md5": "8c074a78ec6e6570182e327ba8005fcf"
   },
   {
    "id": "p0369",
    "src": "이미지/DSC_0093.JPG",
    "type": "street",
    "caption": "가로수와 볼라드가 이어지는 넓은 가로",
-   "order": 30
+   "order": 30,
+   "md5": "e528feb2a43cafb78e31e53ca63d2387"
   },
   {
    "id": "p0370",
    "src": "이미지/DSC_0095.JPG",
    "type": "play",
    "caption": "고가도로 아래 곡선 화단을 둔 보행 공간",
-   "order": 30
+   "order": 30,
+   "md5": "38384741599106e464840b9ca760192b"
   },
   {
    "id": "p0371",
    "src": "이미지/DSC_0106.JPG",
    "type": "furniture",
    "caption": "화단 가장자리에 놓인 벽돌 앉음 블록",
-   "order": 20
+   "order": 20,
+   "md5": "1b3c22dcf6980197b63d170831a32c49"
   },
   {
    "id": "p0372",
    "src": "이미지/DSC_0107.JPG",
    "type": "walk",
    "caption": "단차 없이 보행자와 차가 함께 쓰는 거리",
-   "order": 20
+   "order": 20,
+   "md5": "93011d2f0d52bc31a144985d82b86219"
   },
   {
    "id": "p0373",
    "src": "이미지/DSC_0109.JPG",
    "type": "furniture",
    "caption": "건물 입구 옆에 모아 둔 분리수거함",
-   "order": 30
+   "order": 30,
+   "md5": "8be0c1752d9fe1615a086bb643499aa4"
   },
   {
    "id": "p0374",
    "src": "이미지/DSC_0110 (2).JPG",
    "type": "furniture",
    "caption": "반사 표지를 붙인 길가 대형 수거함",
-   "order": 30
+   "order": 30,
+   "md5": "4871e37ea980440ca53ff0977c49b81b"
   },
   {
    "id": "p0375",
    "src": "이미지/DSC_0110 (3).JPG",
    "type": "walk",
    "caption": "계단 발치에 부채꼴로 깐 돌포장",
-   "order": 30
+   "order": 30,
+   "md5": "3629fe4b57ebbb670916ecfabc2b0266"
   },
   {
    "id": "p0376",
    "src": "이미지/DSC_0110.JPG",
    "type": "color",
    "caption": "벤치 자리를 노란 선으로 두른 역사 바닥",
-   "order": 20
+   "order": 20,
+   "md5": "1e7f462c9582786f02293b648ab2073b"
   },
   {
    "id": "p0377",
    "src": "이미지/DSC_0111 (2).JPG",
    "type": "street",
    "caption": "가로수가 줄지어 선 넓은 돌 보도",
-   "order": 30
+   "order": 30,
+   "md5": "72f1cf10bb49591af27eb48e6ebd14a4"
   },
   {
    "id": "p0378",
    "src": "이미지/DSC_0111.JPG",
    "type": "sign",
    "caption": "금지 픽토그램과 비상 설비를 모은 역사 기둥",
-   "order": 30
+   "order": 30,
+   "md5": "8f763f7e4a66df93425b491404ee4ddb"
   },
   {
    "id": "p0379",
    "src": "이미지/DSC_0112.JPG",
    "type": "furniture",
    "caption": "색으로 분리 품목을 구분한 길가 대형 수거함",
-   "order": 20
+   "order": 20,
+   "md5": "b84f42c4fd540ac6e532430c9459f919"
   },
   {
    "id": "p0380",
    "src": "이미지/DSC_0113.JPG",
    "type": "exclude",
    "caption": "의미가 약한 가로수 바닥 사진",
-   "order": 30
+   "order": 30,
+   "md5": "0323b83f60c82af0ee8afe8fce6ab1a9"
   },
   {
    "id": "p0381",
    "src": "이미지/DSC_0118.JPG",
    "type": "furniture",
    "caption": "고가 아래에 줄지어 놓은 대형 화분",
-   "order": 30
+   "order": 30,
+   "md5": "c2c9a76bd8eb1ed4e4f542d018f73d50"
   },
   {
    "id": "p0382",
    "src": "이미지/DSC_0120.JPG",
    "type": "color",
    "caption": "골목 모퉁이에 선 붉은 진입 금지 기둥",
-   "order": 30
+   "order": 30,
+   "md5": "1fa34fffc5adfdaa165bff287f60bc39"
   },
   {
    "id": "p0383",
    "src": "이미지/DSC_0129 (2).JPG",
    "type": "furniture",
    "caption": "바닥 조명을 품은 가로수 보호 구역",
-   "order": 30
+   "order": 30,
+   "md5": "66d5faa529bcda32a519264edcd443f8"
   },
   {
    "id": "p0384",
    "src": "이미지/DSC_0129.JPG",
    "type": "sign",
    "caption": "조형 기둥에 모아 단 공원 금지 표지",
-   "order": 20
+   "order": 20,
+   "md5": "f23b2e398cd876907ccb32ecfc369b6f"
   },
   {
    "id": "p0385",
    "src": "이미지/DSC_0130.JPG",
    "type": "walk",
    "caption": "흑백 줄무늬 신호 기둥이 선 교차로 횡단보도",
-   "order": 20
+   "order": 20,
+   "md5": "d91ef35afc1468fc64bea2d6cd6076f1"
   },
   {
    "id": "p0386",
    "src": "이미지/DSC_0134 (2).JPG",
    "type": "cpted",
    "caption": "어두운 지하보도를 밝힌 주황색 입구",
-   "order": 20
+   "order": 20,
+   "md5": "462d4707ecdc2a7816828c323c3c3699"
   },
   {
    "id": "p0387",
    "src": "이미지/DSC_0137.JPG",
    "type": "cpted",
    "caption": "리틀 베니스로 이어지는 주황 지하보도 입구",
-   "order": 10
+   "order": 10,
+   "md5": "eb26e2303d350ab39a2e97c6c09d7038"
   },
   {
    "id": "p0388",
    "src": "이미지/DSC_0138 (2).JPG",
    "type": "color",
    "caption": "눈에 잘 띄는 흑백 줄무늬 신호 기둥",
-   "order": 30
+   "order": 30,
+   "md5": "a39896ef1320d93c0e33300846588649"
   },
   {
    "id": "p0389",
    "src": "이미지/DSC_0138.JPG",
    "type": "cpted",
    "caption": "자전거도 지나는 밝은 주황 지하보도",
-   "order": 10
+   "order": 10,
+   "md5": "dd0f6915e9a86cf2578c5f8fef7ca5a0"
   },
   {
    "id": "p0390",
    "src": "이미지/DSC_0141.JPG",
    "type": "cpted",
    "caption": "벽화와 조명으로 환하게 바꾼 지하보도 내부",
-   "order": 10
+   "order": 10,
+   "md5": "555abb312b5d765d250fac818ef26ed1"
   },
   {
    "id": "p0391",
    "src": "이미지/DSC_0142.JPG",
    "type": "cpted",
    "caption": "하늘을 연 원형 채광부와 노란 지하보도",
-   "order": 20
+   "order": 20,
+   "md5": "22a55877cfad46a404502c756402af6f"
   },
   {
    "id": "p0392",
    "src": "이미지/DSC_0143.JPG",
    "type": "cpted",
    "caption": "CCTV와 밝은 노란 벽으로 지키는 지하보도",
-   "order": 20
+   "order": 20,
+   "md5": "14e70cb398a2cfdec9a85ac886cbc830"
   },
   {
    "id": "p0393",
    "src": "이미지/DSC_0144 (2).JPG",
    "type": "exclude",
    "caption": "같은 지하보도 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "64e6da6ffd2adb831270d6a5e23c43a9"
   },
   {
    "id": "p0394",
    "src": "이미지/DSC_0144.JPG",
    "type": "nudge",
    "caption": "계단 디딤판마다 찍은 녹색 동선 표시",
-   "order": 20
+   "order": 20,
+   "md5": "0ce170f2f2c765e21ba6660f3b04b9d7"
   },
   {
    "id": "p0395",
    "src": "이미지/DSC_0145 (2).JPG",
    "type": "cpted",
    "caption": "파란 문틀로 눈에 띄게 만든 지하보도 입구",
-   "order": 20
+   "order": 20,
+   "md5": "cc3ba584beb8d3c1bfaacab06728d996"
   },
   {
    "id": "p0396",
    "src": "이미지/DSC_0145.JPG",
    "type": "color",
    "caption": "에스컬레이터 옆 노란 손잡이 계단",
-   "order": 30
+   "order": 30,
+   "md5": "7c81e017b403b26c9359b39aa3041c14"
   },
   {
    "id": "p0397",
    "src": "이미지/DSC_0146.JPG",
    "type": "cpted",
    "caption": "노란 벽과 푸른 모자이크가 이어지는 지하보도",
-   "order": 10
+   "order": 10,
+   "md5": "d385f7509d3523fc8c154e4d2932dcab"
   },
   {
    "id": "p0398",
    "src": "이미지/DSC_0148.JPG",
    "type": "street",
    "caption": "벽돌 건물 사이로 곧게 뻗은 도심 가로",
-   "order": 30
+   "order": 30,
+   "md5": "9a44e407c161f10260be708ce819b9fa"
   },
   {
    "id": "p0399",
    "src": "이미지/DSC_0149.JPG",
    "type": "furniture",
    "caption": "목재 데크에 맞춘 가로수 보호 덮개",
-   "order": 20
+   "order": 20,
+   "md5": "5f37556460b7af882dad4ae39bb7bee6"
   },
   {
    "id": "p0400",
    "src": "이미지/DSC_0150.JPG",
    "type": "walk",
    "caption": "벽돌 창고 사이를 잇는 목재 보행교",
-   "order": 20
+   "order": 20,
+   "md5": "94530edcaf1a217de1055019b340506f"
   },
   {
    "id": "p0401",
    "src": "이미지/DSC_0156.JPG",
    "type": "furniture",
    "caption": "노란 연석 옆 작은 버스 쉘터",
-   "order": 30
+   "order": 30,
+   "md5": "28925bae3e9a2da2575bcf7131045887"
   },
   {
    "id": "p0402",
    "src": "이미지/DSC_0157.JPG",
    "type": "exclude",
    "caption": "의미가 약한 거리 사진",
-   "order": 30
+   "order": 30,
+   "md5": "7f85574255dfa2ff755dbe6656746b74"
   },
   {
    "id": "p0403",
    "src": "이미지/DSC_0158 (2).JPG",
    "type": "furniture",
    "caption": "보도 위 유리 공중전화 부스",
-   "order": 30
+   "order": 30,
+   "md5": "2ac01d809c2e9ed7fd5fc415b41d7303"
   },
   {
    "id": "p0404",
    "src": "이미지/DSC_0158.JPG",
    "type": "furniture",
    "caption": "승객으로 붐비는 긴 지붕 버스정류장",
-   "order": 20
+   "order": 20,
+   "md5": "b3276a80211134ec66f27f5115004488"
   },
   {
    "id": "p0405",
    "src": "이미지/DSC_0159.JPG",
    "type": "furniture",
    "caption": "돌 벤치와 노선도를 갖춘 버스 쉘터",
-   "order": 20
+   "order": 20,
+   "md5": "7602e5caaf1760f22650481ecf8bd90a"
   },
   {
    "id": "p0406",
    "src": "이미지/DSC_0171.JPG",
    "type": "sign",
    "caption": "초록 벽면에 크게 쓴 건물 번호",
-   "order": 20
+   "order": 20,
+   "md5": "15fe4b41ad87a8259b0aa3fd4da6fbba"
   },
   {
    "id": "p0407",
    "src": "이미지/DSC_0172.JPG",
    "type": "color",
    "caption": "멀리서도 보이는 붉은 소방 호스함",
-   "order": 30
+   "order": 30,
+   "md5": "fcf2206af0ef2479106fef6cf1cd1746"
   },
   {
    "id": "p0408",
    "src": "이미지/DSC_0177.JPG",
    "type": "exclude",
    "caption": "같은 보행교 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "b72904e9412e3b2331171410fe7a5c24"
   },
   {
    "id": "p0409",
    "src": "이미지/DSC_0179 (2).JPG",
    "type": "furniture",
    "caption": "안내 단말기를 갖춘 유리 버스 쉘터",
-   "order": 20
+   "order": 20,
+   "md5": "44933f1f3132d4f5e78329d037d2bb99"
   },
   {
    "id": "p0410",
    "src": "이미지/DSC_0179.JPG",
    "type": "walk",
    "caption": "아파트 사이를 잇는 목재 보행 데크",
-   "order": 20
+   "order": 20,
+   "md5": "c12109dc0416708adcef22d6a7ca5325"
   },
   {
    "id": "p0411",
    "src": "이미지/DSC_0185.JPG",
    "type": "furniture",
    "caption": "연석으로 둘러싼 가로수 식재 구역",
-   "order": 30
+   "order": 30,
+   "md5": "90900d7214c54a5546be8e2ff2314694"
   },
   {
    "id": "p0412",
    "src": "이미지/DSC_0196.JPG",
    "type": "walk",
    "caption": "과속방지턱을 알리는 흰 체크무늬 노면",
-   "order": 20
+   "order": 20,
+   "md5": "dae3f7e2d0eb25bd4587323142b079a9"
   },
   {
    "id": "p0413",
    "src": "이미지/DSC_0197 (2).JPG",
    "type": "bike",
    "caption": "녹색 체크무늬로 칠한 자전거길 옆 노면",
-   "order": 20
+   "order": 20,
+   "md5": "d05a953453937002f9eec7d03087721d"
   },
   {
    "id": "p0414",
    "src": "이미지/DSC_0197.JPG",
    "type": "street",
    "caption": "붉은 건물이 선 교차로 풍경",
-   "order": 20
+   "order": 20,
+   "md5": "d8c48ff53ba01e52d35581e21388ff0c"
   },
   {
    "id": "p0415",
    "src": "이미지/DSC_0198 (2).JPG",
    "type": "bike",
    "caption": "녹색 볼라드로 차도와 나눈 자전거도로",
-   "order": 20
+   "order": 20,
+   "md5": "8d4a833f6e98c6d2208dcb41efdc6037"
   },
   {
    "id": "p0416",
    "src": "이미지/DSC_0198.JPG",
    "type": "street",
    "caption": "큰 나무를 살린 교차로 보도 모퉁이",
-   "order": 30
+   "order": 30,
+   "md5": "acdddcf3387f693a8d9ad6366b25e140"
   },
   {
    "id": "p0417",
    "src": "이미지/DSC_0201.JPG",
    "type": "street",
    "caption": "고가 보행 데크 아래 버스 터미널 풍경",
-   "order": 30
+   "order": 30,
+   "md5": "6960e478ac327037ecea4378c492f1ad"
   },
   {
    "id": "p0418",
    "src": "이미지/DSC_0207.JPG",
    "type": "color",
    "caption": "원형 단차 모서리에 두른 흰 경계선",
-   "order": 20
+   "order": 20,
+   "md5": "6834742eeafae56adb660cd42ad68f79"
   },
   {
    "id": "p0419",
    "src": "이미지/DSC_0211.JPG",
    "type": "furniture",
    "caption": "투명 창으로 내용물이 보이는 분리수거함",
-   "order": 20
+   "order": 20,
+   "md5": "7d74a6f00ef4db070448e5f792990e89"
   },
   {
    "id": "p0420",
    "src": "이미지/DSC_0213.JPG",
    "type": "furniture",
    "caption": "승강장 매점 앞 경사 투입구 분리수거함",
-   "order": 30
+   "order": 30,
+   "md5": "229214ffc2c9a42004ad134c788ea276"
   },
   {
    "id": "p0421",
    "src": "이미지/DSC_0214.JPG",
    "type": "sign",
    "caption": "승강장 기둥에 단 비상 정지 버튼과 안내",
-   "order": 30
+   "order": 30,
+   "md5": "c748e597c9a51b6e4134fcc7a6e1e562"
   },
   {
    "id": "p0422",
    "src": "이미지/DSC_0219.JPG",
    "type": "color",
    "caption": "단차 앞에 노란 띠로 쓴 발밑 주의 문구",
-   "order": 20
+   "order": 20,
+   "md5": "5d37d88ff366a4ccb2322973d1949546"
   },
   {
    "id": "p0423",
    "src": "이미지/DSC_0221.JPG",
    "type": "color",
    "caption": "노랑 검정 줄무늬로 칠한 볼라드",
-   "order": 30
+   "order": 30,
+   "md5": "516a7bca05285122853750297dbef53c"
   },
   {
    "id": "p0424",
    "src": "이미지/DSC_0236.JPG",
    "type": "bike",
    "caption": "보도 옆으로 길게 이어진 붉은 자전거도로",
-   "order": 20
+   "order": 20,
+   "md5": "4ace580daa9b76d22277c4c6a411869d"
   },
   {
    "id": "p0425",
    "src": "이미지/DSC_0242.JPG",
    "type": "walk",
    "caption": "가로수 중앙 녹지를 가로지르는 횡단보도",
-   "order": 30
+   "order": 30,
+   "md5": "443424a12030d8ef15ff4973a13c8f88"
   },
   {
    "id": "p0426",
    "src": "이미지/DSC_0248.JPG",
    "type": "furniture",
    "caption": "나무 아래 흩어 놓은 개인 의자와 벤치",
-   "order": 20
+   "order": 20,
+   "md5": "eb2a05d934e7a123531a2f997114ef37"
   },
   {
    "id": "p0427",
    "src": "이미지/DSC_0249.JPG",
    "type": "furniture",
    "caption": "타공 금속 블록 벤치가 놓인 산책로",
-   "order": 20
+   "order": 20,
+   "md5": "351243278532e73940279cf454407f2c"
   },
   {
    "id": "p0428",
    "src": "이미지/DSC_0250.JPG",
    "type": "inclusive",
    "caption": "단차 없는 돌길 경계에 깐 홈 파인 촉지 띠",
-   "order": 30
+   "order": 30,
+   "md5": "9f69511e7ffd331fadcaec8d51452504"
   },
   {
    "id": "p0429",
    "src": "이미지/DSC_0252.JPG",
    "type": "furniture",
    "caption": "수변 산책로의 긴 목재 벤치와 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "39e24cc624cb07cfa06d442cbc871ac9"
   },
   {
    "id": "p0430",
    "src": "이미지/DSC_0253.JPG",
    "type": "furniture",
    "caption": "버스 승강장을 따라 늘어선 원뿔형 볼라드",
-   "order": 20
+   "order": 20,
+   "md5": "765f2f6dccddd6674b8dd5afa4ead0ea"
   },
   {
    "id": "p0431",
    "src": "이미지/DSC_0256.JPG",
    "type": "exclude",
    "caption": "같은 벤치 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "93fdf964a5c08ccbf29ef57b493a13c9"
   },
   {
    "id": "p0432",
    "src": "이미지/DSC_0257.JPG",
    "type": "furniture",
    "caption": "나무 그늘 아래 줄지어 놓인 타공 블록 벤치",
-   "order": 30
+   "order": 30,
+   "md5": "278f39faa4d7285dbfb2c5497389783f"
   },
   {
    "id": "p0433",
    "src": "이미지/DSC_0263.JPG",
    "type": "furniture",
    "caption": "광장에 흩어 놓은 반구형 금속 볼라드",
-   "order": 20
+   "order": 20,
+   "md5": "648ad87b867b0efa4852f76ddbbc7998"
   },
   {
    "id": "p0434",
    "src": "이미지/DSC_0264.JPG",
    "type": "bike",
    "caption": "붉은 자전거도로와 장애인 주차구획",
-   "order": 30
+   "order": 30,
+   "md5": "2edb88a64771c1c14984fe4d3c79a6f7"
   },
   {
    "id": "p0435",
    "src": "이미지/DSC_0267.JPG",
    "type": "furniture",
    "caption": "나무를 품은 긴 벤치와 계단식 광장",
-   "order": 30
+   "order": 30,
+   "md5": "292760288ea29a3b2a921d7067434303"
   },
   {
    "id": "p0436",
    "src": "이미지/DSC_0283.JPG",
    "type": "walk",
    "caption": "유리 건물을 잇는 공중 보행교와 횡단보도",
-   "order": 30
+   "order": 30,
+   "md5": "db0a76cf32c89f3d77f0b1a75d5ad81a"
   },
   {
    "id": "p0437",
    "src": "이미지/DSC_0286.JPG",
    "type": "walk",
    "caption": "자갈 마당에 흰 돌 띠로 그린 보행 동선",
-   "order": 30
+   "order": 30,
+   "md5": "8f99d45918d3c5a94a52c9db5bab1db0"
   },
   {
    "id": "p0438",
    "src": "이미지/DSC_0325.JPG",
    "type": "street",
    "caption": "도심 스카이라인을 마주한 수변 계단 산책로",
-   "order": 20
+   "order": 20,
+   "md5": "1baaecfb868a5309d94d46b74827080a"
   },
   {
    "id": "p0439",
    "src": "이미지/DSC_0347.JPG",
    "type": "furniture",
    "caption": "노란 다리를 단 버스 쉘터 광고판",
-   "order": 30
+   "order": 30,
+   "md5": "a73ed22ca84b7bf4ad260dcd9dede763"
   },
   {
    "id": "p0440",
    "src": "이미지/DSC_0364.JPG",
    "type": "bike",
    "caption": "돌 띠로 보도와 나눈 자전거도로",
-   "order": 30
+   "order": 30,
+   "md5": "4f3302376e31f0ae39c08d2bc82e8e60"
   },
   {
    "id": "p0441",
    "src": "이미지/DSC_0365.JPG",
    "type": "exclude",
    "caption": "같은 자전거도로 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "223f63fc61c6762e60f44be80f8b7fc1"
   },
   {
    "id": "p0442",
    "src": "이미지/DSC_0367.JPG",
    "type": "walk",
    "caption": "벽돌 포장 도로 위 횡단보도와 볼라드",
-   "order": 30
+   "order": 30,
+   "md5": "258a7fd8374d44e2b0d461e432e6f685"
   },
   {
    "id": "p0443",
    "src": "이미지/DSC_0388.JPG",
    "type": "color",
    "caption": "노랑 검정으로 칠한 골목 차량 차단기",
-   "order": 30
+   "order": 30,
+   "md5": "8ace7ce0aa7ec89d2918604eb4b4ea04"
   },
   {
    "id": "p0444",
    "src": "이미지/DSC_0391.JPG",
    "type": "walk",
    "caption": "M50 예술지구 골목을 가로지르는 횡단 표시",
-   "order": 30
+   "order": 30,
+   "md5": "ea9244cf2a5754d18f15174ac1d142ca"
   },
   {
    "id": "p0445",
    "src": "이미지/DSC_0392.JPG",
    "type": "bike",
    "caption": "돌길 위 매끈한 자전거 띠와 녹색 조명",
-   "order": 20
+   "order": 20,
+   "md5": "5ab0d71d58da3ed4d5c2fc9b74ad878b"
   },
   {
    "id": "p0446",
    "src": "이미지/DSC_0396 (2).JPG",
    "type": "furniture",
    "caption": "광장 가장자리를 따라 놓인 긴 목재 벤치",
-   "order": 30
+   "order": 30,
+   "md5": "fe2c4c9b1b3081d278cc10520c23e2fa"
   },
   {
    "id": "p0447",
    "src": "이미지/DSC_0396.JPG",
    "type": "exclude",
    "caption": "같은 자전거 띠 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "2eb0fd397e9121ca17047b38da83aec3"
   },
   {
    "id": "p0448",
    "src": "이미지/DSC_0399.JPG",
    "type": "street",
    "caption": "코르텐 강판으로 마감한 모퉁이 건물",
-   "order": 30
+   "order": 30,
+   "md5": "8a2dd872380ac3f1aec03230cdf9986f"
   },
   {
    "id": "p0449",
    "src": "이미지/DSC_0414.JPG",
    "type": "exclude",
    "caption": "같은 공사 가림막 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "5175f9b97f3ae552a1eeff136746c768"
   },
   {
    "id": "p0450",
    "src": "이미지/DSC_0415 (2).JPG",
    "type": "furniture",
    "caption": "광고판과 쓰레기통을 갖춘 버스 쉘터",
-   "order": 30
+   "order": 30,
+   "md5": "31448e96742ec598b2c706caf30bf84c"
   },
   {
    "id": "p0451",
    "src": "이미지/DSC_0415.JPG",
    "type": "color",
    "caption": "공사 가림막 모서리의 녹색 줄무늬 표시",
-   "order": 30
+   "order": 30,
+   "md5": "296d1c683fc8c2cd511afcc81a9479c9"
   },
   {
    "id": "p0452",
    "src": "이미지/DSC_0419.JPG",
    "type": "bike",
    "caption": "곡선으로 교차로를 돌아가는 붉은 자전거도로",
-   "order": 30
+   "order": 30,
+   "md5": "4e16d8a0578f6420ded868b11adb5b33"
   },
   {
    "id": "p0453",
    "src": "이미지/DSC_0420.JPG",
    "type": "furniture",
    "caption": "보도에 놓인 벤치와 대형 화분",
-   "order": 30
+   "order": 30,
+   "md5": "2dded96708115b9b5b5ce023ae92154c"
   },
   {
    "id": "p0454",
    "src": "이미지/DSC_0448.JPG",
    "type": "furniture",
    "caption": "수로 옆 산책로의 콘크리트 판 벤치",
-   "order": 30
+   "order": 30,
+   "md5": "030d067fd00ab8a789df011b92806257"
   },
   {
    "id": "p0455",
    "src": "이미지/DSC_0451 (2).JPG",
    "type": "furniture",
    "caption": "길 양쪽에 마주 놓인 콘크리트 판 벤치",
-   "order": 20
+   "order": 20,
+   "md5": "a0e252428d5ee878b1a5229446461e6e"
   },
   {
    "id": "p0456",
    "src": "이미지/DSC_0451.JPG",
    "type": "exclude",
    "caption": "같은 야간 바닥 조명 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "05064471bfad98d456251ac780a057ee"
   },
   {
    "id": "p0457",
    "src": "이미지/DSC_0452.JPG",
    "type": "bike",
    "caption": "밤이면 별빛처럼 빛나는 바닥 조명 띠",
-   "order": 10
+   "order": 10,
+   "md5": "d08ef57d0d94e9bfbec4bfaf1248b44f"
   },
   {
    "id": "p0458",
    "src": "이미지/DSC_0481.JPG",
    "type": "walk",
    "caption": "노란색으로 칠한 횡단보도",
-   "order": 20
+   "order": 20,
+   "md5": "8f9b48ce3275dd4734aa76dbac7c8ee0"
   },
   {
    "id": "p0459",
    "src": "이미지/DSC_0496.JPG",
    "type": "sign",
    "caption": "바닥에 금속 글자로 새긴 전시 제목",
-   "order": 20
+   "order": 20,
+   "md5": "dc7bc02011942b2bb4aee792869044be"
   },
   {
    "id": "p0460",
    "src": "이미지/DSC_0550.JPG",
    "type": "furniture",
    "caption": "금속 벽 앞에 세운 기둥형 재떨이",
-   "order": 30
+   "order": 30,
+   "md5": "ee4033a70a35bddf706cb9e4d5efa7bc"
   },
   {
    "id": "p0461",
    "src": "이미지/DSC_0551.JPG",
    "type": "furniture",
    "caption": "붉은 타공 패널로 감싼 가로변 시설",
-   "order": 20
+   "order": 20,
+   "md5": "50f3430c1c6c99fed6492fa69615c82d"
   },
   {
    "id": "p0462",
    "src": "이미지/DSC_0552.JPG",
    "type": "bike",
    "caption": "광장 바닥에 고정한 단순한 자전거 거치대",
-   "order": 30
+   "order": 30,
+   "md5": "6529e9beb5333315e4b9f983c12ba57c"
   },
   {
    "id": "p0463",
    "src": "이미지/DSC_0553.JPG",
    "type": "exclude",
    "caption": "같은 붉은 타공 시설 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "e69b0477a61037a0d6c76d004e4c1c22"
   },
   {
    "id": "p0464",
    "src": "이미지/DSC_0555.JPG",
    "type": "furniture",
    "caption": "빛과 그림자를 만드는 붉은 타공 패널",
-   "order": 20
+   "order": 20,
+   "md5": "e82942fa6506ee33fcf90171520aa36a"
   },
   {
    "id": "p0465",
    "src": "이미지/DSC_0560.JPG",
    "type": "color",
    "caption": "기둥 둘레에 원을 그린 승강장 바닥",
-   "order": 30
+   "order": 30,
+   "md5": "924a4385bc23849db7179eeb3947f830"
   },
   {
    "id": "p0466",
    "src": "이미지/DSC_0563.JPG",
    "type": "exclude",
    "caption": "같은 붉은 타공 시설 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "26b15bc7adb0909cc8b6cea8478e4b19"
   },
   {
    "id": "p0467",
    "src": "이미지/DSC_0566.JPG",
    "type": "exclude",
    "caption": "의미가 불분명한 설비 사진",
-   "order": 30
+   "order": 30,
+   "md5": "48634d5a8eb02afe915e913195804a31"
   },
   {
    "id": "p0468",
    "src": "이미지/DSC_0569.JPG",
    "type": "street",
    "caption": "바르셀로나 돌길에 비스듬히 박은 석판",
-   "order": 20
+   "order": 20,
+   "md5": "1ee7d89c7323d8a814b7b555cef31077"
   },
   {
    "id": "p0469",
    "src": "이미지/DSC_0570.JPG",
    "type": "walk",
    "caption": "자전거도로와 횡단보도가 겹치는 교차로",
-   "order": 30
+   "order": 30,
+   "md5": "f95618695195d17a9114b5948c9a7cfa"
   },
   {
    "id": "p0470",
    "src": "이미지/DSC_0589.JPG",
    "type": "walk",
    "caption": "석재 광장 포장에 길게 박은 금속 선",
-   "order": 30
+   "order": 30,
+   "md5": "258c46b8a47793c9e7b4ae01f938e154"
   },
   {
    "id": "p0471",
    "src": "이미지/DSC_0604.JPG",
    "type": "walk",
    "caption": "낮은 경계석으로 나눈 넓은 보도와 차로",
-   "order": 30
+   "order": 30,
+   "md5": "ad0e8014e2da9add99f4d4662e4b9543"
   },
   {
    "id": "p0472",
    "src": "이미지/DSC_0613.JPG",
    "type": "furniture",
    "caption": "곡선 연석 위에 놓인 삼각 석재 블록",
-   "order": 30
+   "order": 30,
+   "md5": "2be186e3055a09ade0287b0dbbf189f2"
   },
   {
    "id": "p0473",
    "src": "이미지/DSC_0622.JPG",
    "type": "walk",
    "caption": "상점가를 따라 넓게 이어진 목재 데크",
-   "order": 20
+   "order": 20,
+   "md5": "65f085a2a0a99ac2b8645d83f6942a42"
   },
   {
    "id": "p0474",
    "src": "이미지/DSC_0626.JPG",
    "type": "street",
    "caption": "옛 크레인을 남긴 수변 공원 산책로",
-   "order": 20
+   "order": 20,
+   "md5": "0c880c7285f9aa0e7c520aa7d7949415"
   },
   {
    "id": "p0475",
    "src": "이미지/DSC_0627.JPG",
    "type": "street",
    "caption": "도심 전망이 열리는 목재 데크 광장",
-   "order": 20
+   "order": 20,
+   "md5": "344df47b9200882e44d962a8931c0836"
   },
   {
    "id": "p0476",
    "src": "이미지/DSC_0632.JPG",
    "type": "inclusive",
    "caption": "목재 데크에 매립한 금속 보행 유도선",
-   "order": 20
+   "order": 20,
+   "md5": "54d943d0bfab682a75727365af707e9c"
   },
   {
    "id": "p0477",
    "src": "이미지/DSC_0634.JPG",
    "type": "furniture",
    "caption": "보도 끝선을 따라 늘어선 삼각 석재 블록",
-   "order": 20
+   "order": 20,
+   "md5": "137bee0e9caccd4a4b4162d3d4c11960"
   },
   {
    "id": "p0478",
    "src": "이미지/DSC_0650.JPG",
    "type": "furniture",
    "caption": "타공 무늬를 넣은 콘크리트 벤치",
-   "order": 30
+   "order": 30,
+   "md5": "3326d88b9d51553abe61177089ed5582"
   },
   {
    "id": "p0479",
    "src": "이미지/DSC_0651.JPG",
    "type": "street",
    "caption": "바다를 따라 이어진 흰 난간 산책로",
-   "order": 30
+   "order": 30,
+   "md5": "7a147b8392ba0f318832e6a50efd2251"
   },
   {
    "id": "p0480",
    "src": "이미지/DSC_0655.JPG",
    "type": "furniture",
    "caption": "주차 차량으로부터 가로수를 지키는 연석",
-   "order": 30
+   "order": 30,
+   "md5": "a71d1375654475e4c7ba510813ad48a4"
   },
   {
    "id": "p0481",
    "src": "이미지/DSC_0656.JPG",
    "type": "walk",
    "caption": "포장 패턴으로 나눈 보도와 주차 공간",
-   "order": 30
+   "order": 30,
+   "md5": "3bc31f9eb7ef64f62f595e638e296f45"
   },
   {
    "id": "p0482",
    "src": "이미지/DSC_0663.JPG",
    "type": "color",
    "caption": "계단 끝을 따라 붙인 노랑 검정 경고 띠",
-   "order": 30
+   "order": 30,
+   "md5": "6d25a45963e72c6f10a51ff0491875c2"
   },
   {
    "id": "p0483",
    "src": "이미지/DSC_0664.JPG",
    "type": "furniture",
    "caption": "가장자리에 앉을 수 있는 원형 화단",
-   "order": 20
+   "order": 20,
+   "md5": "fa9068a411a9924d9a39d4ed2c07f705"
   },
   {
    "id": "p0484",
    "src": "이미지/DSC_0680.JPG",
    "type": "bike",
    "caption": "안내 표지 아래 이어지는 붉은 자전거도로",
-   "order": 30
+   "order": 30,
+   "md5": "516d2bf7ab1c3b8a9791632c97031291"
   },
   {
    "id": "p0485",
    "src": "이미지/DSC_0684.JPG",
    "type": "walk",
    "caption": "흰 난간과 타일 포장이 이어지는 보행 육교",
-   "order": 20
+   "order": 20,
+   "md5": "50075720324af133a58aa89f4ec0665c"
   },
   {
    "id": "p0486",
    "src": "이미지/DSC_0685.JPG",
    "type": "sign",
    "caption": "벤치와 한 몸으로 만든 시오도메 건물 안내판",
-   "order": 20
+   "order": 20,
+   "md5": "504dfe9260431f2535b3efe3a581200a"
   },
   {
    "id": "p0487",
    "src": "이미지/DSC_0686.JPG",
    "type": "furniture",
    "caption": "화단 경계석 위에 얹은 목재 앉음판",
-   "order": 20
+   "order": 20,
+   "md5": "94b102b67f159b7f298b9ccc85512f31"
   },
   {
    "id": "p0488",
    "src": "이미지/DSC_0692.JPG",
    "type": "furniture",
    "caption": "광장에 선 녹색 공중전화 부스",
-   "order": 30
+   "order": 30,
+   "md5": "3cdce2ad2c5db992751c12c5f1b47d11"
   },
   {
    "id": "p0489",
    "src": "이미지/DSC_0710.JPG",
    "type": "exclude",
    "caption": "의미가 불분명한 바닥 사진",
-   "order": 30
+   "order": 30,
+   "md5": "55e6f4c92dde266913912beee218cdf0"
   },
   {
    "id": "p0490",
    "src": "이미지/DSC_0714.JPG",
    "type": "walk",
    "caption": "가로수와 낮은 앉음 블록이 이어진 넓은 보도",
-   "order": 30
+   "order": 30,
+   "md5": "8bd07451a8a1d373494423479a0565f9"
   },
   {
    "id": "p0491",
    "src": "이미지/DSC_0732 (2).JPG",
    "type": "furniture",
    "caption": "뚜껑 색으로 분리 품목을 나눈 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "d1f8686f3e2c80a7187071709b69915b"
   },
   {
    "id": "p0492",
    "src": "이미지/DSC_0732.JPG",
    "type": "exclude",
    "caption": "같은 쓰레기통 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "0cbacb36be7ccb86334fd07339add523"
   },
   {
    "id": "p0493",
    "src": "이미지/DSC_0743.JPG",
    "type": "street",
    "caption": "화강석 띠와 볼라드로 정리한 광장",
-   "order": 30
+   "order": 30,
+   "md5": "a93b92a89037cf1bc4777cff003ca1d4"
   },
   {
    "id": "p0494",
    "src": "이미지/DSC_0747.JPG",
    "type": "color",
    "caption": "경사 구간을 노랑 검정 테두리로 알린 바닥",
-   "order": 20
+   "order": 20,
+   "md5": "eb8f7c74dbb673f611b196644e99f3c4"
   },
   {
    "id": "p0495",
    "src": "이미지/DSC_0769.JPG",
    "type": "furniture",
    "caption": "둥근 손스침을 얹은 철망 난간",
-   "order": 30
+   "order": 30,
+   "md5": "4dba862d5c3113d69de10b7f17b8479e"
   },
   {
    "id": "p0496",
    "src": "이미지/DSC_0770.JPG",
    "type": "furniture",
    "caption": "건물 앞 광장의 곡선형 석재 벤치",
-   "order": 30
+   "order": 30,
+   "md5": "d3086f1829ee7e2b5f34c0c7ff4959b4"
   },
   {
    "id": "p0497",
    "src": "이미지/DSC_0801.JPG",
    "type": "bike",
    "caption": "교차로를 곧게 지나는 붉은 자전거도로",
-   "order": 30
+   "order": 30,
+   "md5": "5289c54c52cc7faaf9f760fe9e60df92"
   },
   {
    "id": "p0498",
    "src": "이미지/DSC_0802.JPG",
    "type": "walk",
    "caption": "기하학 무늬로 포장한 보행자 전용 거리",
-   "order": 20
+   "order": 20,
+   "md5": "d18f70641e7c04cc655d64c93efba8dd"
   },
   {
    "id": "p0499",
    "src": "이미지/DSC_0833.JPG",
    "type": "inclusive",
    "caption": "높이를 달리한 두 단 녹색 손잡이",
-   "order": 20
+   "order": 20,
+   "md5": "5fe28efe07d3ddc1b7f3f5e1a1673fe7"
   },
   {
    "id": "p0500",
    "src": "이미지/DSC_0835.JPG",
    "type": "inclusive",
    "caption": "벽을 따라 이어진 경사로 손잡이",
-   "order": 20
+   "order": 20,
+   "md5": "a1fae39534232aa36a3f6c7f1ec0d670"
   },
   {
    "id": "p0501",
    "src": "이미지/DSC_0836.JPG",
    "type": "exclude",
    "caption": "같은 손잡이 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "eafc6bccf533fc7af7bab38062cd7a19"
   },
   {
    "id": "p0502",
    "src": "이미지/DSC_0837.JPG",
    "type": "inclusive",
    "caption": "둥글게 감아 마감한 두 단 손잡이",
-   "order": 30
+   "order": 30,
+   "md5": "a87178637cdd4fab7d8dd369666ec5ca"
   },
   {
    "id": "p0503",
    "src": "이미지/DSC_0838.JPG",
    "type": "inclusive",
    "caption": "끝을 둥글게 감아 마감한 수변 난간",
-   "order": 20
+   "order": 20,
+   "md5": "396b896b7ffcf1d78125dac543c508c4"
   },
   {
    "id": "p0504",
    "src": "이미지/DSC_0841.JPG",
    "type": "inclusive",
    "caption": "점자블록과 두 단 손잡이를 갖춘 경사로",
-   "order": 30
+   "order": 30,
+   "md5": "d73d5b30fb25898aabb859af6a045f00"
   },
   {
    "id": "p0505",
    "src": "이미지/DSC_0892.JPG",
    "type": "street",
    "caption": "덩굴 식물을 올린 고가 옹벽",
-   "order": 30
+   "order": 30,
+   "md5": "f5156b52eae9d68371758c3f33f02ba4"
   },
   {
    "id": "p0506",
    "src": "이미지/DSC_0893.JPG",
    "type": "sign",
    "caption": "고가 교량에 단 붉은 지하철 M 표지",
-   "order": 20
+   "order": 20,
+   "md5": "9af64d52d6b21f76550b5885384611c7"
   },
   {
    "id": "p0507",
    "src": "이미지/DSC_0931.JPG",
    "type": "sign",
    "caption": "노란 출구 사인과 색으로 구분한 공항 통로",
-   "order": 20
+   "order": 20,
+   "md5": "9e4a34716b32ce2ff58656ad7a3f5254"
   },
   {
    "id": "p0508",
    "src": "이미지/Desire paths the illicit trails that defy the urban planners.jpg",
    "type": "walk",
    "caption": "잔디 위에 발길이 낸 욕망의 길",
-   "order": 10
+   "order": 10,
+   "md5": "8ffcc6110ca65fb1bf2fcbffb2916679"
   },
   {
    "id": "p0509",
    "src": "이미지/Door swingfloor marking.png",
    "type": "exclude",
    "caption": "보고서 그림 스크린샷",
-   "order": 30
+   "order": 30,
+   "md5": "7a81cea95a0a247c5a35d9f88ff71fb2"
   },
   {
    "id": "p0510",
    "src": "이미지/HTBLuVA Salzburg_ Kleboth Lindinger Dollnig.jpg",
    "type": "furniture",
    "caption": "잘츠부르크 학교 앞마당의 빛나는 벤치",
-   "order": 10
+   "order": 10,
+   "md5": "f0013c71d9e1998d84cc45faf4a12d6b"
   },
   {
    "id": "p0511",
    "src": "이미지/IMG_1090.JPG",
    "type": "furniture",
    "caption": "둥근 돌 의자를 놓은 버스정류장",
-   "order": 30
+   "order": 30,
+   "md5": "07dd7f3c664a8d5d55e202ae1af66c79"
   },
   {
    "id": "p0512",
    "src": "이미지/IMG_1104.JPG",
    "type": "exclude",
    "caption": "의미가 약한 도로 풍경",
-   "order": 30
+   "order": 30,
+   "md5": "2872e6f2986ff33f20ca3b4ac17f6304"
   },
   {
    "id": "p0513",
    "src": "이미지/IMG_20160827_151639.jpg",
    "type": "exclude",
    "caption": "같은 장소 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "c77ec5934209582ae9bdb8ceaabc36ba"
   },
   {
    "id": "p0514",
    "src": "이미지/IMG_20180421_152259017.jpg",
    "type": "cpted",
    "caption": "감시 카메라 녹화 중을 알리는 담장 표지",
-   "order": 30
+   "order": 30,
+   "md5": "c0d57fe5426e5f10f06c3778a4be78aa"
   },
   {
    "id": "p0515",
    "src": "이미지/IMG_20180424_144321906.jpg",
    "type": "furniture",
    "caption": "잔디 광장에 놓인 회색 판재 벤치",
-   "order": 30
+   "order": 30,
+   "md5": "1d16661128a6869f1206b24ec93f29f5"
   },
   {
    "id": "p0516",
    "src": "이미지/IMG_20180424_144741954.jpg",
    "type": "furniture",
    "caption": "목재 루버를 두른 원통형 분리수거함",
-   "order": 20
+   "order": 20,
+   "md5": "36d16dffc29972edf6a7c8463f70e760"
   },
   {
    "id": "p0517",
    "src": "이미지/IMG_20180424_144747519.jpg",
    "type": "exclude",
    "caption": "같은 분리수거함 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "7481ee924ce336fd0c9cabcf593425da"
   },
   {
    "id": "p0518",
    "src": "이미지/IMG_20180426_113932665.jpg",
    "type": "exclude",
    "caption": "개인 사진 커피잔",
-   "order": 30
+   "order": 30,
+   "md5": "07d86ca86bc4b405fed5b89de80a5a40"
   },
   {
    "id": "p0519",
    "src": "이미지/IMG_20180507_103505696.jpg",
    "type": "exclude",
    "caption": "의미가 불분명한 기둥 사진",
-   "order": 30
+   "order": 30,
+   "md5": "8f59f71be0c816e0a11c64be17be953c"
   },
   {
    "id": "p0520",
    "src": "이미지/IMG_20180507_105234069.jpg",
    "type": "furniture",
    "caption": "콘크리트 블록을 그대로 쓴 우산 꽂이",
-   "order": 30
+   "order": 30,
+   "md5": "f1bfd4df3645c3cfb8e32efc5c4c5352"
   },
   {
    "id": "p0521",
    "src": "이미지/IMG_20180509_160535808.jpg",
    "type": "exclude",
    "caption": "차 안에서 찍은 흐린 거리 사진",
-   "order": 30
+   "order": 30,
+   "md5": "f1c3e4e16660586f870c8ee82648e8a1"
   },
   {
    "id": "p0522",
    "src": "이미지/IMG_20180509_173652662.jpg",
    "type": "sign",
    "caption": "서래로 지주에 단 주정차 단속 안내판과 도로명판",
-   "order": 30
+   "order": 30,
+   "md5": "67a0620c7d76344acd45a339402171fc"
   },
   {
    "id": "p0523",
    "src": "이미지/IMG_20180509_173709338.jpg",
    "type": "exclude",
    "caption": "같은 가로등 깃발 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "9d697a2253e59eca97f90dea99910a74"
   },
   {
    "id": "p0524",
    "src": "이미지/IMG_20180509_173731231.jpg",
    "type": "street",
    "caption": "태극기와 프랑스 국기를 함께 단 가로등",
-   "order": 30
+   "order": 30,
+   "md5": "7860e46302d018a3af277119ccbac6a3"
   },
   {
    "id": "p0525",
    "src": "이미지/IMG_20180509_173742834.jpg",
    "type": "exclude",
    "caption": "같은 가로등 깃발 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "369967a62ad0bb12bc1922141fa5c9b0"
   },
   {
    "id": "p0526",
    "src": "이미지/IMG_20180509_173814954.jpg",
    "type": "exclude",
    "caption": "같은 지주 사인 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "3ebbc23cc0c8e02eb5eb288c3202fa54"
   },
   {
    "id": "p0527",
    "src": "이미지/IMG_20180510_161127078.jpg",
    "type": "exclude",
    "caption": "의미가 약한 실내 복도 사진",
-   "order": 30
+   "order": 30,
+   "md5": "c82f6c4b1ba68597757d8dd2653d0245"
   },
   {
    "id": "p0528",
    "src": "이미지/IMG_20180510_161132638.jpg",
    "type": "exclude",
    "caption": "인물 다리만 찍힌 사진",
-   "order": 30
+   "order": 30,
+   "md5": "4a0029a0868d95f1e6184ac9586185c3"
   },
   {
    "id": "p0529",
    "src": "이미지/IMG_20180519_133617830.jpg",
    "type": "exclude",
    "caption": "흐린 안내 표지 사진",
-   "order": 30
+   "order": 30,
+   "md5": "598157b2cc30af1492fc5e5c66380812"
   },
   {
    "id": "p0530",
    "src": "이미지/IMG_20180519_133624006.jpg",
    "type": "exclude",
    "caption": "흐린 안내 표지 사진",
-   "order": 30
+   "order": 30,
+   "md5": "14f953a62b5aa89cd33591f4b6f0db20"
   },
   {
    "id": "p0531",
    "src": "이미지/IMG_20180521_084645915.jpg",
    "type": "color",
    "caption": "계단 끝을 붉은 띠로 알린 지하 통로",
-   "order": 30
+   "order": 30,
+   "md5": "293499857ff5755eb41831a37ea97093"
   },
   {
    "id": "p0532",
    "src": "이미지/IMG_20180521_084701241.jpg",
    "type": "exclude",
    "caption": "의미가 약한 설비함 사진",
-   "order": 30
+   "order": 30,
+   "md5": "d1b22dcb20146c74b706018589248d4b"
   },
   {
    "id": "p0533",
    "src": "이미지/IMG_20190929_155940103.jpg",
    "type": "inclusive",
    "caption": "줄무늬 포장 위로 곧게 뻗은 노란 점자블록",
-   "order": 20
+   "order": 20,
+   "md5": "c24a61b8154774ed0aa20cdc09b2575f"
   },
   {
    "id": "p0534",
    "src": "이미지/IMG_20190929_155949636.jpg",
    "type": "exclude",
    "caption": "같은 점자블록 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "2a641c8873e23e2bce05b268652abaef"
   },
   {
    "id": "p0535",
    "src": "이미지/IMG_20190929_160000572.jpg",
    "type": "exclude",
    "caption": "같은 점자블록 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "d40b7efa3680eabd9e162d355924e7ee"
   },
   {
    "id": "p0536",
    "src": "이미지/IMG_20191005_193033359.jpg",
    "type": "sign",
    "caption": "소화기 픽토그램을 담은 세움 표지",
-   "order": 30
+   "order": 30,
+   "md5": "22ccfc5376c659addb9c1900ed2fa82c"
   },
   {
    "id": "p0537",
    "src": "이미지/IMG_20191005_193040397.jpg",
    "type": "exclude",
    "caption": "같은 소화기 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "68ce377878330ab041931fd4d82e13d4"
   },
   {
    "id": "p0538",
    "src": "이미지/IMG_20191005_193044457.jpg",
    "type": "sign",
    "caption": "벽 표지와 세움 표지로 위치를 알린 소화기",
-   "order": 30
+   "order": 30,
+   "md5": "e59dd628cdfa6e5c1220173e2533acc7"
   },
   {
    "id": "p0539",
    "src": "이미지/IMG_20191006_094112568.jpg",
    "type": "exclude",
    "caption": "같은 소화전함 사진 중복",
-   "order": 30
+   "order": 30,
+   "md5": "f63b01159f0028a52e4abe6bf3c99ce3"
   },
   {
    "id": "p0540",
    "src": "이미지/IMG_20191006_094118329.jpg",
    "type": "sign",
    "caption": "붉은 표시등으로 위치를 알리는 소화전함",
-   "order": 30
+   "order": 30,
+   "md5": "abcf3acdc084538eb2f9e70b600fa505"
   },
   {
    "id": "p0541",
    "src": "이미지/IMG_20191006_094130654.jpg",
    "type": "exclude",
    "caption": "흐린 복도 사진",
-   "order": 30
+   "order": 30,
+   "md5": "7c9fe6c3a0343abb648fd2a1708a4389"
   },
   {
    "id": "p0542",
    "src": "이미지/IMG_20191006_094135177.jpg",
    "type": "furniture",
    "caption": "벽 안에 매립해 통로를 비운 소화기함",
-   "order": 20
+   "order": 20,
+   "md5": "f5b2e78ca065b11e1f418f0fe5829845"
   },
   {
    "id": "p0543",
    "src": "이미지/IMG_20191006_094138758.jpg",
    "type": "furniture",
    "caption": "화재경보기와 소화기를 함께 매립한 벽면",
-   "order": 30
+   "order": 30,
+   "md5": "2a37d6be51eb8258497baa8136d36d8b"
   },
   {
    "id": "p0544",
    "src": "이미지/IMG_20191006_114755722.jpg",
    "type": "furniture",
    "caption": "색 라벨로 구분한 스테인리스 분리수거함",
-   "order": 20
+   "order": 20,
+   "md5": "67b1c3969f1d234771f742701664e336"
   },
   {
    "id": "p0545",
    "src": "이미지/IMG_20191006_120207342.jpg",
    "type": "color",
    "caption": "계단 끝선을 알리는 노란 논슬립 라인",
-   "order": 20
+   "order": 20,
+   "md5": "e1203b67474a77583c2bf0917fd56655"
   },
   {
    "id": "p0546",
    "src": "이미지/IMG_20191006_120220010.jpg",
    "type": "color",
    "caption": "단마다 노란 선을 넣은 데크 계단",
-   "order": 20
+   "order": 20,
+   "md5": "5ae7075d18a7c4a9add7e17d76b26836"
   },
   {
    "id": "p0547",
    "src": "이미지/IMG_20191006_120241845.jpg",
    "type": "exclude",
    "caption": "p0545와 같은 계단 중복",
-   "order": 30
+   "order": 30,
+   "md5": "3e02f4f3841f8bd4692b4cc00b9ea566"
   },
   {
    "id": "p0548",
    "src": "이미지/IMG_20191025_130432010.jpg",
    "type": "sign",
    "caption": "서울역 승강장의 노란 나가는 곳 사인",
-   "order": 20
+   "order": 20,
+   "md5": "794deaeea3561147cc10bc559cc3b09a"
   },
   {
    "id": "p0549",
    "src": "이미지/IMG_20191025_130445300.jpg",
    "type": "sign",
    "caption": "계단 픽토그램으로 경의선 타는 곳 안내",
-   "order": 30
+   "order": 30,
+   "md5": "a576e4bdb37b74e0e8921beee81be3c7"
   },
   {
    "id": "p0550",
    "src": "이미지/IMG_20191219_144309848.jpg",
    "type": "nudge",
    "caption": "소화전 앞을 비워 두게 하는 바닥 표시",
-   "order": 20
+   "order": 20,
+   "md5": "5766bc84f40225785b4dc6e2fc7ff77f"
   },
   {
    "id": "p0551",
    "src": "이미지/IMG_20191219_144314774.jpg",
    "type": "exclude",
    "caption": "p0550 중복",
-   "order": 30
+   "order": 30,
+   "md5": "2c2424a5b4851f9d2243477dbeaaacad"
   },
   {
    "id": "p0552",
    "src": "이미지/KS안전색채 금.경.지.안.png",
    "type": "exclude",
    "caption": "표 이미지",
-   "order": 30
+   "order": 30,
+   "md5": "7c99ae42733613e5f7a548de281e3b10"
   },
   {
    "id": "p0553",
    "src": "이미지/KakaoTalk_20181105_105755330.jpg",
    "type": "walk",
    "caption": "골목 교차로를 알리는 흰 십자 노면 표시",
-   "order": 20
+   "order": 20,
+   "md5": "cfef1e2130054a8b3d5d0cad59b99191"
   },
   {
    "id": "p0554",
    "src": "이미지/KakaoTalk_20181105_105758436.jpg",
    "type": "exclude",
    "caption": "텍스트 안내문",
-   "order": 30
+   "order": 30,
+   "md5": "e02def01fe87b2bc3082621f6e3c179c"
   },
   {
    "id": "p0555",
    "src": "이미지/KakaoTalk_20181105_105758745.jpg",
    "type": "exclude",
    "caption": "의미 약한 실내 사진",
-   "order": 30
+   "order": 30,
+   "md5": "29ad70dbbf1bf238b8860d8d1f30e872"
   },
   {
    "id": "p0556",
    "src": "이미지/KakaoTalk_20181105_105806021.jpg",
    "type": "exclude",
    "caption": "의미 약한 벽면 사진",
-   "order": 30
+   "order": 30,
+   "md5": "69182257e65bae5b954dc5ab7ac18bce"
   },
   {
    "id": "p0557",
    "src": "이미지/KakaoTalk_20181112_164451515.jpg",
    "type": "furniture",
    "caption": "은평구 거리의 재활용 분리 휴지통",
-   "order": 20
+   "order": 20,
+   "md5": "9c1e0c7e26cb5437f4e9aa86c2fa382d"
   },
   {
    "id": "p0558",
    "src": "이미지/KakaoTalk_20181112_164451763.jpg",
    "type": "exclude",
    "caption": "p0557 중복",
-   "order": 30
+   "order": 30,
+   "md5": "d68efd766e65ad07545b057dd30b5e68"
   },
   {
    "id": "p0559",
    "src": "이미지/KakaoTalk_20181126_225519737.jpg",
    "type": "furniture",
    "caption": "잎 그래픽을 입힌 지하상가 방수기구함",
-   "order": 20
+   "order": 20,
+   "md5": "a82cbffc6d93eba97419a2360cb5a52d"
   },
   {
    "id": "p0560",
    "src": "이미지/KakaoTalk_20181126_225519895.jpg",
    "type": "nudge",
    "caption": "문이 열리는 자리를 알리는 바닥 그래픽",
-   "order": 20
+   "order": 20,
+   "md5": "30ca490427d6b5bb5ba8e0164d4d9008"
   },
   {
    "id": "p0561",
    "src": "이미지/KakaoTalk_20181126_225520110.jpg",
    "type": "nudge",
    "caption": "자동문 앞 부채꼴 충돌 주의 바닥 표시",
-   "order": 30
+   "order": 30,
+   "md5": "1458698a576faf30432037a40747e9df"
   },
   {
    "id": "p0562",
    "src": "이미지/KakaoTalk_20181126_225520276.jpg",
    "type": "sign",
    "caption": "바닥에 매립한 지하상가 피난 유도등",
-   "order": 30
+   "order": 30,
+   "md5": "abb8ac3c8671ebff81bcb281b16dedb1"
   },
   {
    "id": "p0563",
    "src": "이미지/KakaoTalk_20181126_225520384.jpg",
    "type": "exclude",
    "caption": "의미 약한 벽면 사진",
-   "order": 30
+   "order": 30,
+   "md5": "875a19edabdfe653467db688c25d9e65"
   },
   {
    "id": "p0564",
    "src": "이미지/KakaoTalk_20181126_225520571.jpg",
    "type": "exclude",
    "caption": "p0559 중복",
-   "order": 30
+   "order": 30,
+   "md5": "d12477db23046e831aec2b8be7a2a124"
   },
   {
    "id": "p0565",
    "src": "이미지/KakaoTalk_20181126_225520844.jpg",
    "type": "exclude",
    "caption": "의미 약한 복도 사진",
-   "order": 30
+   "order": 30,
+   "md5": "8b790a06088bece977d993e82678b1a4"
   },
   {
    "id": "p0566",
    "src": "이미지/KakaoTalk_20181126_225521110.jpg",
    "type": "furniture",
    "caption": "소화기, 방수기구함, 대피도를 모은 벽면",
-   "order": 20
+   "order": 20,
+   "md5": "5cd8560a402a433bf9c1f7ac76ac0dbf"
   },
   {
    "id": "p0567",
    "src": "이미지/KakaoTalk_20181126_225521381.jpg",
    "type": "exclude",
    "caption": "p0566 중복",
-   "order": 30
+   "order": 30,
+   "md5": "4b2a00b5d732834b39997d0f3186b311"
   },
   {
    "id": "p0568",
    "src": "이미지/KakaoTalk_20181126_225521526.jpg",
    "type": "furniture",
    "caption": "벽에 걸어 둔 휴대용 비상조명등",
-   "order": 30
+   "order": 30,
+   "md5": "bdbd148b3a28918da96b9438122772cd"
   },
   {
    "id": "p0569",
    "src": "이미지/KakaoTalk_20181126_225521687.jpg",
    "type": "sign",
    "caption": "지하 1층 비상대피도 안내판",
-   "order": 20
+   "order": 20,
+   "md5": "487479ba5e01a11818770e428dd6cacb"
   },
   {
    "id": "p0570",
    "src": "이미지/KakaoTalk_20181126_225521797.jpg",
    "type": "exclude",
    "caption": "p0559 중복",
-   "order": 30
+   "order": 30,
+   "md5": "39d56537c4f4fc9196bf7b02ec8c2196"
   },
   {
    "id": "p0571",
    "src": "이미지/KakaoTalk_20191018_160206625_01.jpg",
    "type": "exclude",
    "caption": "p0547 중복",
-   "order": 30
+   "order": 30,
+   "md5": "9438901ee4827a38a48760d33a8e07e8"
   },
   {
    "id": "p0572",
    "src": "이미지/KakaoTalk_20191018_160206625_02.jpg",
    "type": "exclude",
    "caption": "p0546 중복",
-   "order": 30
+   "order": 30,
+   "md5": "53f7b4e460c353f6e6a45737be8cc8dc"
   },
   {
    "id": "p0573",
    "src": "이미지/KakaoTalk_20191018_160206625_03.jpg",
    "type": "exclude",
    "caption": "p0545 중복",
-   "order": 30
+   "order": 30,
+   "md5": "bd27b25cfca30b4d7c13f83407064e5a"
   },
   {
    "id": "p0574",
    "src": "이미지/KakaoTalk_20191018_160206625_04.jpg",
    "type": "exclude",
    "caption": "p0544 중복",
-   "order": 30
+   "order": 30,
+   "md5": "a394b621a9fcf8554e829093b0641be4"
   },
   {
    "id": "p0575",
    "src": "이미지/KakaoTalk_20191018_160206625_05.jpg",
    "type": "exclude",
    "caption": "p0542 중복",
-   "order": 30
+   "order": 30,
+   "md5": "fc381cc7fd50af88c5a6bcf4c4fa2349"
   },
   {
    "id": "p0576",
    "src": "이미지/KakaoTalk_20191018_160206625_06.jpg",
    "type": "exclude",
    "caption": "p0543 중복",
-   "order": 30
+   "order": 30,
+   "md5": "4fbad3b120cdb59cb197e88209ec5c34"
   },
   {
    "id": "p0577",
    "src": "이미지/KakaoTalk_20191018_160206625_07.jpg",
    "type": "exclude",
    "caption": "p0541 중복",
-   "order": 30
+   "order": 30,
+   "md5": "0b14d35489d16722fa0fb1a51ce950d6"
   },
   {
    "id": "p0578",
    "src": "이미지/KakaoTalk_20191018_160206625_08.jpg",
    "type": "exclude",
    "caption": "의미 약한 복도 사진",
-   "order": 30
+   "order": 30,
+   "md5": "1911f107f44c50466b0cffdefedf1e9c"
   },
   {
    "id": "p0579",
    "src": "이미지/KakaoTalk_20191018_160206625_09.jpg",
    "type": "exclude",
    "caption": "의미 약한 소화전 사진",
-   "order": 30
+   "order": 30,
+   "md5": "3e4887ead07e2fc68df7f8d74c464630"
   },
   {
    "id": "p0580",
    "src": "이미지/KakaoTalk_20191018_160206625_10.jpg",
    "type": "sign",
    "caption": "소화기를 받쳐 세운 픽토그램 안내판",
-   "order": 30
+   "order": 30,
+   "md5": "87fcb0c11b88fe459ae3f924f861524b"
   },
   {
    "id": "p0581",
    "src": "이미지/KakaoTalk_20191018_160206625_11.jpg",
    "type": "exclude",
    "caption": "p0580 중복",
-   "order": 30
+   "order": 30,
+   "md5": "fc176c52bfcafb665fc9b4991887f014"
   },
   {
    "id": "p0582",
    "src": "이미지/KakaoTalk_20191018_160206625_12.jpg",
    "type": "sign",
    "caption": "소화기 자리를 알리는 픽토그램 사인",
-   "order": 20
+   "order": 20,
+   "md5": "87010a01e1842371f890a3eaf90d8b5b"
   },
   {
    "id": "p0583",
    "src": "이미지/KakaoTalk_20191111_072016061_10.jpg",
    "type": "color",
    "caption": "승강장 가장자리의 노랑, 검정 경계선",
-   "order": 30
+   "order": 30,
+   "md5": "d1d13028bcb32e0fe247f1e9c2c26e15"
   },
   {
    "id": "p0584",
    "src": "이미지/KakaoTalk_20191111_072016061_11.jpg",
    "type": "color",
    "caption": "엘리베이터 문틀의 노랑, 검정 경고 줄무늬",
-   "order": 30
+   "order": 30,
+   "md5": "3ff2d4f97d6b67887360f20b9c9b3e56"
   },
   {
    "id": "p0585",
    "src": "이미지/KakaoTalk_20191111_072016061_12.jpg",
    "type": "nudge",
    "caption": "문열림 주의 문구와 바닥 반경 점선",
-   "order": 20
+   "order": 20,
+   "md5": "879f540a016d39676bb01aad776d2ba1"
   },
   {
    "id": "p0586",
    "src": "이미지/KakaoTalk_20191111_072016061_13.jpg",
    "type": "color",
    "caption": "문 옆 노란 띠와 문열림 반경 표시",
-   "order": 20
+   "order": 20,
+   "md5": "5cd86023385cac44c3cf92a1687c1075"
   },
   {
    "id": "p0587",
    "src": "이미지/KakaoTalk_20191111_072016061_14.jpg",
    "type": "exclude",
    "caption": "p0586 중복",
-   "order": 30
+   "order": 30,
+   "md5": "164c1e9e20e4bbd5ad0bf2e36b8e0fee"
   },
   {
    "id": "p0588",
    "src": "이미지/KakaoTalk_20191111_072016061_15.jpg",
    "type": "walk",
    "caption": "노랑, 흰색 횡단보도와 색 포장 골목",
-   "order": 20
+   "order": 20,
+   "md5": "65dd54ac857e22f53de9408e12d78d52"
   },
   {
    "id": "p0589",
    "src": "이미지/KakaoTalk_20191111_072016061_16.jpg",
    "type": "walk",
    "caption": "붉은색, 초록색 블록으로 포장한 보행 골목",
-   "order": 20
+   "order": 20,
+   "md5": "d47a206c8e5321f9153fc496dbb6a009"
   },
   {
    "id": "p0590",
    "src": "이미지/KakaoTalk_20191111_072016061_17.jpg",
    "type": "exclude",
    "caption": "p0589 중복",
-   "order": 30
+   "order": 30,
+   "md5": "0559c679353993b586fa7e7272600ce2"
   },
   {
    "id": "p0591",
    "src": "이미지/KakaoTalk_20191111_072016061_18.jpg",
    "type": "nudge",
    "caption": "문 앞 공간을 비우게 하는 점선 구역",
-   "order": 30
+   "order": 30,
+   "md5": "61bbc308b076d84e23ee237c5afd1951"
   },
   {
    "id": "p0592",
    "src": "이미지/KakaoTalk_20191111_072016061_19.jpg",
    "type": "exclude",
    "caption": "p0591 중복",
-   "order": 30
+   "order": 30,
+   "md5": "40f7988cf46b29f25ebb89cc12ed7848"
   },
   {
    "id": "p0593",
    "src": "이미지/KakaoTalk_20191111_072016061_20.jpg",
    "type": "nudge",
    "caption": "문이 열리는 궤적을 그린 붉은 점선",
-   "order": 30
+   "order": 30,
+   "md5": "e90ef239536dff2f4cfa43db24c8eec5"
   },
   {
    "id": "p0594",
    "src": "이미지/KakaoTalk_20191111_072016061_21.jpg",
    "type": "walk",
    "caption": "붉은 바닥에 흰 줄무늬를 그은 보행 광장",
-   "order": 10
+   "order": 10,
+   "md5": "4a5542a18c84cbdf59e45bdf3d8be275"
   },
   {
    "id": "p0595",
    "src": "이미지/KakaoTalk_20191111_072016061_24.jpg",
    "type": "street",
    "caption": "노란 계단 테라스를 두른 건물 계획안",
-   "order": 30
+   "order": 30,
+   "md5": "132fd668b211ac2bd6278ce1dcb25c8e"
   },
   {
    "id": "p0596",
    "src": "이미지/KakaoTalk_20191111_072016061_25.jpg",
    "type": "street",
    "caption": "사람들이 머무는 노란 계단 테라스",
-   "order": 20
+   "order": 20,
+   "md5": "b7931a78d2525ead17a57fad49916da7"
   },
   {
    "id": "p0597",
    "src": "이미지/KakaoTalk_20200116_060228421.jpg",
    "type": "bike",
    "caption": "보도 위 자전거, 킥보드 주차 구역 표시",
-   "order": 20
+   "order": 20,
+   "md5": "0b9e5f9636cc3f0732f6a81509e38185"
   },
   {
    "id": "p0598",
    "src": "이미지/KakaoTalk_20200116_060246279.jpg",
    "type": "walk",
    "caption": "노란 볼라드와 빗금으로 좁힌 차로",
-   "order": 20
+   "order": 20,
+   "md5": "58cc743eb4400d00a7bfb5b168e96d69"
   },
   {
    "id": "p0599",
    "src": "이미지/KakaoTalk_20200126_090912580.jpg",
    "type": "nudge",
    "caption": "걷기, 뛰기, 문자 보내기로 나눈 계단",
-   "order": 10
+   "order": 10,
+   "md5": "a11a3b511e7c7d2c0654128919f7affd"
   },
   {
    "id": "p0600",
    "src": "이미지/KakaoTalk_20200218_072718178.jpg",
    "type": "play",
    "caption": "미드타운 차로를 바꾼 노란 보행 광장 구상",
-   "order": 20
+   "order": 20,
+   "md5": "409c725c1cfc0952d5ef0b6cd6d73ce5"
   },
   {
    "id": "p0601",
    "src": "이미지/KakaoTalk_20200321_123348230.jpg",
    "type": "exclude",
    "caption": "웹페이지 스크린샷",
-   "order": 30
+   "order": 30,
+   "md5": "84f8d1424f783bb83155c50ef7f47608"
   },
   {
    "id": "p0602",
    "src": "이미지/KakaoTalk_20200329_230429325.jpg",
    "type": "walk",
    "caption": "파스텔 격자 무늬로 칠한 거리 바닥",
-   "order": 10
+   "order": 10,
+   "md5": "74f904d5ce0c8756f9f81d87129209a5"
   },
   {
    "id": "p0603",
    "src": "이미지/KakaoTalk_20211021_075751984.jpg",
    "type": "street",
    "caption": "잡지를 펼쳐 진열한 도서관 서가",
-   "order": 30
+   "order": 30,
+   "md5": "5ebe35c48caf58c06f36aa6602d63c2d"
   },
   {
    "id": "p0604",
    "src": "이미지/KakaoTalk_20211021_075751984_01.jpg",
    "type": "street",
    "caption": "서가 앞에 소파를 둔 도서관 라운지",
-   "order": 20
+   "order": 20,
+   "md5": "138cd1b378efeed51bb5f4084f09e62f"
   },
   {
    "id": "p0605",
    "src": "이미지/KakaoTalk_20211021_075751984_02.jpg",
    "type": "exclude",
    "caption": "p0606 중복",
-   "order": 30
+   "order": 30,
+   "md5": "17fa228cdff391a636684f458d8c2b33"
   },
   {
    "id": "p0606",
    "src": "이미지/KakaoTalk_20211021_075751984_03.jpg",
    "type": "furniture",
    "caption": "밤 보도를 밝히는 바닥 매립 조명",
-   "order": 30
+   "order": 30,
+   "md5": "7c7588cf712957f310022056b10469aa"
   },
   {
    "id": "p0607",
    "src": "이미지/KakaoTalk_20211021_075751984_04.jpg",
    "type": "walk",
    "caption": "짙은 블록을 섞어 리듬을 준 보도 포장",
-   "order": 30
+   "order": 30,
+   "md5": "779822ead45cf1e6b10000ccc8369a12"
   },
   {
    "id": "p0608",
    "src": "이미지/KakaoTalk_20211021_075751984_05.jpg",
    "type": "exclude",
    "caption": "p0607 중복",
-   "order": 30
+   "order": 30,
+   "md5": "574a0367c1915c46d2866ca68da41289"
   },
   {
    "id": "p0609",
    "src": "이미지/KakaoTalk_20211026_090004239.jpg",
    "type": "inclusive",
    "caption": "화장실 입구까지 이어진 점자블록",
-   "order": 20
+   "order": 20,
+   "md5": "2ddc721a208768f7ebbf8659bfb80ba1"
   },
   {
    "id": "p0610",
    "src": "이미지/KakaoTalk_20211026_090004239_01.jpg",
    "type": "inclusive",
    "caption": "휠체어 표시와 점자블록을 갖춘 엘리베이터",
-   "order": 20
+   "order": 20,
+   "md5": "d8b554014d2885d0a0af9f7402de5847"
   },
   {
    "id": "p0611",
    "src": "이미지/KakaoTalk_20211105_143110022.jpg",
    "type": "exclude",
    "caption": "영상 스크린샷",
-   "order": 30
+   "order": 30,
+   "md5": "dc28a0990f2ae1044a5819dd4ede25d2"
   },
   {
    "id": "p0612",
    "src": "이미지/KakaoTalk_20211105_143110022_01.jpg",
    "type": "exclude",
    "caption": "영상 스크린샷",
-   "order": 30
+   "order": 30,
+   "md5": "1143a0e6f7c31d856f9b406e841d3426"
   },
   {
    "id": "p0613",
    "src": "이미지/KakaoTalk_20211105_143110022_02.jpg",
    "type": "exclude",
    "caption": "영상 스크린샷",
-   "order": 30
+   "order": 30,
+   "md5": "0f3d293d0baea34ea5fe8e9c43e4e439"
   },
   {
    "id": "p0614",
    "src": "이미지/KakaoTalk_20211105_143110022_08.jpg",
    "type": "furniture",
    "caption": "스쿨존 표지를 품은 갈색 보행 펜스",
-   "order": 20
+   "order": 20,
+   "md5": "233276d7586765ad2ae0fe0565f65867"
   },
   {
    "id": "p0615",
    "src": "이미지/KakaoTalk_20211105_143110022_09.jpg",
    "type": "furniture",
    "caption": "학교 앞 보도를 따라 이어진 갈색 펜스",
-   "order": 30
+   "order": 30,
+   "md5": "502cf7ad468f538b09942f15ce4dd51f"
   },
   {
    "id": "p0616",
    "src": "이미지/KakaoTalk_20221018_181118992_04.jpg",
    "type": "sign",
    "caption": "기둥에 붙인 노란 8번 출구 사인",
-   "order": 20
+   "order": 20,
+   "md5": "e314906d104fa57889bb2548f683facf"
   },
   {
    "id": "p0617",
    "src": "이미지/KakaoTalk_20221018_181118992_05.jpg",
    "type": "sign",
    "caption": "붉은 띠와 픽토그램을 넣은 스크린도어",
-   "order": 30
+   "order": 30,
+   "md5": "e253e85ea75e81e6d5970978503bb959"
   },
   {
    "id": "p0618",
    "src": "이미지/KakaoTalk_20221018_181118992_06.jpg",
    "type": "exclude",
    "caption": "p0616 중복",
-   "order": 30
+   "order": 30,
+   "md5": "ef7d6bd27d76fa75b478888d1e379754"
   },
   {
    "id": "p0619",
    "src": "이미지/KakaoTalk_20221018_181118992_07.jpg",
    "type": "exclude",
    "caption": "p0621 중복",
-   "order": 30
+   "order": 30,
+   "md5": "117a317129f473c7ae8d7b22d980a729"
   },
   {
    "id": "p0620",
    "src": "이미지/KakaoTalk_20221018_181118992_08.jpg",
    "type": "sign",
    "caption": "9호선 방향을 알리는 기둥 사인",
-   "order": 30
+   "order": 30,
+   "md5": "1458fdc701b017c815acb6b04eb0234d"
   },
   {
    "id": "p0621",
    "src": "이미지/KakaoTalk_20221018_181118992_09.jpg",
    "type": "sign",
    "caption": "동작역 4호선 환승 안내 사인",
-   "order": 20
+   "order": 20,
+   "md5": "d92d203e6b27f9bc225450861fc0e97b"
   },
   {
    "id": "p0622",
    "src": "이미지/KakaoTalk_20221018_181118992_10.jpg",
    "type": "play",
    "caption": "주황, 흰색 모듈 쉼터로 바꾼 도심 광장",
-   "order": 10
+   "order": 10,
+   "md5": "c91d5ac85a1f5fdafa072d68115a43ec"
   },
   {
    "id": "p0623",
    "src": "이미지/KakaoTalk_20221018_181118992_11.jpg",
    "type": "play",
    "caption": "모듈 단 위에 모여 앉은 시민들",
-   "order": 10
+   "order": 10,
+   "md5": "ffa50efb6c419067434caaaeb8804bcf"
   },
   {
    "id": "p0624",
    "src": "이미지/KakaoTalk_20221018_181118992_12.jpg",
    "type": "exclude",
    "caption": "어두운 야간 사진",
-   "order": 30
+   "order": 30,
+   "md5": "6772f37bb5d0d17a2395eb4c486768ac"
   },
   {
    "id": "p0625",
    "src": "이미지/KakaoTalk_20221018_181118992_13.jpg",
    "type": "exclude",
    "caption": "어두운 야간 사진",
-   "order": 30
+   "order": 30,
+   "md5": "985b8096725502fa2fc3e3dd78abe5c5"
   },
   {
    "id": "p0626",
    "src": "이미지/KakaoTalk_20221018_181118992_14.jpg",
    "type": "inclusive",
    "caption": "노인이 짚기 쉬운 계단식 손잡이 구상",
-   "order": 20
+   "order": 20,
+   "md5": "2f241d4b0734a95713025f6703976c9e"
   },
   {
    "id": "p0627",
    "src": "이미지/KakaoTalk_20221018_181118992_15.jpg",
    "type": "play",
    "caption": "고가도로 아래 스케이트 트레일의 겨울 축제",
-   "order": 10
+   "order": 10,
+   "md5": "22f9230cd26a8eb23cc292fd5ca03f50"
   },
   {
    "id": "p0628",
    "src": "이미지/KakaoTalk_20221018_181118992_16.jpg",
    "type": "play",
    "caption": "고가도로 아래 긴 식탁에 모인 저녁",
-   "order": 10
+   "order": 10,
+   "md5": "224f03971c5ebffc30d803ad795e4763"
   },
   {
    "id": "p0629",
    "src": "이미지/KakaoTalk_20221018_181118992_17.jpg",
    "type": "play",
    "caption": "고가 하부 보행로에 매단 일방통행 표지",
-   "order": 20
+   "order": 20,
+   "md5": "2e53454af4293d09f500973acf64430b"
   },
   {
    "id": "p0630",
    "src": "이미지/KakaoTalk_20221018_181118992_18.jpg",
    "type": "play",
    "caption": "토론토 고가도로 하부를 따라 난 산책로",
-   "order": 20
+   "order": 20,
+   "md5": "bebed1415feff0d7b719e1e5c8960127"
   },
   {
    "id": "p0631",
    "src": "이미지/KakaoTalk_20221018_181118992_19.jpg",
    "type": "sign",
    "caption": "유리벽 충돌을 막는 붉은 점선 픽토그램",
-   "order": 20
+   "order": 20,
+   "md5": "40375e53b7d9a5b1538c91583ce8dd2d"
   },
   {
    "id": "p0632",
    "src": "이미지/KakaoTalk_20221018_181118992_23.jpg",
    "type": "exclude",
    "caption": "의미 약한 통로 사진",
-   "order": 30
+   "order": 30,
+   "md5": "1c0f0c85526605d410a755427c679636"
   },
   {
    "id": "p0633",
    "src": "이미지/KakaoTalk_20221018_181118992_24.jpg",
    "type": "sign",
    "caption": "계단 앞에 세운 원통형 기둥 안내 사인",
-   "order": 30
+   "order": 30,
+   "md5": "99cafabe246202746510ab72c4f58cf6"
   },
   {
    "id": "p0634",
    "src": "이미지/KakaoTalk_20221018_181118992_25.jpg",
    "type": "exclude",
    "caption": "의미 약한 통로 사진",
-   "order": 30
+   "order": 30,
+   "md5": "fb3905db3afa74c79f24ab05c0bce97c"
   },
   {
    "id": "p0635",
    "src": "이미지/KakaoTalk_20221018_181118992_26.jpg",
    "type": "sign",
    "caption": "역 통로 한가운데 선 기둥형 안내 사인",
-   "order": 20
+   "order": 20,
+   "md5": "1ca82ed05fc9453ba7cb3e7029a44675"
   },
   {
    "id": "p0636",
    "src": "이미지/KakaoTalk_20221018_181118992_27.jpg",
    "type": "sign",
    "caption": "분홍, 파랑 색면으로 구분한 화장실 입구",
-   "order": 20
+   "order": 20,
+   "md5": "066458a02bcce5ff00c7812f0e3ea0b1"
   },
   {
    "id": "p0637",
    "src": "이미지/KakaoTalk_20221018_181118992_28.jpg",
    "type": "exclude",
    "caption": "도로 풍경, 주제 없음",
-   "order": 30
+   "order": 30,
+   "md5": "577d5b9dd1f0713847e4d305e250a565"
   },
   {
    "id": "p0638",
    "src": "이미지/KakaoTalk_20221018_181118992_29.jpg",
    "type": "exclude",
    "caption": "광고 스크린샷",
-   "order": 30
+   "order": 30,
+   "md5": "db98d31266426d5fee715ff3e118e875"
   },
   {
    "id": "p0639",
    "src": "이미지/KakaoTalk_20221018_181934863_01.jpg",
    "type": "sign",
    "caption": "갈 길을 색으로 알려 주는 노면 유도선",
-   "order": 30
+   "order": 30,
+   "md5": "33c8eb8d1a1648f5c777e376cbb4e844"
   },
   {
    "id": "p0640",
    "src": "이미지/KakaoTalk_20221018_181934863_02.jpg",
    "type": "exclude",
    "caption": "의미 약한 도로 사진",
-   "order": 30
+   "order": 30,
+   "md5": "6e190f8b017920c992783d93ee754b55"
   },
   {
    "id": "p0641",
    "src": "이미지/KakaoTalk_20221018_181934863_03.jpg",
    "type": "street",
    "caption": "고속도로 요금소의 날개형 지붕",
-   "order": 30
+   "order": 30,
+   "md5": "a03a43b0f90454393b8dd3f47c449259"
   },
   {
    "id": "p0642",
    "src": "이미지/KakaoTalk_20221018_181934863_04.jpg",
    "type": "exclude",
    "caption": "의미 약한 요금소 사진",
-   "order": 30
+   "order": 30,
+   "md5": "7af93d0e53dbca95ba1e8954fbc20ffe"
   },
   {
    "id": "p0643",
    "src": "이미지/KakaoTalk_20221018_181934863_05.jpg",
    "type": "furniture",
    "caption": "연필 모양으로 만든 노란 볼라드",
-   "order": 10
+   "order": 10,
+   "md5": "6e5e50eac62cfc9f5d2e794ca0423a14"
   },
   {
    "id": "p0644",
    "src": "이미지/KakaoTalk_20221018_181934863_06.jpg",
    "type": "sign",
    "caption": "모래시계로 남은 시간을 알리는 신호등",
-   "order": 20
+   "order": 20,
+   "md5": "48d36e6bbd48de5500282af6f111ec94"
   },
   {
    "id": "p0645",
    "src": "이미지/KakaoTalk_20221018_181934863_07.jpg",
    "type": "exclude",
    "caption": "흐린 주차장 사진",
-   "order": 30
+   "order": 30,
+   "md5": "16405b9a8dbfdd840b483047c1e2d8bc"
   },
   {
    "id": "p0646",
    "src": "이미지/KakaoTalk_20221018_181934863_08.jpg",
    "type": "exclude",
    "caption": "의미 약한 교각 하부 사진",
-   "order": 30
+   "order": 30,
+   "md5": "eed21f74d36942f170de0d82dccacedc"
   },
   {
    "id": "p0647",
    "src": "이미지/KakaoTalk_20221018_181934863_09.jpg",
    "type": "cpted",
    "caption": "골목 집 앞을 노란 대문으로 밝힌 풍경",
-   "order": 30
+   "order": 30,
+   "md5": "990110d0b4077d1c189eaca764bd5341"
   },
   {
    "id": "p0648",
    "src": "이미지/KakaoTalk_20221018_181934863_10.jpg",
    "type": "cpted",
    "caption": "노란 대문과 우편함으로 정돈한 골목 입구",
-   "order": 20
+   "order": 20,
+   "md5": "7bff6155c599b445f68baafcd998119a"
   },
   {
    "id": "p0649",
    "src": "이미지/KakaoTalk_20221018_181934863_11.jpg",
    "type": "color",
    "caption": "주차장 기둥의 노랑, 검정 도색과 소화기",
-   "order": 20
+   "order": 20,
+   "md5": "70d9a9ffe93105fb254cc57e50729bfc"
   },
   {
    "id": "p0650",
    "src": "이미지/KakaoTalk_20221018_181934863_12.jpg",
    "type": "walk",
    "caption": "주차장 보행통로를 알리는 가족 픽토그램",
-   "order": 20
+   "order": 20,
+   "md5": "ef51f94ce047bccc2f3f52f98cf34596"
   },
   {
    "id": "p0651",
    "src": "이미지/KakaoTalk_20221018_181934863_13.jpg",
    "type": "walk",
    "caption": "지하주차장 차로를 가로지르는 횡단보도",
-   "order": 30
+   "order": 30,
+   "md5": "fcae31aed659762860024369cd1bda87"
   },
   {
    "id": "p0652",
    "src": "이미지/KakaoTalk_20221018_181934863_14.jpg",
    "type": "walk",
    "caption": "초록색으로 밝힌 깔깔 게이트 지하보도",
-   "order": 20
+   "order": 20,
+   "md5": "eed8e9faae807bb3446f5143a4ba7bb7"
   },
   {
    "id": "p0653",
    "src": "이미지/KakaoTalk_20221018_181934863_15.jpg",
    "type": "sign",
    "caption": "노란 벽에 크게 그린 계단실 출구 그래픽",
-   "order": 20
+   "order": 20,
+   "md5": "254c6be45c687dc7029fb13f8ab193a3"
   },
   {
    "id": "p0654",
    "src": "이미지/KakaoTalk_20221018_181934863_16.jpg",
    "type": "sign",
    "caption": "큰 숫자와 기둥 번호로 위치를 알린 주차장",
-   "order": 20
+   "order": 20,
+   "md5": "abd77077e0930711a1959a6950b6cf1e"
   },
   {
    "id": "p0655",
    "src": "이미지/KakaoTalk_20221018_181934863_17.jpg",
    "type": "sign",
    "caption": "노란 벽과 기둥 번호로 구역을 나눈 주차장",
-   "order": 20
+   "order": 20,
+   "md5": "b24d55062c033c0a8d3b415a0f466c6a"
   },
   {
    "id": "p0656",
    "src": "이미지/KakaoTalk_20221018_181934863_18.jpg",
    "type": "color",
    "caption": "주차장 기둥 하단의 노랑, 검정 안전 도색",
-   "order": 30
+   "order": 30,
+   "md5": "a2f1500fee9f3b41a19da141f2f74301"
   },
   {
    "id": "p0657",
    "src": "이미지/KakaoTalk_20221018_181934863_19.jpg",
    "type": "bike",
    "caption": "화단으로 보도와 나눈 붉은 자전거도로",
-   "order": 20
+   "order": 20,
+   "md5": "615fb111db1c8a0d0d2ce281abeb92e3"
   },
   {
    "id": "p0658",
    "src": "이미지/KakaoTalk_20221018_181934863_20.jpg",
    "type": "play",
    "caption": "뉴욕 강 위에 띄운 십자형 수영장 구상",
-   "order": 20
+   "order": 20,
+   "md5": "3d84a08d4461e4f3cdacf29093905096"
   },
   {
    "id": "p0659",
    "src": "이미지/KakaoTalk_20221018_181934863_21.jpg",
    "type": "play",
    "caption": "강 위에 떠 있는 공공 수영장 구상",
-   "order": 20
+   "order": 20,
+   "md5": "5785661917aef63567e97aa2072fec11"
   },
   {
    "id": "p0660",
    "src": "이미지/KakaoTalk_20221018_181934863_22.jpg",
    "type": "play",
    "caption": "마을 골목과 광장을 잇는 초록 잔디 띠",
-   "order": 20
+   "order": 20,
+   "md5": "c66114e0087d8718885e6aef3221197f"
   },
   {
    "id": "p0661",
    "src": "이미지/KakaoTalk_20221107_081518596.jpg",
    "type": "sign",
    "caption": "붉은색, 회색 띠로 남녀를 나눈 화장실",
-   "order": 20
+   "order": 20,
+   "md5": "4e1b8469cc9923196f161a524308c22b"
   },
   {
    "id": "p0662",
    "src": "이미지/KakaoTalk_20221108_151050276.jpg",
    "type": "bike",
    "caption": "청록색으로 칠한 자전거 횡단 공간",
-   "order": 20
+   "order": 20,
+   "md5": "3329a594cba8351f963dd7b69731de33"
   },
   {
    "id": "p0663",
    "src": "이미지/KakaoTalk_20221108_151050276_01.jpg",
    "type": "bike",
    "caption": "횡단보도 옆으로 이어지는 자전거 횡단도",
-   "order": 30
+   "order": 30,
+   "md5": "d0a066285f4e6933a2742a8a4a611c1f"
   },
   {
    "id": "p0664",
    "src": "이미지/KakaoTalk_20221108_151050276_02.jpg",
    "type": "exclude",
    "caption": "의미 약한 배수구 사진",
-   "order": 30
+   "order": 30,
+   "md5": "294fb2fdab2ca9f9ac73bee779bf49d5"
   },
   {
    "id": "p0665",
    "src": "이미지/KakaoTalk_20221108_151050276_04.jpg",
    "type": "exclude",
    "caption": "p0661 중복",
-   "order": 30
+   "order": 30,
+   "md5": "a46b0e434b0c22230214906bdf2b13d4"
   },
   {
    "id": "p0666",
    "src": "이미지/KakaoTalk_20221108_151158642.jpg",
    "type": "walk",
    "caption": "보행, 자전거, 차가 함께 쓰는 복합 가로",
-   "order": 30
+   "order": 30,
+   "md5": "b499040adfdd8a4987217bcf155b29dc"
   },
   {
    "id": "p0667",
    "src": "이미지/KakaoTalk_20221108_151158642_01.jpg",
    "type": "exclude",
    "caption": "SNS 스크린샷",
-   "order": 30
+   "order": 30,
+   "md5": "9b788af9c9ddaae9479b5a87b24811ca"
   },
   {
    "id": "p0668",
    "src": "이미지/KakaoTalk_20221108_151158642_02.jpg",
    "type": "street",
    "caption": "사람들이 앉아 쉬는 건물 앞 계단",
-   "order": 20
+   "order": 20,
+   "md5": "a86ca770ded13b1264612654cb04ee79"
   },
   {
    "id": "p0669",
    "src": "이미지/KakaoTalk_20221108_151158642_03.jpg",
    "type": "street",
    "caption": "계단에 사람들이 머무는 서울도서관 입구",
-   "order": 20
+   "order": 20,
+   "md5": "5eadabc49a3dc20ca1f8212abb6692cb"
   },
   {
    "id": "p0670",
    "src": "이미지/KakaoTalk_20221108_151158642_04.jpg",
    "type": "walk",
    "caption": "화분이 줄지어 선 넓은 도심 보도",
-   "order": 30
+   "order": 30,
+   "md5": "96d7c6f4105c525879c2116e323461b1"
   },
   {
    "id": "p0671",
    "src": "이미지/KakaoTalk_20221108_151158642_05.jpg",
    "type": "furniture",
    "caption": "건물 앞을 두른 사다리꼴 금속 화분",
-   "order": 30
+   "order": 30,
+   "md5": "60e0967a89ac6fb7f3fd570c2877ec7c"
   },
   {
    "id": "p0672",
    "src": "이미지/KakaoTalk_20221108_151158642_06.jpg",
    "type": "walk",
    "caption": "블록 포장과 볼라드로 정비한 횡단보도",
-   "order": 20
+   "order": 20,
+   "md5": "2e31ecb226b389bfdaf656f58562893b"
   },
   {
    "id": "p0673",
    "src": "이미지/KakaoTalk_20221108_151158642_07.jpg",
    "type": "walk",
    "caption": "난간으로 차도와 나눈 초록색 보행로",
-   "order": 20
+   "order": 20,
+   "md5": "78822480b2a25ea95861846c1f44f67e"
   },
   {
    "id": "p0674",
    "src": "이미지/KakaoTalk_20221108_151158642_08.jpg",
    "type": "walk",
    "caption": "주차장 안에 초록색으로 낸 보행 통로",
-   "order": 30
+   "order": 30,
+   "md5": "0b7ba5aa877109a378dca9317fa0b88a"
   },
   {
    "id": "p0675",
    "src": "이미지/KakaoTalk_20221108_151158642_09.jpg",
    "type": "walk",
    "caption": "지그재그 무늬로 포장한 보도",
-   "order": 20
+   "order": 20,
+   "md5": "ad12514d36579be41ac6b6c8ed05e09e"
   },
   {
    "id": "p0676",
    "src": "이미지/KakaoTalk_20221108_151158642_10.jpg",
    "type": "bike",
    "caption": "코펜하겐 교차로를 메운 자전거 행렬",
-   "order": 30
+   "order": 30,
+   "md5": "fe465c2972c347e6c4d1e199e7fa6193"
   },
   {
    "id": "p0677",
    "src": "이미지/KakaoTalk_20221108_151158642_11.jpg",
    "type": "bike",
    "caption": "도심 대로에 새로 낸 자전거도로",
-   "order": 30
+   "order": 30,
+   "md5": "8bfe2efd05faa78c83437213f7d110f2"
   },
   {
    "id": "p0678",
    "src": "이미지/KakaoTalk_20221108_151158642_12.jpg",
    "type": "play",
    "caption": "광장에서 벌어진 시민 베개 싸움",
-   "order": 30
+   "order": 30,
+   "md5": "87260e6b422bc638dd233e57e1bf5ceb"
   },
   {
    "id": "p0679",
    "src": "이미지/KakaoTalk_20221108_151158642_13.jpg",
    "type": "exclude",
    "caption": "저화질 영상 캡처",
-   "order": 30
+   "order": 30,
+   "md5": "29eaebb71ab9ef0e8ddc857977dfc826"
   },
   {
    "id": "p0680",
    "src": "이미지/KakaoTalk_20221108_151158642_14.jpg",
    "type": "exclude",
    "caption": "저화질 영상 캡처",
-   "order": 30
+   "order": 30,
+   "md5": "c6193089aaf72baf6eea8d5c1aad18f2"
   },
   {
    "id": "p0681",
    "src": "이미지/KakaoTalk_20221108_151158642_15.jpg",
    "type": "street",
    "caption": "고속도로 위를 덮어 상가를 올린 다리",
-   "order": 30
+   "order": 30,
+   "md5": "d39cff0fff1206d08159fc5c8014fae4"
   },
   {
    "id": "p0682",
    "src": "이미지/KakaoTalk_20240723_174139817.jpg",
    "type": "nudge",
    "caption": "벤치마다 고리를 그려 모이게 한 광장",
-   "order": 20
+   "order": 20,
+   "md5": "41eb1c8612ab1e5878d18b17252a10ba"
   },
   {
    "id": "p0683",
    "src": "이미지/KakaoTalk_20240723_174140358.jpg",
    "type": "nudge",
    "caption": "이야기꽃 피우는 곳이라 적은 바닥 문구",
-   "order": 20
+   "order": 20,
+   "md5": "5b7fd29c379f0982beca01991bfc1a92"
   },
   {
    "id": "p0684",
    "src": "이미지/KakaoTalk_20240723_174140739.jpg",
    "type": "nudge",
    "caption": "원형 벤치를 감싼 주황, 파랑 바닥 고리",
-   "order": 20
+   "order": 20,
+   "md5": "c32dc886129c5488a4f1c7adb5332a13"
   },
   {
    "id": "p0685",
    "src": "이미지/KakaoTalk_20241024_140514470_03.jpg",
    "type": "walk",
    "caption": "넓은 곡선 차로를 줄여 만든 보행 공간 전후",
-   "order": 20
+   "order": 20,
+   "md5": "692bca7d745b257156da84135f41921f"
   },
   {
    "id": "p0686",
    "src": "이미지/KakaoTalk_20241024_140514470_04.jpg",
    "type": "street",
    "caption": "런던 버스와 지하철이 만나는 유리 역사",
-   "order": 20
+   "order": 20,
+   "md5": "9ca43d0399ad8a685aea598f94c5615c"
   },
   {
    "id": "p0687",
    "src": "이미지/Keep clear.jpg",
    "type": "nudge",
    "caption": "전기 패널 앞을 비우게 하는 바닥 표시",
-   "order": 20
+   "order": 20,
+   "md5": "0350d3afe31a71d9a7e1df87c72e2433"
   },
   {
    "id": "p0688",
    "src": "이미지/PID_가로선 자전거길.png",
    "type": "bike",
    "caption": "가로선을 일정하게 그은 자전거길",
-   "order": 20
+   "order": 20,
+   "md5": "e2b1fe273bab6a3cd6204f3b9297a3ca"
   },
   {
    "id": "p0689",
    "src": "이미지/PID_감속노면표시 근거.png",
    "type": "exclude",
    "caption": "텍스트 이미지",
-   "order": 30
+   "order": 30,
+   "md5": "1f78232d38ceb43c9db3efb8e6b2aa07"
   },
   {
    "id": "p0690",
    "src": "이미지/PID_감속노면표시.png",
    "type": "walk",
    "caption": "차로 양옆에 그어 감속을 이끄는 노면 표시",
-   "order": 20
+   "order": 20,
+   "md5": "9b6d50e5c24679e0ee0474de937beedb"
   },
   {
    "id": "p0691",
    "src": "이미지/PID_좁아지는 자전거길.png",
    "type": "bike",
    "caption": "사다리 무늬로 폭을 좁힌 자전거길",
-   "order": 20
+   "order": 20,
+   "md5": "ad3bd4913664394ef5ec8282757db15f"
   },
   {
    "id": "p0692",
    "src": "이미지/Pocket Parks novo e compacto modelo aos espaços públicos/PracinhaOscarFreire_CortesiaZoomArquitetura-01.jpg",
    "type": "play",
    "caption": "벽화와 줄무늬 바닥이 어우러진 포켓파크",
-   "order": 10
+   "order": 10,
+   "md5": "bb98da4e6cffb757deadf65245c2e1c2"
   },
   {
    "id": "p0693",
    "src": "이미지/Pocket Parks novo e compacto modelo aos espaços públicos/PracinhaOscarFreire_CortesiaZoomArquitetura-02.jpg",
    "type": "play",
    "caption": "목재 데크 계단과 화분을 둔 포켓파크",
-   "order": 20
+   "order": 20,
+   "md5": "de1c3e4bbce412283e73458520bae8d2"
   },
   {
    "id": "p0694",
    "src": "이미지/Pocket Parks novo e compacto modelo aos espaços públicos/PracinhaOscarFreire_CortesiaZoomArquitetura-04.jpg",
    "type": "play",
    "caption": "큰 화분과 벽화 사이를 걷는 포켓파크",
-   "order": 20
+   "order": 20,
+   "md5": "214d19616b5b26bdae3d02098b59b11b"
   },
   {
    "id": "p0695",
    "src": "이미지/Pocket Parks novo e compacto modelo aos espaços públicos/PracinhaOscarFreire_CortesiaZoomArquitetura-06.jpg",
    "type": "play",
    "caption": "얼굴 벽화 아래 주황 줄무늬 바닥",
-   "order": 20
+   "order": 20,
+   "md5": "2a4b72782259f275c325013c5648e127"
   },
   {
    "id": "p0696",
    "src": "이미지/Pocket Parks novo e compacto modelo aos espaços públicos/PracinhaOscarFreire_CortesiaZoomArquitetura-07.jpg",
    "type": "play",
    "caption": "문을 열어 거리와 이어지는 포켓파크 입구",
-   "order": 30
+   "order": 30,
+   "md5": "9f78481d14189bf692ef68769ad4ff04"
   },
   {
    "id": "p0697",
    "src": "이미지/Pocket Parks novo e compacto modelo aos espaços públicos/PracinhaOscarFreire_CortesiaZoomArquitetura-Isométrica.jpg",
    "type": "play",
    "caption": "오스카 프레이리 포켓파크 입체 도면",
-   "order": 20
+   "order": 20,
+   "md5": "998cd4c6aedcf99969ef77fef982e62f"
   },
   {
    "id": "p0698",
    "src": "이미지/SHARED SPACE - EXBITIOB ROAD.jpg",
    "type": "exclude",
    "caption": "텍스트 슬라이드",
-   "order": 30
+   "order": 30,
+   "md5": "2461ad715768861b9df8f3f9903c6749"
   },
   {
    "id": "p0699",
    "src": "이미지/Safe Footprint.png",
    "type": "nudge",
    "caption": "골목 모퉁이에서 멈추게 하는 발자국 표시",
-   "order": 20
+   "order": 20,
+   "md5": "0eee667bdbe0b51583b1620a85a19b45"
   },
   {
    "id": "p0700",
    "src": "이미지/Screenshot_20200115-223734_Facebook.jpg",
    "type": "exclude",
    "caption": "뉴스 스크린샷",
-   "order": 30
+   "order": 30,
+   "md5": "5ccf564b669b72e8af14df71545faccc"
   },
   {
    "id": "p0701",
    "src": "이미지/Screenshot_20211001-171906_Drive.jpg",
    "type": "bike",
    "caption": "역사 앞에 줄지어 놓은 자전거 보관함",
-   "order": 30
+   "order": 30,
+   "md5": "d462946be115d3ff4b0c9f52346c09a8"
   },
   {
    "id": "p0702",
    "src": "이미지/Screenshot_20211013-102202_Facebook.jpg",
    "type": "sign",
    "caption": "지하철 창에 띄운 투명 디스플레이 노선도",
-   "order": 20
+   "order": 20,
+   "md5": "7c89c26fc264f6544bc238a1a939c074"
   },
   {
    "id": "p0703",
    "src": "이미지/Starling Crossing.jpg",
    "type": "walk",
    "caption": "상황에 따라 바뀌는 LED 바닥 횡단보도",
-   "order": 20
+   "order": 20,
+   "md5": "80b1114aa3b7f9925b1eac266e17ad6f"
   },
   {
    "id": "p0704",
    "src": "이미지/TO색채 인지 - 히로시마 공원화장실.jpg",
    "type": "color",
    "caption": "히로시마 공원화장실의 붉은 손잡이",
-   "order": 10
+   "order": 10,
+   "md5": "386ba09ec547149223eb2bf2eb6ff977"
   },
   {
    "id": "p0705",
    "src": "이미지/active space.png",
    "type": "play",
    "caption": "교각 아래 팔레트 데크에 펼친 텐트 캠프",
-   "order": 20
+   "order": 20,
+   "md5": "5ed3752c613140b62bed6583fab3ed38"
   },
   {
    "id": "p0706",
    "src": "이미지/bicycle-lanes-isometric-illustration-modern-city-streets-people-riding-bikes-along-road-buildings-d-vector-225982545.jpg",
    "type": "exclude",
    "caption": "워터마크 일러스트",
-   "order": 30
+   "order": 30,
+   "md5": "e8f99cc21f25a4f01250954c8a6c81e6"
   },
   {
    "id": "p0707",
    "src": "이미지/dd3f64654f775dbb22917ef9ed34fac5.jpg",
    "type": "color",
    "caption": "어두운 계단에서 빛나는 노란 손잡이",
-   "order": 10
+   "order": 10,
+   "md5": "ba777de3059c040ef6d1f57537c4be46"
   },
   {
    "id": "p0708",
    "src": "이미지/genius-ideas-solutions-make-life-easier-13-5a96b51415ead__605.jpg",
    "type": "furniture",
    "caption": "물결처럼 휘어 앉을 자리가 되는 강변 난간",
-   "order": 10
+   "order": 10,
+   "md5": "a0ebdd9ec2c45e63d4db3df4458195d6"
   },
   {
    "id": "p0709",
    "src": "이미지/genius-ideas-solutions-make-life-easier-18-5a9920132f240__605.jpg",
    "type": "sign",
    "caption": "화살표마다 남은 시간을 띄운 신호등",
-   "order": 30
+   "order": 30,
+   "md5": "c4c311354fc479409abcc22b9d746da1"
   },
   {
    "id": "p0710",
    "src": "이미지/genius-ideas-solutions-make-life-easier-1v-5a9e92bc76477__605.jpg",
    "type": "bike",
    "caption": "자전거를 타며 버릴 수 있게 기울인 휴지통",
-   "order": 10
+   "order": 10,
+   "md5": "b92e1a08233892aec6ddd9bca0e54320"
   },
   {
    "id": "p0711",
    "src": "이미지/genius-ideas-solutions-make-life-easier-21-5a9921eb05255__605.jpg",
    "type": "exclude",
    "caption": "공공디자인과 무관",
-   "order": 30
+   "order": 30,
+   "md5": "bd4a5e628436821ad57fe63f6abf0e43"
   },
   {
    "id": "p0712",
    "src": "이미지/parklet 2.png",
    "type": "play",
    "caption": "잔디, 의자, 그네를 들인 파클렛",
-   "order": 20
+   "order": 20,
+   "md5": "3e39e8e616e1626e058c15e5205da22d"
   },
   {
    "id": "p0713",
    "src": "이미지/parklet.png",
    "type": "play",
    "caption": "주차 칸에 잔디와 데크를 깐 파클렛",
-   "order": 20
+   "order": 20,
+   "md5": "7854cce0d2562c489d9d28b419c17f72"
   },
   {
    "id": "p0714",
    "src": "이미지/safe color.png",
    "type": "color",
    "caption": "소방 설비 벽을 통째로 붉게 칠한 복도",
-   "order": 20
+   "order": 20,
+   "md5": "2d32badc7843a40c18a8d5e1f75ac3f0"
   },
   {
    "id": "p0715",
    "src": "이미지/safe color2.png",
    "type": "exclude",
    "caption": "p0579와 같은 사진",
-   "order": 30
+   "order": 30,
+   "md5": "11da69b58409e23dfeea3a8b211ef0f7"
   },
   {
    "id": "p0716",
    "src": "이미지/safe color3.png",
    "type": "color",
    "caption": "계단조심 문구를 넣은 노란 단차 띠",
-   "order": 20
+   "order": 20,
+   "md5": "eab40f76786893da27a6bde370c32bec"
   },
   {
    "id": "p0717",
    "src": "이미지/safe edge 2.png",
    "type": "color",
    "caption": "보도 경계석을 노랗게 칠한 가장자리",
-   "order": 30
+   "order": 30,
+   "md5": "a6baf064e697255e3ac345bb1c05781f"
   },
   {
    "id": "p0718",
    "src": "이미지/safe edge.png",
    "type": "exclude",
    "caption": "p0545, p0546 중복 콜라주",
-   "order": 30
+   "order": 30,
+   "md5": "873c97d5873bfa70a028f13be692864a"
   },
   {
    "id": "p0719",
    "src": "이미지/safe step.png",
    "type": "color",
    "caption": "낮은 단차의 시작을 알리는 노란 선",
-   "order": 20
+   "order": 20,
+   "md5": "f2a859be5a16a6251ee26022b1d6c3de"
   },
   {
    "id": "p0720",
    "src": "이미지/shared space 3.png",
    "type": "walk",
    "caption": "차도를 공유 공간으로 바꾼 가로 전후",
-   "order": 20
+   "order": 20,
+   "md5": "bbeea9b69fb0e57eec42f6dcf53631bf"
   },
   {
    "id": "p0721",
    "src": "이미지/shared space 4.png",
    "type": "walk",
    "caption": "보행자와 차가 함께 쓰는 거리 전후",
-   "order": 30
+   "order": 30,
+   "md5": "5f8c83d2059a1275c4b78f6fde4b8480"
   },
   {
    "id": "p0722",
    "src": "이미지/shared space 5.jpg",
    "type": "walk",
    "caption": "붉은 바닥으로 하나 된 공유 광장",
-   "order": 10
+   "order": 10,
+   "md5": "5c2c46b132344d12dab8d574bc547006"
   },
   {
    "id": "p0723",
    "src": "이미지/shared space.png",
    "type": "walk",
    "caption": "보행자 중심의 바닷가 마을 원형 광장",
-   "order": 20
+   "order": 20,
+   "md5": "7acd65a64880192ef26eddfc93c0bf9f"
   },
   {
    "id": "p0724",
    "src": "이미지/shared space2.png",
    "type": "walk",
    "caption": "대각선 횡단으로 바뀐 도심 교차로",
-   "order": 20
+   "order": 20,
+   "md5": "e93bd9ed4285863f778420875ca3245a"
   },
   {
    "id": "p0725",
    "src": "이미지/shower-footrest.jpg",
    "type": "inclusive",
    "caption": "샤워할 때 발을 올려 두는 벽 발판",
-   "order": 30
+   "order": 30,
+   "md5": "6ecbd3d8e182c86a05549841464db8cb"
   },
   {
    "id": "p0726",
    "src": "이미지/visual clearance zone.jpg",
    "type": "sign",
    "caption": "시야 확보 구역을 둔 지하철 안내사인",
-   "order": 30
+   "order": 30,
+   "md5": "6bfdd4a16c4ec5b3b94555150b3879f0"
   },
   {
    "id": "p0727",
    "src": "이미지/visual varrier elements.jpg",
    "type": "sign",
    "caption": "회색 벽에 단정하게 붙인 홍대입구역 사인",
-   "order": 20
+   "order": 20,
+   "md5": "7c9a1be9c3c0d4d19e444807ceeb765f"
   },
   {
    "id": "p0728",
    "src": "이미지/갈색 휀스.jpg",
    "type": "color",
    "caption": "철길을 따라 이어진 갈색 휀스",
-   "order": 30
+   "order": 30,
+   "md5": "358d79482fb738fb2f647510b5a26035"
   },
   {
    "id": "p0729",
    "src": "이미지/갈색 휀스2.jpg",
    "type": "exclude",
    "caption": "p0728과 같은 휀스를 찍은 흐린 사진",
-   "order": 30
+   "order": 30,
+   "md5": "3378e7979cda18131bbfadef685ca990"
   },
   {
    "id": "p0730",
    "src": "이미지/건멀목패턴 2-1.jfif",
    "type": "walk",
    "caption": "굵은 줄무늬로 또렷한 도심 건널목",
-   "order": 20
+   "order": 20,
+   "md5": "91ce2d7439fdfbd3c09ddca4802c3a62"
   },
   {
    "id": "p0731",
    "src": "이미지/경기 하남시 덕풍초 스쿨존 노란색.png",
    "type": "color",
    "caption": "노란 신호등과 붉은 노면의 하남 덕풍초 스쿨존",
-   "order": 30
+   "order": 30,
+   "md5": "182a95cd6638396ee911640e0bc8a7ab"
   },
   {
    "id": "p0732",
    "src": "이미지/고소도로 휴게소 및 동선.jpg",
    "type": "walk",
    "caption": "휴게소 주차장을 가로지르는 보행 동선",
-   "order": 20
+   "order": 20,
+   "md5": "98ff5d2bd79bf8961dd128859541706a"
   },
   {
    "id": "p0733",
    "src": "이미지/공원내 화장실 자연감시.png",
    "type": "cpted",
    "caption": "놀이터에서 잘 보이도록 둔 공원 화장실",
-   "order": 30
+   "order": 30,
+   "md5": "b99af148601613e1b160117c43ce7f6f"
   },
   {
    "id": "p0734",
    "src": "이미지/교각- 색채 파랑.png",
    "type": "exclude",
    "caption": "p0738과 같은 이미지의 저해상도 판",
-   "order": 30
+   "order": 30,
+   "md5": "d0806b8939edaac028e42451aefd93f3"
   },
   {
    "id": "p0735",
    "src": "이미지/교각- 색채 회색.png",
    "type": "exclude",
    "caption": "p0743과 같은 교량 이미지",
-   "order": 30
+   "order": 30,
+   "md5": "59cf4ad09ce0d4a303096128db556f75"
   },
   {
    "id": "p0736",
    "src": "이미지/교각색채 after.jpg",
    "type": "color",
    "caption": "회색 톤으로 정돈한 고가 교량 계획안",
-   "order": 30
+   "order": 30,
+   "md5": "da9391448d532f7e7bfbc2bd776ffd94"
   },
   {
    "id": "p0737",
    "src": "이미지/교각색채 before.jpg",
    "type": "color",
    "caption": "분홍, 초록이 뒤섞인 정비 전 교량",
-   "order": 30
+   "order": 30,
+   "md5": "34693689ac55450a6f354b6b8e10ff16"
   },
   {
    "id": "p0738",
    "src": "이미지/교각안전색채_경기 의왕시 고천동.png",
    "type": "color",
    "caption": "파란색으로 눈에 띄게 칠한 의왕 고천동 교량",
-   "order": 30
+   "order": 30,
+   "md5": "d773bd54fd97e4dc6cf530cea28d59a6"
   },
   {
    "id": "p0739",
    "src": "이미지/교각하부_Canadian Cities and Urban Development Discussion Thread.jpg",
    "type": "play",
    "caption": "고가 하부를 쉼과 놀이의 공간으로 바꾼 계획",
-   "order": 20
+   "order": 20,
+   "md5": "2c885560538294a24bab0104e1649f67"
   },
   {
    "id": "p0740",
    "src": "이미지/교각하부_Caulfield to Dandenong Level Crossing Removal Project.jpg",
    "type": "play",
    "caption": "고가 철도 아래에 만든 놀이터와 운동 공간",
-   "order": 10
+   "order": 10,
+   "md5": "5e6add5a6a7dbd3d6d565ab5a52ab96d"
   },
   {
    "id": "p0741",
    "src": "이미지/교각하부_Tucheng Sports Center _Q-Lab.jpg",
    "type": "play",
    "caption": "투청 스포츠센터 하부의 클라이밍 벽",
-   "order": 20
+   "order": 20,
+   "md5": "a1057112b03a58255e813bdadd3d92bb"
   },
   {
    "id": "p0742",
    "src": "이미지/교량안전색채_경기 안양시 만안구 석수동.png",
    "type": "exclude",
    "caption": "p0743과 같은 교량의 다른 컷",
-   "order": 30
+   "order": 30,
+   "md5": "952f04fbbcf5380d2510b450a4ab7883"
   },
   {
    "id": "p0743",
    "src": "이미지/교량안전색채_경기 안양시 만안구 석수동2.png",
    "type": "color",
    "caption": "회색 톤의 안양 석수동 교량 전경",
-   "order": 30
+   "order": 30,
+   "md5": "5e631a046856b7a3103fd67c5db09c72"
   },
   {
    "id": "p0744",
    "src": "이미지/교차로_Oakland’s Quick-Build Protected Intersections are Safer.jpg",
    "type": "walk",
    "caption": "보행 거리를 줄인 오클랜드 보호형 교차로",
-   "order": 30
+   "order": 30,
+   "md5": "a5a8dec8338dab031a79088e913e0aa1"
   },
   {
    "id": "p0745",
    "src": "이미지/교차로_개선.jpg",
    "type": "walk",
    "caption": "보행과 자전거 동선을 정리한 교차로 계획",
-   "order": 30
+   "order": 30,
+   "md5": "3029dd6551394c65bcc51e2129d3dd33"
   },
   {
    "id": "p0746",
    "src": "이미지/교차로_건널목 위치 수정.jpg",
    "type": "walk",
    "caption": "모퉁이를 넓혀 건널목을 옮긴 교차로 평면",
-   "order": 30
+   "order": 30,
+   "md5": "1bc5ea5b7c64c3ddc7ae56bf02720db0"
   },
   {
    "id": "p0747",
    "src": "이미지/노란안전기둥 2.jpg",
    "type": "color",
    "caption": "노랑, 검정 줄무늬로 기둥을 알린 지하보도",
-   "order": 20
+   "order": 20,
+   "md5": "6439ff68b4e0c33ada2f98e911b1be47"
   },
   {
    "id": "p0748",
    "src": "이미지/노란안전기둥.jpg",
    "type": "exclude",
    "caption": "p0747과 거의 같은 사진",
-   "order": 30
+   "order": 30,
+   "md5": "dc1d91a9fbbb75f61734449eaf266c83"
   },
   {
    "id": "p0749",
    "src": "이미지/노인들을 위한 지팡이 볼라드 IDEO SINGAPORE.png",
    "type": "inclusive",
    "caption": "지팡이를 걸어 둘 수 있는 노인 배려 볼라드",
-   "order": 10
+   "order": 10,
+   "md5": "efe5d0fa0fc6fd38b4d2f49ec4f8f7af"
   },
   {
    "id": "p0750",
    "src": "이미지/누드 엘레베이터.jpg",
    "type": "inclusive",
    "caption": "양 끝에 투명 엘리베이터를 단 보행 육교",
-   "order": 30
+   "order": 30,
+   "md5": "cc3b79263b8545ace17e4c0bb4e082f0"
   },
   {
    "id": "p0751",
    "src": "이미지/뉴욕 쓰레기통-1.jpg",
    "type": "furniture",
    "caption": "가볍게 들어 비우는 뉴욕 신형 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "37a2b8171ee7972cff9a463e21a62955"
   },
   {
    "id": "p0752",
    "src": "이미지/뉴욕 쓰레기통-2.jpg",
    "type": "furniture",
    "caption": "파란 테두리로 구분한 뉴욕 재활용 수거함",
-   "order": 30
+   "order": 30,
+   "md5": "eb3567676b55946433d75a88273ce19b"
   },
   {
    "id": "p0753",
    "src": "이미지/뉴욕 쓰레기통-3.jpg",
    "type": "furniture",
    "caption": "타공 패턴을 입힌 뉴욕 분리배출 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "1c587abc74dbf24caf89d0aaf3854bca"
   },
   {
    "id": "p0754",
    "src": "이미지/뉴욕 쓰레기통-4.jpg",
    "type": "furniture",
    "caption": "길모퉁이에 나란히 놓인 뉴욕 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "65629f3312b254166e5e55a5aa75cdee"
   },
   {
    "id": "p0755",
    "src": "이미지/뉴욕 쓰레기통-5.jpg",
    "type": "furniture",
    "caption": "보행자 곁 모퉁이에 선 뉴욕 수거함 세트",
-   "order": 30
+   "order": 30,
+   "md5": "2f8ea4599f35f341fa123fa31f783a35"
   },
   {
    "id": "p0756",
    "src": "이미지/대관령전망대.jpg",
    "type": "street",
    "caption": "하늘로 뻗은 대관령 전망대 데크",
-   "order": 20
+   "order": 20,
+   "md5": "5efc062eafcfdade29ad7b85467efea3"
   },
   {
    "id": "p0757",
    "src": "이미지/대관령전망대2.jpg",
    "type": "street",
    "caption": "원형 계단으로 오르는 대관령 전망대",
-   "order": 20
+   "order": 20,
+   "md5": "5cb74ba005f0e77384d9d3f4aea9a454"
   },
   {
    "id": "p0758",
    "src": "이미지/도로 속도저감 라인 레인-2.png",
    "type": "walk",
    "caption": "착시 효과로 속도를 줄이는 도로 노면 표시",
-   "order": 30
+   "order": 30,
+   "md5": "d643c89a8001e1bd81e686805b3779cf"
   },
   {
    "id": "p0759",
    "src": "이미지/도로공사 톨게이트.jpg",
    "type": "color",
    "caption": "색채 유도선으로 차로를 안내한 톨게이트 전후",
-   "order": 20
+   "order": 20,
+   "md5": "1348ad3f35b41cf0e7663255a25946b7"
   },
   {
    "id": "p0760",
    "src": "이미지/도로유형 맨홀디자인.jpg",
    "type": "furniture",
    "caption": "연석 모양에 맞춘 도로 배수 맨홀",
-   "order": 30
+   "order": 30,
+   "md5": "d81ff573db7510b74203dc4083e35247"
   },
   {
    "id": "p0761",
    "src": "이미지/도시 우수 측구.jpg",
    "type": "furniture",
    "caption": "빗물을 녹지로 흘려보내는 연석 측구",
-   "order": 20
+   "order": 20,
+   "md5": "d45473b21c58e3537d6fe7d617f47b67"
   },
   {
    "id": "p0762",
    "src": "이미지/도시 이벤트 서프라이즈.jpg",
    "type": "play",
    "caption": "환기구에서 솟은 리본으로 거리를 깨운 이벤트",
-   "order": 20
+   "order": 20,
+   "md5": "d750c1dab199988a4d972b5c86c7519c"
   },
   {
    "id": "p0763",
    "src": "이미지/레저블.png",
    "type": "sign",
    "caption": "기둥에 출구 번호를 크게 더한 역사 사인 전후",
-   "order": 20
+   "order": 20,
+   "md5": "910830b3c25150e5623d74d5cb685543"
   },
   {
    "id": "p0764",
    "src": "이미지/면단위 그래픽 주차장.jpg",
    "type": "sign",
    "caption": "주차면 단위로 칠한 노란 바닥 그래픽",
-   "order": 20
+   "order": 20,
+   "md5": "fc56b86377fdb79ff756278ffead6983"
   },
   {
    "id": "p0765",
    "src": "이미지/문화비축기지 쓰레기통 1.jpg",
    "type": "furniture",
    "caption": "나무 마감으로 맞춘 문화비축기지 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "ba9e7f10fe33c9809ffbbfe88800d36a"
   },
   {
    "id": "p0766",
    "src": "이미지/문화비축기지 쓰레기통 2.jpg",
    "type": "furniture",
    "caption": "뚜껑을 씌운 문화비축기지 원통형 수거함",
-   "order": 30
+   "order": 30,
+   "md5": "02578b3e43ab479ed8f9d1415da4ed0d"
   },
   {
    "id": "p0767",
    "src": "이미지/바전거 바퀴 트렌치.jpg",
    "type": "bike",
    "caption": "자전거 바퀴 끼임에 주의할 도로 트렌치",
-   "order": 30
+   "order": 30,
+   "md5": "e26b8403a6c4ffc9a70c866f27176518"
   },
   {
    "id": "p0768",
    "src": "이미지/배려디자인_Inclusive Swing.jpg",
    "type": "inclusive",
    "caption": "휠체어를 탄 채 타는 모두의 그네",
-   "order": 10
+   "order": 10,
+   "md5": "b725cc82a5411c84fef37b8f4299140a"
   },
   {
    "id": "p0769",
    "src": "이미지/보행로 after.jpg",
    "type": "walk",
    "caption": "차로를 광장으로 바꾼 체크무늬 보행 거리",
-   "order": 10
+   "order": 10,
+   "md5": "ea6de03369facae1857ebdd573e831fd"
   },
   {
    "id": "p0770",
    "src": "이미지/보행로 before.jpg",
    "type": "walk",
    "caption": "광장으로 바뀌기 전 차량 중심 거리",
-   "order": 30
+   "order": 30,
+   "md5": "f370c25fa601ce06aeb772e544a04954"
   },
   {
    "id": "p0771",
    "src": "이미지/보행용 길건널목 2.jpg",
    "type": "walk",
    "caption": "붉은 포장과 나무가 어우러진 보행 건널목",
-   "order": 20
+   "order": 20,
+   "md5": "30dc6654c46f6512912cfb8604f6944e"
   },
   {
    "id": "p0772",
    "src": "이미지/보행용 길건널목 3.jpg",
    "type": "walk",
    "caption": "흰 줄무늬가 이어진 붉은 보행 건널목",
-   "order": 10
+   "order": 10,
+   "md5": "6c3d8e5a8081640ad97138f4add3a03a"
   },
   {
    "id": "p0773",
    "src": "이미지/보행용 길건널목 4.jpg",
    "type": "walk",
    "caption": "위에서 내려다본 붉은 건널목 거리",
-   "order": 20
+   "order": 20,
+   "md5": "7e1f69881bc12d8dc8345f85caa1d1cf"
   },
   {
    "id": "p0774",
    "src": "이미지/보행용 길건널목 SEGRE STREET.jpg",
    "type": "walk",
    "caption": "나무 둘레에 잎 무늬를 새긴 세그레 거리",
-   "order": 10
+   "order": 10,
+   "md5": "0936553cf17c47b4bcbed3eb4b3b4d02"
   },
   {
    "id": "p0775",
    "src": "이미지/보행자와 자전거 신호등.jpg",
    "type": "bike",
    "caption": "보행자와 자전거 신호를 함께 단 신호등",
-   "order": 30
+   "order": 30,
+   "md5": "bc9392eb347dc53d921b30dfe322e156"
   },
   {
    "id": "p0776",
    "src": "이미지/보행자와 자전거 신호등2.jpg",
    "type": "bike",
    "caption": "보도 옆으로 이어지는 자전거 전용 차로",
-   "order": 30
+   "order": 30,
+   "md5": "8f456d34cedde43007ca405b8814dac2"
   },
   {
    "id": "p0777",
    "src": "이미지/보행자와 자전거 신호등3.jpg",
    "type": "bike",
    "caption": "교차로에 표시한 자전거 노면 표지",
-   "order": 30
+   "order": 30,
+   "md5": "fd356707b69ee7c04a1b7d69d02f87a3"
   },
   {
    "id": "p0778",
    "src": "이미지/부천 광장 쉘터 이미지.JPG",
    "type": "furniture",
    "caption": "거울 지붕에 광장이 비치는 부천 쉘터",
-   "order": 20
+   "order": 20,
+   "md5": "09788d72a629be2de7b47b7297243990"
   },
   {
    "id": "p0779",
    "src": "이미지/사인물 명시성.jpg",
    "type": "sign",
    "caption": "목적지별로 날개를 단 방향 안내사인",
-   "order": 20
+   "order": 20,
+   "md5": "04e1fdfb5a710ed3d1e464dcb224fb4d"
   },
   {
    "id": "p0780",
    "src": "이미지/사인물 명시성2.jpg",
    "type": "sign",
    "caption": "골목 모퉁이에 선 검은 방향 안내사인",
-   "order": 30
+   "order": 30,
+   "md5": "c943af23f37b59dfb382b8a30a959b69"
   },
   {
    "id": "p0781",
    "src": "이미지/사인물 명시성3.jpg",
    "type": "sign",
    "caption": "지도를 담은 검은 기둥형 보행 안내사인",
-   "order": 20
+   "order": 20,
+   "md5": "19b1b43a3132dd9dcea10d03d0001225"
   },
   {
    "id": "p0782",
    "src": "이미지/사인물 명시성4.jpg",
    "type": "sign",
    "caption": "교회 앞 광장에 선 기둥형 안내사인",
-   "order": 20
+   "order": 20,
+   "md5": "c2706ddcd0d47189a73f85ba756aae26"
   },
   {
    "id": "p0783",
    "src": "이미지/색채인지 - 히로시마공원 1.jpg",
    "type": "furniture",
    "caption": "붉은 손잡이가 또렷한 히로시마 공원 화장실",
-   "order": 10
+   "order": 10,
+   "md5": "a966982ff6d19ea28129ae07e16f6d09"
   },
   {
    "id": "p0784",
    "src": "이미지/서울지하철사인.JPG",
    "type": "sign",
    "caption": "서울 지하철 역사의 안내사인 체계",
-   "order": 30
+   "order": 30,
+   "md5": "4da8054c0299a7b0634bcb746267ad1b"
   },
   {
    "id": "p0804",
    "src": "이미지/슬로프형 맨홀.jpg",
    "type": "furniture",
    "caption": "경사면과 줄무늬로 턱을 알린 맨홀",
-   "order": 20
+   "order": 20,
+   "md5": "5c7103064074a5f5cc30e53ee664ea43"
   },
   {
    "id": "p0805",
    "src": "이미지/슬로프형 맨홀2.jpg",
    "type": "furniture",
    "caption": "보도 턱을 경사로 이은 슬로프형 맨홀",
-   "order": 30
+   "order": 30,
+   "md5": "74f0b06ea30183d796bff303ce6b860a"
   },
   {
    "id": "p0806",
    "src": "이미지/시각 영역성 강화 2.jpg",
    "type": "cpted",
    "caption": "색으로 남녀 화장실 영역을 구분한 입구",
-   "order": 30
+   "order": 30,
+   "md5": "53657b439bf63e5c109717a6c3f69771"
   },
   {
    "id": "p0807",
    "src": "이미지/시각정보1.JPG",
    "type": "sign",
    "caption": "계단 위에 단 안전 수칙 픽토그램",
-   "order": 20
+   "order": 20,
+   "md5": "baf5f797aff3f70048112457604917ff"
   },
   {
    "id": "p0808",
    "src": "이미지/시각정보2.jpg",
    "type": "sign",
    "caption": "바닥 색띠로 길을 안내하는 터미널 입구",
-   "order": 20
+   "order": 20,
+   "md5": "5bf44c0b1bf39e5d6236fec9d46c5c67"
   },
   {
    "id": "p0809",
    "src": "이미지/쓰레기통 3.jpg",
    "type": "nudge",
    "caption": "색과 투입구 모양으로 나눈 분리배출함",
-   "order": 30
+   "order": 30,
+   "md5": "a934a5ea3b71c4963153c5ddf99f325e"
   },
   {
    "id": "p0810",
    "src": "이미지/쓰레기통 4.jpg",
    "type": "exclude",
    "caption": "분리배출 인포그래픽 이미지",
-   "order": 30
+   "order": 30,
+   "md5": "5c31e14e5279ab7568b69640839ef396"
   },
   {
    "id": "p0811",
    "src": "이미지/쓰레기통 인지 행동유도.png",
    "type": "exclude",
    "caption": "p0814와 p0815를 합친 이미지",
-   "order": 30
+   "order": 30,
+   "md5": "d9f83d6460c0d002fb096903f1d51df5"
   },
   {
    "id": "p0812",
    "src": "이미지/쓰레기통 입구-1.jpg",
    "type": "exclude",
    "caption": "p0813과 같은 수거함의 다른 컷",
-   "order": 30
+   "order": 30,
+   "md5": "f08d1334d54423e2dabf47cbb4285658"
   },
   {
    "id": "p0813",
    "src": "이미지/쓰레기통 입구-2.jpg",
    "type": "furniture",
    "caption": "속이 보이는 투명 프레임 분리수거함",
-   "order": 30
+   "order": 30,
+   "md5": "9cbe3c0cfb6f8c35c99bd64f0a17a61f"
   },
   {
    "id": "p0814",
    "src": "이미지/쓰레기통-입구디자인 넛지 1.png",
    "type": "nudge",
    "caption": "얼굴 같은 입구로 분리배출을 돕는 수거함",
-   "order": 20
+   "order": 20,
+   "md5": "3b40857352e28fdfbfc0e40566a4178c"
   },
   {
    "id": "p0815",
    "src": "이미지/쓰레기통-입구디자인 넛지 2.png",
    "type": "nudge",
    "caption": "투입구 모양으로 버릴 것을 알려 주는 수거함",
-   "order": 30
+   "order": 30,
+   "md5": "5eae656d79f202d3ed966bfcfe7f935a"
   },
   {
    "id": "p0816",
    "src": "이미지/쓰레기통.jpg",
    "type": "nudge",
    "caption": "색과 그림 표지로 나눈 분리배출 수거함",
-   "order": 30
+   "order": 30,
+   "md5": "e8564576f1a32b0b297b6aaa7c652491"
   },
   {
    "id": "p0817",
    "src": "이미지/쓰레기통_트렌치용.jpg",
    "type": "furniture",
    "caption": "바닥 트렌치에 넣은 매립형 쓰레기통",
-   "order": 30
+   "order": 30,
+   "md5": "34e310e8844be7c794acd692bfceefb0"
   },
   {
    "id": "p0818",
    "src": "이미지/안전 칼라.jpg",
    "type": "color",
    "caption": "소화전 위치를 알리는 붉은 기둥",
-   "order": 20
+   "order": 20,
+   "md5": "22d3343b40e26e6b8c3b3f6cb58633fe"
   },
   {
    "id": "p0819",
    "src": "이미지/안전단차 색채 1.jpg",
    "type": "color",
    "caption": "보도 단차 끝을 알리는 노란 안전선",
-   "order": 20
+   "order": 20,
+   "md5": "655bf3c6e6fb3be9c36ff2f4eeda63ca"
   },
   {
    "id": "p0820",
    "src": "이미지/안전단차 색채 2 before.JPG",
    "type": "color",
    "caption": "단차가 잘 보이지 않는 정비 전 보도",
-   "order": 30
+   "order": 30,
+   "md5": "6a90a6c7b7337452a5a562e5cb5f6514"
   },
   {
    "id": "p0821",
    "src": "이미지/안전단차 색채 2.jpg",
    "type": "color",
    "caption": "노란 선으로 단차를 드러낸 보도 정비 후",
-   "order": 20
+   "order": 20,
+   "md5": "9aec86a4240b5e5f62402165a588e7aa"
   },
   {
    "id": "p0822",
    "src": "이미지/안전단차 색채 3.jpg",
    "type": "color",
    "caption": "건물 앞 보도 턱을 따라 그은 노란 선",
-   "order": 20
+   "order": 20,
+   "md5": "8d1b02183f928ad36a1c346bac07b0ea"
   },
   {
    "id": "p0823",
    "src": "이미지/안전디자인 색채적용.jpg",
    "type": "color",
    "caption": "건물 입구를 지키는 노란 안전 볼라드",
-   "order": 30
+   "order": 30,
+   "md5": "fca633b140d6cc0da385cbdf1c4aec3a"
   },
   {
    "id": "p0824",
    "src": "이미지/안전디자인_노란버스 1.jpg",
    "type": "color",
    "caption": "흰 차들 사이에서 눈에 띄는 노란 통학버스",
-   "order": 20
+   "order": 20,
+   "md5": "3cdeb58eee316cf7cbca9815ef24da10"
   },
   {
    "id": "p0825",
    "src": "이미지/안전디자인_노란버스 2.jpg",
    "type": "color",
    "caption": "모든 차가 노란색일 때 묻히는 통학버스",
-   "order": 20
+   "order": 20,
+   "md5": "e8b2a01b4a2bc7424d0d6767d86d1a5f"
   },
   {
    "id": "p0826",
    "src": "이미지/안전색1.jpg",
    "type": "color",
    "caption": "노란 벽과 빗금 기둥으로 밝힌 지하주차장",
-   "order": 10
+   "order": 10,
+   "md5": "2fbf5faeba800d62a427c27757261a48"
   },
   {
    "id": "p0827",
    "src": "이미지/안전환경색채 - 전.png",
    "type": "color",
    "caption": "붉은 교량이 도드라진 정비 전 도로",
-   "order": 30
+   "order": 30,
+   "md5": "dbaae3ccea9e6b430297284f31125dff"
   },
   {
    "id": "p0828",
    "src": "이미지/안전환경색채 - 후.png",
    "type": "color",
    "caption": "붉은 색을 덜고 방호벽에 파란 띠를 더한 도로",
-   "order": 20
+   "order": 20,
+   "md5": "1cfe3c9a8f8459e6444b93bef20285ff"
   },
   {
    "id": "p0829",
    "src": "이미지/안전환경색채2 - 전.png",
    "type": "color",
    "caption": "초록 휀스가 이어진 정비 전 도로",
-   "order": 30
+   "order": 30,
+   "md5": "669edc7e65da705c6ca69aa0022725f6"
   },
   {
    "id": "p0830",
    "src": "이미지/안전환경색채2 - 후.png",
    "type": "color",
    "caption": "파란 방호벽으로 차로 경계를 또렷이 한 도로",
-   "order": 20
+   "order": 20,
+   "md5": "bcbb1ceda9177a55e920c97cd3c3b003"
   },
   {
    "id": "p0831",
    "src": "이미지/어반 플레이_ Majestic Cliveden House installs 57ft giant slide.jpg",
    "type": "play",
    "caption": "클리브덴 하우스의 거대한 미끄럼틀",
-   "order": 10
+   "order": 10,
+   "md5": "a2792be76c0c4b1cfbfce4b1572a3836"
   },
   {
    "id": "p0832",
    "src": "이미지/어반 플레이_ 그네.jpg",
    "type": "play",
    "caption": "도심 광장에 놓인 그네 놀이 시설",
-   "order": 20
+   "order": 20,
+   "md5": "523c94ba75a3fd6361eb86847bcaac46"
   },
   {
    "id": "p0833",
    "src": "이미지/연속적 domain 2.png",
    "type": "walk",
    "caption": "끊김 없이 이어지는 선형 공원 산책로",
-   "order": 20
+   "order": 20,
+   "md5": "7b3c4903252e07a307b9b502fade5656"
   },
   {
    "id": "p0834",
    "src": "이미지/연속적 domain.jpg",
    "type": "bike",
    "caption": "진입로를 가로질러 이어지는 붉은 자전거길",
-   "order": 20
+   "order": 20,
+   "md5": "ec9c74edff86ddccf73cfca17c3eb9d0"
   },
   {
    "id": "p0835",
    "src": "이미지/영국 도로안전색적용.jpg",
    "type": "color",
    "caption": "노란 교통섬 표지로 눈에 띄게 한 영국 도로",
-   "order": 20
+   "order": 20,
+   "md5": "3c85bf7b4c43ac66d640a9184e70e2fa"
   },
   {
    "id": "p0836",
    "src": "이미지/영역성2.jpg",
    "type": "cpted",
    "caption": "주차면 영역을 색으로 또렷이 나눈 주차장",
-   "order": 20
+   "order": 20,
+   "md5": "af923c6b7f7f6c60e5374c35516ff7f1"
   },
   {
    "id": "p0837",
    "src": "이미지/오감 인지.png",
    "type": "inclusive",
    "caption": "색과 큰 숫자로 길 찾기를 돕는 생활 공간",
-   "order": 30
+   "order": 30,
+   "md5": "67ec841acda219231cd027be643165ed"
   },
   {
    "id": "p0838",
    "src": "이미지/인지건강길.png",
    "type": "inclusive",
    "caption": "녹색 길을 그려 걷기를 이끄는 인지건강길",
-   "order": 30
+   "order": 30,
+   "md5": "cb70af18e5e39d6b8694b21bed58db1b"
   },
   {
    "id": "p0839",
    "src": "이미지/자동차 번호판.jpg",
    "type": "exclude",
    "caption": "번호판 변천 인포그래픽",
-   "order": 30
+   "order": 30,
+   "md5": "37de4ae5f48eb11ac5b6178763d8a55c"
   },
   {
    "id": "p0840",
    "src": "이미지/자연감시.png",
    "type": "cpted",
    "caption": "시야가 트여 서로 볼 수 있는 강변 산책로",
-   "order": 20
+   "order": 20,
+   "md5": "b5cc8f5dd3d51e606e5b6ae000d89289"
   },
   {
    "id": "p0841",
    "src": "이미지/자연감시2.png",
    "type": "cpted",
    "caption": "안이 들여다보이는 투시형 철문 통로",
-   "order": 20
+   "order": 20,
+   "md5": "e398ac25d9f0cc425548f2ccbb977c8a"
   },
   {
    "id": "p0842",
    "src": "이미지/자잔거 도로.jpg",
    "type": "bike",
    "caption": "재치 있는 문구를 새긴 붉은 자전거 전용로",
-   "order": 10
+   "order": 10,
+   "md5": "f76d1067b73cbf176f66da79e9285f33"
   },
   {
    "id": "p0843",
    "src": "이미지/자전거 거치대디자인.jpg",
    "type": "bike",
    "caption": "카페 앞에 놓인 자전거 거치대",
-   "order": 30
+   "order": 30,
+   "md5": "8d6c46eaa122a3ab2629cc27f0e5f05a"
   },
   {
    "id": "p0844",
    "src": "이미지/자전거 보행자 동선 연속성 2.jpg",
    "type": "bike",
    "caption": "초록색으로 눈에 띄게 칠한 자전거 차로",
-   "order": 20
+   "order": 20,
+   "md5": "2b760de4cae53d844326e4ad76ffb1e1"
   },
   {
    "id": "p0845",
    "src": "이미지/자전거 보행자 동선 연속성 3.jpg",
    "type": "bike",
    "caption": "교차로를 가로지르는 초록 자전거 횡단로",
-   "order": 20
+   "order": 20,
+   "md5": "e6376a3228e910eae63b84556b6ea14d"
   },
   {
    "id": "p0846",
    "src": "이미지/자전거 보행자 동선 연속성.jpg",
    "type": "bike",
    "caption": "교차로에서도 끊기지 않는 초록 자전거길",
-   "order": 20
+   "order": 20,
+   "md5": "6e62a4ad372803a82ed026f869948b4c"
   },
   {
    "id": "p0847",
    "src": "이미지/자전거 시설_SEPARADOR VIAL CAUCHO BUTTON.jpg",
    "type": "bike",
    "caption": "고무 분리대로 차도와 나눈 자전거 차로",
-   "order": 20
+   "order": 20,
+   "md5": "c7622f5387a6bf5f9c76a872f4c3663e"
   },
   {
    "id": "p0848",
    "src": "이미지/자전거 시설_대기시설2.jpg",
    "type": "bike",
    "caption": "신호 대기 때 발을 올리는 자전거 발판 기둥",
-   "order": 20
+   "order": 20,
+   "md5": "6b884a9eee4a2084684cb3adaffe7a28"
   },
   {
    "id": "p0849",
    "src": "이미지/자전거 시설_대기시설3.jpg",
    "type": "bike",
    "caption": "손잡이와 발판을 갖춘 붉은 자전거 대기대",
-   "order": 20
+   "order": 20,
+   "md5": "c0ed945a1736304c626f196505407f91"
   },
   {
    "id": "p0850",
    "src": "이미지/자전거 시설_쓰레기통.jpg",
    "type": "bike",
    "caption": "달리며 버리도록 기울인 자전거용 쓰레기통",
-   "order": 20
+   "order": 20,
+   "md5": "dfda6e3dbeb9b039a238643f1902fdda"
   },
   {
    "id": "p0851",
    "src": "이미지/자전거_Frome Street Bikeway_Adelaide 시드니.jpg",
    "type": "bike",
    "caption": "연석에 길 정보를 담은 애들레이드 자전거길",
-   "order": 20
+   "order": 20,
+   "md5": "09ee43fd8357f827d5086b414b9d2159"
   },
   {
    "id": "p0852",
    "src": "이미지/자전거_Frome Street Bikeway_Adelaide 시드니2.jpg",
    "type": "bike",
    "caption": "프롬 스트리트 자전거길 안내 기둥",
-   "order": 20
+   "order": 20,
+   "md5": "0de3e152587bf3e530f883adf14c8b16"
   },
   {
    "id": "p0853",
    "src": "이미지/자전거_Frome Street Bikeway_Adelaide 시드니3.jpg",
    "type": "bike",
    "caption": "공원을 지나는 애들레이드 자전거길과 사인",
-   "order": 20
+   "order": 20,
+   "md5": "895d26fd0dcc6e6ce2498e38bb53ace7"
   },
   {
    "id": "p0854",
    "src": "이미지/자전거길- 연속상 및 highlight.jpg",
    "type": "bike",
    "caption": "회전교차로를 감싸 도는 붉은 자전거길",
-   "order": 30
+   "order": 30,
+   "md5": "7fe357ae186a87be03032e32ac73be05"
   },
   {
    "id": "p0855",
    "src": "이미지/전방신호등 효과.jpg",
    "type": "exclude",
    "caption": "텍스트 위주 안내판 사진",
-   "order": 30
+   "order": 30,
+   "md5": "cbe61130f588ac1749c51782b73388a5"
   },
   {
    "id": "p0856",
    "src": "이미지/접근통제.png",
    "type": "cpted",
    "caption": "배관 덮개로 타고 오르기를 막은 외벽",
-   "order": 30
+   "order": 30,
+   "md5": "bbdb5cfb79627b9924df881e74577974"
   },
   {
    "id": "p0857",
    "src": "이미지/접근통제2.png",
    "type": "cpted",
    "caption": "나뭇가지 무늬로 디자인한 방범창",
-   "order": 20
+   "order": 20,
+   "md5": "0cbcfaa8231393deba08814b950572a6"
   },
   {
    "id": "p0858",
    "src": "이미지/접근통제3.png",
    "type": "cpted",
    "caption": "웃는 얼굴 모양으로 월담을 막는 담장 펜스",
-   "order": 20
+   "order": 20,
+   "md5": "e7818692774511596e123c40050d8530"
   },
   {
    "id": "p0859",
    "src": "이미지/주차장 vertical Guideline.png",
    "type": "sign",
    "caption": "벽면까지 이어 그린 주차 유도선",
-   "order": 30
+   "order": 30,
+   "md5": "275300e622052b5e81b497bde3d07456"
   },
   {
    "id": "p0860",
    "src": "이미지/주차장 디자인 6.jpg",
    "type": "play",
    "caption": "놀이 그래픽을 입힌 파란 아파트 주차장",
-   "order": 10
+   "order": 10,
+   "md5": "319183c073d802d61f5996302660c476"
   },
   {
    "id": "p0861",
    "src": "이미지/주차장 디자인 NSE-Kitakyushu.jpg",
    "type": "walk",
    "caption": "보행 통로와 식재를 넣은 기타큐슈 주차장",
-   "order": 20
+   "order": 20,
+   "md5": "61ba968d3aaf2d7aefed07a92148e163"
   },
   {
    "id": "p0862",
    "src": "이미지/주차장 디자인.jpg",
    "type": "street",
    "caption": "나무 띠로 주차면을 나눈 녹지 주차장",
-   "order": 30
+   "order": 30,
+   "md5": "0991efe9839d96faf2e30c9c1df8fcda"
   },
   {
    "id": "p0863",
    "src": "이미지/주차장 인지라인 전.jpg",
    "type": "exclude",
    "caption": "p0859와 같은 이미지",
-   "order": 30
+   "order": 30,
+   "md5": "e056b6e0ac17db514924984438b1617e"
   },
   {
    "id": "p0864",
    "src": "이미지/주차장 인지라인 후.jpg",
    "type": "exclude",
    "caption": "p0859와 같은 이미지",
-   "order": 30
+   "order": 30,
+   "md5": "af8e6b72d2bc73c073cf5a3ddab53ef1"
   },
   {
    "id": "p0865",
    "src": "이미지/중앙선 디자인.jpg",
    "type": "nudge",
    "caption": "웃는 얼굴과 색선으로 달리기를 응원하는 길",
-   "order": 20
+   "order": 20,
+   "md5": "04fa077493e2ca6c6bda5bba7f19551f"
   },
   {
    "id": "p0866",
    "src": "이미지/지전가 발 받침시설.jpg",
    "type": "bike",
    "caption": "발을 딛고 기다리는 자전거 발 받침대",
-   "order": 20
+   "order": 20,
+   "md5": "a97c3aca52a4258d33a560ac869ba39f"
   },
   {
    "id": "p0867",
    "src": "이미지/지전가 발 받침시설3.jpg",
    "type": "bike",
    "caption": "교차로 신호를 기다리는 자전거 발 받침",
-   "order": 20
+   "order": 20,
+   "md5": "07b07b18af52a7dc86dab8a791cdf766"
   },
   {
    "id": "p0868",
    "src": "이미지/청소노동자 휴식벤치.jpg",
    "type": "inclusive",
    "caption": "청소 노동자가 잠시 쉬어 가는 휴식 벤치",
-   "order": 20
+   "order": 20,
+   "md5": "da98dd3219d411071d90daf5e89ff0b5"
   },
   {
    "id": "p0869",
    "src": "이미지/출구유도-2.jpg",
    "type": "exclude",
    "caption": "p0870과 같은 계단의 다른 컷",
-   "order": 30
+   "order": 30,
+   "md5": "0d0e876a86488fdb17a044594f1b6d5f"
   },
   {
    "id": "p0870",
    "src": "이미지/출구유도-3.jpg",
    "type": "sign",
    "caption": "손잡이를 따라 출구를 알리는 화살표 띠",
-   "order": 20
+   "order": 20,
+   "md5": "9138a91c9e2defcdf9547b94485cdc0e"
   },
   {
    "id": "p0871",
    "src": "이미지/출입구 조심.jpg",
    "type": "color",
    "caption": "노란 빗금으로 문 열림 범위를 알린 바닥",
-   "order": 20
+   "order": 20,
+   "md5": "d130d7525b237acb7ae4627868343343"
   },
   {
    "id": "p0872",
    "src": "이미지/충돌 인지.png",
    "type": "color",
    "caption": "문 열림 구역을 알리는 바닥 충돌 주의 표시",
-   "order": 20
+   "order": 20,
+   "md5": "3881610cbe82cdd193948f3f98f021a1"
   },
   {
    "id": "p0873",
    "src": "이미지/칼라 휀스.png",
    "type": "color",
    "caption": "노랑, 파랑으로 칠해 눈에 띄는 가드레일",
-   "order": 20
+   "order": 20,
+   "md5": "5c1fe81fab2a1cef13a1ecf54879b807"
   },
   {
    "id": "p0874",
    "src": "이미지/클린 카펫.jpg",
    "type": "nudge",
    "caption": "바닥을 칠해 무단투기를 줄이는 클린 카펫",
-   "order": 20
+   "order": 20,
+   "md5": "9aa42f10ab3bfaee327e9fd1c7aff350"
   },
   {
    "id": "p0875",
    "src": "이미지/탈출유도-1.jpg",
    "type": "sign",
    "caption": "난간 손잡이에 붙인 비상 탈출 유도 띠",
-   "order": 30
+   "order": 30,
+   "md5": "322a24710e288f69fef38b7bbd95de32"
   },
   {
    "id": "p0876",
    "src": "이미지/투명 멜레베이터.png",
    "type": "inclusive",
    "caption": "경사지를 오르내리는 투명 엘리베이터",
-   "order": 20
+   "order": 20,
+   "md5": "fb6bf6060da1784d6cc4f5dd5634ee8a"
   },
   {
    "id": "p0877",
    "src": "이미지/투명 수평 난간.png",
    "type": "furniture",
    "caption": "시야가 트인 수평 난간을 단 보행 육교",
-   "order": 30
+   "order": 30,
+   "md5": "99ebf8c056ef8a1954804e2696a2f511"
   },
   {
    "id": "p0878",
    "src": "이미지/파장동 2.png",
    "type": "walk",
    "caption": "비탈 골목 끝에 원형 패턴을 입힌 교차로",
-   "order": 20
+   "order": 20,
+   "md5": "6ffb61ffd0afda9216165a608fb38252"
   },
   {
    "id": "p0879",
    "src": "이미지/파장동 3-2.png",
    "type": "walk",
    "caption": "옹벽을 따라 계단 쉼터를 둔 보행로",
-   "order": 20
+   "order": 20,
+   "md5": "9f56e5f521cfd0ae8c1825aa4bdb3786"
   },
   {
    "id": "p0880",
    "src": "이미지/파장동 3.png",
    "type": "walk",
    "caption": "안전하길 사인과 경사로를 둔 골목 보행로",
-   "order": 20
+   "order": 20,
+   "md5": "a603e6565553d38dc9651b70145e63bf"
   },
   {
    "id": "p0881",
    "src": "이미지/파장동 4 after.png",
    "type": "walk",
    "caption": "원형 패턴을 입힌 파장동 교차로 정비 후",
-   "order": 10
+   "order": 10,
+   "md5": "797ed54f9df2b6e985e8465977313930"
   },
   {
    "id": "p0882",
    "src": "이미지/파장동 4 before.png",
    "type": "walk",
    "caption": "정비 전 파장동 골목 교차로",
-   "order": 30
+   "order": 30,
+   "md5": "d9859f17c1549e1f6d3df1858b0715e8"
   },
   {
    "id": "p0883",
    "src": "이미지/파장동 이미지.jpg",
    "type": "play",
    "caption": "파장동 계단 쉼터에 걸터앉은 학생들",
-   "order": 20
+   "order": 20,
+   "md5": "4e4c3c269b393e3270ed1eaa7f6e1c5b"
   },
   {
    "id": "p0884",
    "src": "이미지/프레임워크.jpg",
    "type": "exclude",
    "caption": "웹페이지 스크린샷",
-   "order": 30
+   "order": 30,
+   "md5": "0faaee372aa3ee6579528a7973c7840e"
   },
   {
    "id": "p0885",
    "src": "이미지/하이힐 배려 디자인.jpg",
    "type": "inclusive",
    "caption": "하이힐 굽이 빠지지 않게 한 배수 덮개",
-   "order": 20
+   "order": 20,
+   "md5": "5f9e2cb4e102948feb478c63e10ccacf"
   },
   {
    "id": "p0886",
    "src": "이미지/해변 편탄길 사례 휄체어.png",
    "type": "inclusive",
    "caption": "휠체어로 해변까지 가는 매트 길",
-   "order": 10
+   "order": 10,
+   "md5": "f497609608fab862e7cf45d06ec4a871"
   },
   {
    "id": "p0887",
    "src": "이미지/행동유도2.JPG",
    "type": "nudge",
    "caption": "점 표시를 따라 걷게 하는 바닥 유도",
-   "order": 30
+   "order": 30,
+   "md5": "4ca3d5a5f1275efcf6c780b738a7da9b"
   }
  ],
  "projects": [
@@ -5984,27 +6800,33 @@
    "images": [
     {
      "id": "p0150",
-     "src": "시범사업/서울시/가족의 거실/사진/면회공간_내부4.jpg"
+     "src": "시범사업/서울시/가족의 거실/사진/면회공간_내부4.jpg",
+     "md5": "aa691971363a4a176ef7984d123f1dbc"
     },
     {
      "id": "p0151",
-     "src": "시범사업/서울시/가족의 거실/사진/면회공간_외부3.jpg"
+     "src": "시범사업/서울시/가족의 거실/사진/면회공간_외부3.jpg",
+     "md5": "2038bc2ccc4b13da7f24d5c651e0dcb0"
     },
     {
      "id": "p0149",
-     "src": "시범사업/서울시/가족의 거실/사진/개인기도.jpg"
+     "src": "시범사업/서울시/가족의 거실/사진/개인기도.jpg",
+     "md5": "b1880141132d075df7269d974fecfd8c"
     },
     {
      "id": "p0152",
-     "src": "시범사업/서울시/가족의 거실/사진/안심 방역글로브.jpg"
+     "src": "시범사업/서울시/가족의 거실/사진/안심 방역글로브.jpg",
+     "md5": "7c025098f8d9bf6c8cf1c32a21fa3844"
     },
     {
      "id": "p0153",
-     "src": "시범사업/서울시/가족의 거실/사진/영상보는사진.jpg"
+     "src": "시범사업/서울시/가족의 거실/사진/영상보는사진.jpg",
+     "md5": "271e11a05e58af909e2e6d2967896961"
     },
     {
      "id": "p0154",
-     "src": "시범사업/서울시/가족의 거실/사진/즉석 사진촬영.jpg"
+     "src": "시범사업/서울시/가족의 거실/사진/즉석 사진촬영.jpg",
+     "md5": "02012c72177e9d176d2100aa837df52b"
     },
     {
      "id": "family-living-room-03",
@@ -6076,59 +6898,73 @@
    "images": [
     {
      "id": "p0200",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터신청사 전경.jpg"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터신청사 전경.jpg",
+     "md5": "92e6e2e88d6926d1df30aafd564d2870"
     },
     {
      "id": "p0178",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 10.jpg"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 10.jpg",
+     "md5": "0e174329844eba9c709f16e362b92fc6"
     },
     {
      "id": "p0179",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 11.jpg"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 11.jpg",
+     "md5": "2350a5757c4f0120404d9f9ac54ef929"
     },
     {
      "id": "p0180",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 12.jpg"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 12.jpg",
+     "md5": "da1b6ce5a98af0f859f6537585032a62"
     },
     {
      "id": "p0181",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 13.jpg"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 13.jpg",
+     "md5": "b6d8e9bd4378f455f3d20f8c9d461783"
     },
     {
      "id": "p0182",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 14.jpg"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 14.jpg",
+     "md5": "f1f6e6c36da180be1aa4512903b2128a"
     },
     {
      "id": "p0187",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 19.jpg"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 19.jpg",
+     "md5": "d1bc6ce6c5004e66da58df002b74961e"
     },
     {
      "id": "p0188",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 2.JPG"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 2.JPG",
+     "md5": "e1eb5c54991c74a34291bc8eddc64d2c"
     },
     {
      "id": "p0189",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 20.jpg"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 20.jpg",
+     "md5": "4a35e74fd7b8614d13fb6ac518605c58"
     },
     {
      "id": "p0191",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 4.JPG"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 4.JPG",
+     "md5": "eea19ac28ed3ad5a1718abb9fa3c87e9"
     },
     {
      "id": "p0197",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 입구.JPG"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 입구.JPG",
+     "md5": "e7fb4feeedbc917aae8c0f9edc3e379e"
     },
     {
      "id": "p0198",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 전경 2.JPG"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 전경 2.JPG",
+     "md5": "65596a91d3fb9e8534e1e3dcf0cabc35"
     },
     {
      "id": "p0183",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 15.jpg"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 15.jpg",
+     "md5": "c665ef8694d1ab0098fae27ca20849af"
     },
     {
      "id": "p0184",
-     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 16.jpg"
+     "src": "시범사업/추천_수원인권청사/지동청사.zip::지동행정복지센터 16.jpg",
+     "md5": "d05c6969f46bc80e495455ab580da451"
     }
    ]
   },
@@ -6146,51 +6982,63 @@
    "images": [
     {
      "id": "p0785",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0337.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0337.JPG",
+     "md5": "baa1ab61e178f463d547b930844d85b9"
     },
     {
      "id": "p0796",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0355.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0355.JPG",
+     "md5": "65b5ca6d661b7029165c1b8671139110"
     },
     {
      "id": "p0787",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0341.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0341.JPG",
+     "md5": "d09fb203b0f38f72b74b58083c46779f"
     },
     {
      "id": "p0788",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0342.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0342.JPG",
+     "md5": "7281ae0a000a1585ee2d3996fa8bd303"
     },
     {
      "id": "p0789",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0343.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0343.JPG",
+     "md5": "74e4ba1851b98e6dd5897078532079b8"
     },
     {
      "id": "p0795",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0352.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0352.JPG",
+     "md5": "e9a3d838af51ca0668258f8dc18b70f2"
     },
     {
      "id": "p0797",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0357.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0357.JPG",
+     "md5": "5c058e210546f7ad3bc5f652c10f1c96"
     },
     {
      "id": "p0799",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0359.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0359.JPG",
+     "md5": "dc7d3f2d31e5f9a167e4ef9a2f27d3a9"
     },
     {
      "id": "p0802",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0362.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0362.JPG",
+     "md5": "068233af94f43fcbf891531124e8537d"
     },
     {
      "id": "p0803",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0363.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0363.JPG",
+     "md5": "284d2c9e12e2815d800665adccdf35c7"
     },
     {
      "id": "p0794",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0351.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0351.JPG",
+     "md5": "ab7b1be5c531bce1161551490a2aeeec"
     },
     {
      "id": "p0798",
-     "src": "이미지/성남TG/성남드론.zip::DJI_0358.JPG"
+     "src": "이미지/성남TG/성남드론.zip::DJI_0358.JPG",
+     "md5": "8ffc2b477348b0170518206e8a311172"
     }
    ]
   },
@@ -6208,59 +7056,73 @@
    "images": [
     {
      "id": "p0159",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_1751.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_1751.jpg",
+     "md5": "58b781f69912d83b639698f8c5f4dc49"
     },
     {
      "id": "p0155",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/1639023070796-18.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/1639023070796-18.jpg",
+     "md5": "46b614b6520164c01780df30e9d5fbe7"
     },
     {
      "id": "p0156",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/1639023189441-15.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/1639023189441-15.jpg",
+     "md5": "f8c625eff1f34af2789c3210f0fb5a11"
     },
     {
      "id": "p0157",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/1639355830733-13.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/1639355830733-13.jpg",
+     "md5": "271ee9a72d8612924a9e7a55afc93f4f"
     },
     {
      "id": "p0158",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_1744-1.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_1744-1.jpg",
+     "md5": "f8143a784b659b10b3af4c8132d12db0"
     },
     {
      "id": "p0160",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_1890.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_1890.jpg",
+     "md5": "27ce4c07a888c9736667b821c366a175"
     },
     {
      "id": "p0161",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_1931.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_1931.jpg",
+     "md5": "e24a82dafa60b535d0ab37bcb3e664e8"
     },
     {
      "id": "p0162",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_2007.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_2007.jpg",
+     "md5": "855d4cb1ef35c54368f51c28f3760dd2"
     },
     {
      "id": "p0163",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_2142-1.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_2142-1.jpg",
+     "md5": "65c942b666fd0dfeef7414bedccb02dc"
     },
     {
      "id": "p0164",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_2459-1.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_2459-1.jpg",
+     "md5": "eb5014498a3985437ea4758caad1f6ba"
     },
     {
      "id": "p0165",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_2647.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_2647.jpg",
+     "md5": "c561828c47aa369917c96b86d8395ecb"
     },
     {
      "id": "p0166",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_3028.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_3028.jpg",
+     "md5": "641b74df4139533ab3a6c5717826fd36"
     },
     {
      "id": "p0167",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_5472.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_5472.jpg",
+     "md5": "8ae259cd9f669878a4b68cb762ef19ad"
     },
     {
      "id": "p0168",
-     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_5487-1.jpg"
+     "src": "시범사업/서울시/스트레스해소 디자인 사진/HJ5_5487-1.jpg",
+     "md5": "a6bf1833865d6b50210e1e50dabe1d18"
     }
    ]
   },
@@ -6278,39 +7140,48 @@
    "images": [
     {
      "id": "p0171",
-     "src": "시범사업/추천_ 수원시 111cm/사진.zip::대유평공원,대유평문화제조창111CM_p5.jpg"
+     "src": "시범사업/추천_ 수원시 111cm/사진.zip::대유평공원,대유평문화제조창111CM_p5.jpg",
+     "md5": "becf3946ad92aa3c1de428de3059c08c"
     },
     {
      "id": "p0169",
-     "src": "시범사업/추천_ 수원시 111cm/사진.zip::대유평공원,대유평문화제조창111CM_p11.jpg"
+     "src": "시범사업/추천_ 수원시 111cm/사진.zip::대유평공원,대유평문화제조창111CM_p11.jpg",
+     "md5": "e2f588736dfb5c04dd62aae0aebc0e19"
     },
     {
      "id": "p0172",
-     "src": "시범사업/추천_ 수원시 111cm/사진.zip::대유평공원,대유평문화제조창111CM_p6.jpg"
+     "src": "시범사업/추천_ 수원시 111cm/사진.zip::대유평공원,대유평문화제조창111CM_p6.jpg",
+     "md5": "731ebf11fa6994344ed2a685b9f3c3f4"
     },
     {
      "id": "p0173",
-     "src": "시범사업/추천_ 수원시 111cm/사진.zip::수원시복합문화공간대유평문화제조창111CM개관식_p1.jpg"
+     "src": "시범사업/추천_ 수원시 111cm/사진.zip::수원시복합문화공간대유평문화제조창111CM개관식_p1.jpg",
+     "md5": "c7de9569f93f7276ea83386113c1a459"
     },
     {
      "id": "p0174",
-     "src": "시범사업/추천_ 수원시 111cm/사진.zip::수원시복합문화공간대유평문화제조창111CM개관식_p2.jpg"
+     "src": "시범사업/추천_ 수원시 111cm/사진.zip::수원시복합문화공간대유평문화제조창111CM개관식_p2.jpg",
+     "md5": "5c507266def2faaca1f9449746c0ded4"
     },
     {
      "id": "p0175",
-     "src": "시범사업/추천_ 수원시 111cm/사진.zip::수원시복합문화공간대유평문화제조창111CM개관식_p3.jpg"
+     "src": "시범사업/추천_ 수원시 111cm/사진.zip::수원시복합문화공간대유평문화제조창111CM개관식_p3.jpg",
+     "md5": "c8eb0ce37ef807b96c255164ad2a689f"
     },
     {
      "id": "p0177",
-     "src": "시범사업/추천_ 수원시 111cm/사진.zip::수원시복합문화공간대유평문화제조창111CM창의예술실험실.jpg"
+     "src": "시범사업/추천_ 수원시 111cm/사진.zip::수원시복합문화공간대유평문화제조창111CM창의예술실험실.jpg",
+     "md5": "338095620ef3a7c12375ab46cb5e73a0"
     },
     {
      "id": "p0170",
-     "src": "시범사업/추천_ 수원시 111cm/사진.zip::대유평공원,대유평문화제조창111CM_p12.jpg"
+     "src": "시범사업/추천_ 수원시 111cm/사진.zip::대유평공원,대유평문화제조창111CM_p12.jpg",
+     "md5": "9b09acf08d4d79903c1f89653c88e296"
     },
     {
      "id": "p0176",
-     "src": "시범사업/추천_ 수원시 111cm/사진.zip::수원시복합문화공간대유평문화제조창111CM내부.jpg"
+     "src": "시범사업/추천_ 수원시 111cm/사진.zip::수원시복합문화공간대유평문화제조창111CM내부.jpg",
+     "md5": "e0c4e25848bc344a331a8e68838d1d6f"
     }
    ]
   },
@@ -6478,5 +7349,23 @@
    "t": "우수 공공디자인 사업 추천서",
    "s": "서울시, 강남구, 수원시, 한국도로공사"
   }
+ ],
+ "seen_md5": [
+  "037a3646fb2b5b96316746ae3d093408",
+  "08a209fea74423bb88dbdcac4b8c1e51",
+  "093688b07f8cbe8daba3d66af52b79f1",
+  "147f8130c6909c8f2759f6564d98f104",
+  "346a77eff34d03166a2dccb1bceb2743",
+  "5713c72388f7f9ef0cd4ff5bbff6596b",
+  "9954fec00fc96bd4da607b7399db9cdc",
+  "9ecf3cd220f7b003398a50ed8ae137b7",
+  "ae1af68e1e07872e578251e91bfb3c66",
+  "b3e8e1644537f6e3198883ec60c792a3",
+  "b6b80c6d2f9e66587c9bf09d6771460c",
+  "c03ce9fd92af01012b9000047075ef2d",
+  "d0d2a5252125ca1b00e7acb008d68ff4",
+  "e3da74893365d33fd0c9dfef7c5e99bb",
+  "f6ab9dc91129123ecb598ca62f25dee2",
+  "fdbc5af96c901b8a83a66f8d28447d6c"
  ]
 }

@@ -11,7 +11,9 @@
   const FIRST = 30, STEP = 40;
 
   /* 상단 내비게이션 */
-  const navItems = A.types.map(t => [t.key, t.ko]).concat([['projects', '사업'], ['references', '참고 자료']]);
+  const hasRecent = (A.recent || []).length > 0;
+  const navItems = (hasRecent ? [['recent', '최근 추가']] : [])
+    .concat(A.types.map(t => [t.key, t.ko]), [['projects', '사업'], ['references', '참고 자료']]);
   $('#nav').innerHTML = navItems.map(([k, n]) => `<a href="#${k}" data-k="${k}"><span class="sq"></span>${esc(n)}</a>`).join('');
 
   /* 한 줄 통계: 같은 크기, 같은 굵기, 흐린 I 구분 */
@@ -59,8 +61,26 @@
   $('#strip').innerHTML = stripList.map((p, i) => `<img src="${thumb(p.id)}" alt="${esc(p.c)}" data-i="${i}" loading="lazy">`).join('');
   $('#strip').addEventListener('click', e => { const i = e.target.dataset.i; if (i !== undefined) open(stripList, +i); });
 
-  /* 유형 섹션 */
+  /* 최근 추가: tools/inbox.py 로 새로 더한 사진 */
   const galleries = [];
+  const recentList = (A.recent || []).map(id => byId[id]).filter(Boolean);
+  if (recentList.length) {
+    $('#recentWrap').innerHTML = `
+    <section class="type" id="recent">
+      <div class="type-head">
+        <div><h2>최근 추가<span class="en">Recently Added</span></h2></div>
+        <div>
+          <p class="copy">새로 기록한 장면입니다.</p>
+          <p class="desc">현장에서 찍어 온 사진을 유형별로 정리해 더했습니다. 각 사진은 아래 유형에도 함께 들어 있습니다.</p>
+          <p class="count">마지막 업데이트 ${esc(A.updated.replace(/-/g, '.'))}${SEP}사진 ${num(recentList.length, '장')}</p>
+        </div>
+      </div>
+      <div class="gallery" data-k="recent"></div>
+    </section>`;
+    addGallery('recent', recentList, recentList.length);
+  }
+
+  /* 유형 섹션 */
   $('#typesWrap').innerHTML = A.types.map(t => `
     <section class="type" id="${t.key}">
       <div class="type-head">
@@ -75,14 +95,14 @@
       ${t.photos.length > FIRST ? `<button class="more" data-k="${t.key}">사진 더 보기</button>` : ''}
     </section>`).join('');
 
-  A.types.forEach(t => {
-    const el = $(`.gallery[data-k="${t.key}"]`);
-    const items = t.photos.map(p => byId[p[0]]);
-    const g = { el, items, shown: Math.min(FIRST, items.length) };
+  A.types.forEach(t => addGallery(t.key, t.photos.map(p => byId[p[0]]), FIRST));
+  function addGallery(key, items, first) {
+    const el = $(`.gallery[data-k="${key}"]`);
+    const g = { el, items, shown: Math.min(first, items.length) };
     galleries.push(g);
     el.addEventListener('click', e => { const f = e.target.closest('figure'); if (f) open(items, +f.dataset.i); });
     render(g);
-  });
+  }
   document.querySelectorAll('.more').forEach(b => b.addEventListener('click', () => {
     const g = galleries.find(x => x.el.dataset.k === b.dataset.k);
     g.shown = Math.min(g.items.length, g.shown + STEP);
