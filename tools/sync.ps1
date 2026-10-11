@@ -1,4 +1,4 @@
-# 윈도우에서 실행: 최신 내용 받기 -> 내 변경 올리기
+﻿# 윈도우에서 실행: 최신 내용 받기 -> 내 변경 올리기
 # 사용: powershell -ExecutionPolicy Bypass -File tools\sync.ps1 "메모(선택)"
 param([string]$msg = "update")
 Set-Location (Split-Path $PSScriptRoot -Parent)
